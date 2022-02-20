@@ -1,0 +1,14 @@
+{% for op in order_placed %}
+{{op.product.testname}}
+<br>
+{{op.product.testcode}}
+<br>
+{{op.product.price}}
+<br>
+{{op.status}}
+<br>
+<br>
+{{op.total_cost}}
+<br>
+<br>
+{% endfor %}

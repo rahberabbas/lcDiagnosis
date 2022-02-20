@@ -1,0 +1,99 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block body %}
+    <!-- home section -->
+    <section class="home">
+        <div class="slide-container active">
+            <div class="slide">
+                <div class="image">
+                    <img src="{% static 'images/full.png' %}" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="slide-container">
+            <div class="slide">
+                <div class="image">
+                    <img src="{% static 'images/full.png' %}" alt="">
+                </div>
+            </div>
+        </div>
+        <div class="slide-container">
+            <div class="slide">
+                <div class="image">
+                    <img src="{% static 'images/full.png' %}" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="slide-container">
+            <div class="slide">
+                <div class="image">
+                    <img src="{% static 'images/full.png' %}" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div id="prev" class="fas fa-chevron-left" onclick="prev()"></div>
+        <div id="next" class="fas fa-chevron-right" onclick="next()"></div>
+    </section>
+
+    <section id="" class="short">
+        <div class="box-cont">
+            <h1>Labcore Diagnosis: India’s Leading Online Pharmacy & Healthcare Platform</h1>
+        </div>
+    </section>
+
+    <section class="member-section">
+        <div class="member-container">
+            <h1>Take membership and get 10% off on all test.</h1>
+            <p>Labcore Diagnosis uses Secure Sockets Layer (SSL) 128-bit encryption and is Payment Card Industry Data Security Standard (PCI DSS) compliant. Then What are you waiting for , get a chance to save upto 10% on all Test.</p>
+            <a href="" class="btn">Get Membership</a>
+        </div>
+    </section>
+
+    <section class="hello-there">
+        <div class="there">
+            <h1>Hello There</h1>
+            <p>Always caring about your health, we are here to help you!</p>
+            <p>Guaranteed savings over promotional offers. Extra 10% off on all prescription medicines. </p>
+            <p>Get exclusive deals on all our categories when you shop during our sale days.</p>
+            <p>Keep a digital record of your weight and blood sugar readings over a period of time</p>
+            <p>Members of the Care Plan receive priority processing of their orders. We prioritize your orders by pushing your prescriptions to the front of the line for validation as a premium member.</p>
+            <p>Members will have access to our customer support experts. We are committed to providing you with prompt assistance and resolving your issue. Our priority is to answer your questions.</p>
+            <p>Book appointment or book lab test immediately</p>
+        </div>
+        <div class="butns">
+            <a href="{% url 'contact' %}" class="btn"> <i class="fas fa-user-md"></i> Book Apointment</a>
+            <a href="{% url 'products' %}" class="btn"> <i class="fas fa-syringe"></i> Book Lab Test</a>
+        </div>
+    </section>
+
+    <section class="home-covid-section">
+        <div class="home-covid-container">
+            <div class="home-covid-heading">
+                <h1>For COVID-19 Vaccination related queries</h1>
+            </div>
+            <div class="home-covid-buttons">
+                <a href="" class="btn-covid"> <i class="fas fa-comments"></i> FAQs & Articles</a>
+                <a href="" class="btn-covid"> <i class="fas fa-phone-volume"></i> Vaccination Quaries</a>
+                <a href="" class="btn-covid"> <i class="fas fa-sms"></i> Chat with us</a>
+                <a href="" class="btn-covid"> <i class="fas fa-viruses"></i> Cowin Registration</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="home-about-section">
+        <div class="home-about-container">
+            <h1>Labcore Diagnosis - Your Most Trusted Healthcare Brand</h1>
+            <p>Labcore Diagnosis, a state-of-the-art super-specialty hospital, is a premium model of healthcare extending medical services at par with excellence. Equipped with modern facilities, innovative technological equipment, and a driven spirit to promote community well-being, the hospital is a preferred destination for healthcare nationally.
+                The Labcore diagnosis offers a broad spectrum of medical services from tertiary care in supers-specialties, general specialties, advanced diagnostics & radiology services to critical care. The hospital's highly qualified and experienced medical professionals offer best-in-class expert care to the patients round-the-clock.
+                The Lbacore Diagnosis aspires to reach the new benchmark of success through its dedicated ambition of providing quality healthcare and serving the community. The Group believes in compassionate life values and continuously serves humanity.
+                The hospital endeavors to nurture a strong and healthy community that is physically and mentally beaming through innovation, research activities, extensive training, and continuous up-gradation of medical and healthcare facilities and practices. It is committed to upgrading the level and standard of medical facilities to all sections of society.
+                Labcore Diagnosis believes a great culture is an important ingredient for a startup’s success. Our culture encourages radical candor, collaboration, and a flat hierarchy. Below are our core values that encapsulate our culture.</p>
+        </div>
+    </section>
+
+    {% endblock %}
+
+   

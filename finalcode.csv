@@ -1,0 +1,2845 @@
+sid,testname,testcode,price
+20,"Acetone, Serum",LDA10097,970
+21,Acetylcholine Receptor Auto antibodies,LDA10242,6500
+22,Achondroplasia (FGFR3) gene analysis,LDA10400,36000
+23,"Acid PhoLDAhatase, Total",LDA10071,350
+24,Activated Partial Thromboplastin Time - APTT/ PTTK),LDA10003,500
+25,Activated Protein C - Resistance - APCR,LDA10100,5550
+26,Acute Leukaemia -Basic lineage (Flowcytometry),LDA10066,6650
+27,Acute Leukaemia Comprehensive & Karyotype,LDA10003,13000
+28,Acute Leukaemia Comprehensive Diagnosis -20 (Flowcytometry) or ALCD-20,LDA10065,9900
+29,Acute Leukaemia Comprehensive reflex Panel (AML or ALL)- Panel 1,LDA10037,19800
+30,Acute Leukaemia Comprehensive reflex Panel (AML or ALL)-Panel2,LDA10038,25300
+31,Acute Leukaemia Comprehensive reflex-ALL or AML Panel -3,LDA10135,19000
+32,Acute Leukaemia-MRD Panel (Flowcytometry),LDA10075,11500
+33,Acute Lymphoblastic Leukaemia Translocation Panel,LDA10028,6650
+34,"Adeno deaminase - ADA, Fluid",LDA10143,600
+35,"Adeno deaminase - ADA, PlaLDAa",LDA10098,600
+36,"Adeno deaminase - ADA, Serum",LDA10099,600
+37,"Adeno Virus, IGG antibody",LDA10369,1950
+38,"Adeno Virus, IGM antibody",LDA10370,1950
+39,Adenocarcinoma Vs. Mesothelioma (IHC Marker),LDA10061,4000
+40,Adenomatous polyposis of the colon (APC) -gene mutation,LDA10225,28000
+41,Adenovirus Antibody,LDA10443,7060
+42,Adreno  Cortico tropic Hormone - ACTH,LDA10066,1920
+43,Adreno  Cortico tropic Hormone Stimulation Test For Cortisol (ACTH Stimulation Test For Cortisol),LDA10080,1920
+44,Adult Diffuse Glioma Low Grade (II & III) Panel,LDA10140,15500
+45,Advanced Fitness Health Package,LDA10257,4000
+46,AFB Culture Rapid - ALDAirates,LDAI10184,1000
+47,AFB Culture Rapid - BAL,LDAI10186,1000
+48,AFB Culture Rapid - Blood,LDAI10193,1000
+49,AFB Culture Rapid - Bone Marrow,LDAI10194,1000
+50,AFB Culture Rapid - Bronchial Washings,LDAI10187,1000
+51,AFB Culture Rapid - CLDA,LDAI10195,1000
+52,AFB Culture Rapid - Endometrial Curetting's,LDAI10190,1000
+53,AFB Culture Rapid - Gastric Lavage,LDAI10189,1000
+54,AFB Culture Rapid - Laryngeal swab,LDAI10188,1000
+55,AFB Culture Rapid - Miscellaneous,LDAI10198,1000
+56,AFB Culture Rapid - Ocular Fluid,LDAI10183,1000
+57,AFB Culture Rapid - Pericardial Fluid,LDAI10181,1000
+58,AFB Culture Rapid - Pleural Fluid,LDAI10179,1000
+59,AFB Culture Rapid - Pus,LDAI10178,1000
+60,AFB Culture Rapid - Semen,LDAI10185,1000
+61,AFB Culture Rapid - LDAutum,LDAI10196,1000
+62,AFB Culture Rapid - Stool,LDAI10199,1000
+63,AFB Culture Rapid - Swab,LDAI10192,1000
+64,AFB Culture Rapid - Synovial Fluid,LDAI10182,1000
+65,AFB Culture Rapid - Tissues,LDAI10191,1000
+66,AFB Culture Rapid - Urine,LDAI10197,1000
+67,AFB LDAeciation,LDA10375,5000
+68,AFB Stain - Ascitic Fluid,LDAI10219,400
+69,AFB Stain - Bone Marrow,LDAI10226,400
+70,AFB Stain - Bronchial Lavage,LDAI10225,400
+71,AFB Stain - Bronchial Secretions,LDAI10216,400
+72,AFB Stain - CLDA,LDAI10218,400
+73,AFB Stain - Endometrium,LDAI10232,400
+74,AFB Stain - ET secretion,LDAI10230,400
+75,AFB Stain - Gastric aLDAirate,LDAI10231,400
+76,AFB Stain - Miscellaneous,LDAI10227,400
+77,AFB Stain - Nasal LDAear,LDAI10224,400
+78,AFB Stain - Pericardial Fluid,LDAI10221,400
+79,AFB Stain - Pleural Fluid,LDAI10220,400
+80,AFB Stain - Pus,LDAI10215,400
+81,AFB Stain - LDAutum,LDAI10214,400
+82,AFB Stain - Swab,LDAI10223,400
+83,AFB Stain - Synovial Fluid,LDAI10222,400
+84,AFB Stain - Throat Swab,LDAI10229,400
+85,AFB Stain - Tissue,LDAI10228,400
+86,AFB Stain - Urine,LDAI10217,400
+87,AFB Susceptibility - 10 Drug (5 drugs of 1st line and 5 drugs of 2nd line),LDAI10177,9700
+88,AFB Susceptibility - 5 Drugs (1st Line Only),LDAI10176,5450
+89,AFB Susceptibility - Amikacin,LDAI10209,2500
+90,AFB Susceptibility - Capreomycin,LDAI10207,2500
+91,AFB Susceptibility - Ciprofloxacin,LDAI10212,2500
+92,AFB Susceptibility - Clofazimine,LDAI10205,2500
+93,AFB Susceptibility - Cyclomerize,LDAI10210,2500
+94,AFB Susceptibility - Ethambutol,LDAI10203,2500
+95,AFB Susceptibility - Ethionamide,LDAI10206,2500
+96,AFB Susceptibility - Isoniazid,LDAI10201,2500
+97,AFB Susceptibility - Kanamycin,LDAI10208,2500
+98,AFB Susceptibility - Ofloxacin,LDAI10211,2500
+99,AFB Susceptibility - PAS,LDAI10213,2500
+100,AFB Susceptibility - Pyrazinamide,LDAI10204,3850
+101,AFB Susceptibility - Rifampicin,LDAI10202,2500
+102,AFB Susceptibility - Streptomycin,LDAI10200,2500
+103,AFB-MOTT antibiogram panel for slow growers (up to 10 drugs),LDAI10234,12000
+104,AFP (IHC Marker),LDA10037,1650
+105,AFP (Tumour Marker),LDA10403,660
+106,Albumin,LDA10040,100
+107,"Albumin, Fluid",LDA10119,100
+108,Albumin: Globulin Ratio - A:G Ratio,LDA10007,160
+109,Alcohol Screen,LDA10110,970
+110,"Alcohol Screen, Random Urine",LDA10076,1530
+111,ALCP Flow & Mol. ALL Panel,LDA10214,15100
+112,ALCP Flow & Mol. AML Panel,LDA10221,16500
+113,Aldolase,LDA10079,970
+114,"Aldosterone,  Serum",LDA10076,2400
+115,"Aldosterone, 24 Hrs. Urine",LDA10023,2090
+116,ALK -1  (IHC Marker),LDA10049,1650
+117,ALK by FISH,LDAI10010,10900
+118,ALK D5F3,LDA10107,8800
+119,"Alk/NPM1;t(2;5) Anaplastic Large Cell Lymphoma, Bone marrow by
+FISH",LDAI10054,5600
+120,"Alk/NPM1;t(2;5) Anaplastic Large Cell Lymphoma, Tissue / FFPE by
+FISH",LDAI10055,11500
+121,Alkaline PhoLDAhatase - ALP,LDA10045,120
+122,"Alkaptonuria, Random Urine",LDA10069,1000
+123,ALL Characterization & Karyotype Combo,LDA10008,12600
+124,ALL Characterization Panel (Flowcytometry),LDA10068,9100
+125,ALL MULTIPLEX + KARYOTYPING,LDA10086,9350
+126,ALL Panel by FISH (3 translocations),LDA10102,9900
+127,Allergy Food (Vegetarian),LDA10478,2500
+128,"Allergy panel-7 Drugs  (Ampicillin, Amoxicillin, CephaloLDAorin mix., Penicilloyl V, Penicilloyl G,)",LDA10475,5750
+129,"Allergy panel-food, inhalants,
+contacts",LDA10505,11000
+130,Allergy screening Tryptase,LDA10477,2800
+131,"Alpha Feto Protein - AFP, Amniotic
+Fluid",LDA10117,920
+132,"Alpha Feto Protein - AFP, Maternal",LDA10108,730
+133,"Alpha Feto Protein (AFP), Fluid",LDA10487,1300
+134,Alpha N-AcetylGalactosaminidase (Schindler disease),LDA10496,7000
+135,Alpha Thalassemia Mutation,LDA10120,4300
+136,Alpha Thalassemia/ Alpha gene triplication copy number variations,LDA10351,11520
+137,"Alpha-1 Anti Trypsin - AAT,
+Quantitative",LDA10105,2900
+138,"Alpha-1-Antitrypsin Clearance, Faeces and Serum",LDA10209,35000
+139,Alpha-2 Macroglobulin,LDA10100,6350
+140,Alport syndrome gene panel,LDA10311,48000
+141,"ALT (Alanine Amino-tranLDAerase),
+SGPT",LDA10044,150
+142,"Aluminium, Dialysis Fluid",LDA10152,2660
+143,"Aluminium, PlaLDAa",LDA10148,2660
+144,"Aluminium, Serum",LDA10144,2660
+145,AMACR (IHC Marker),LDA10096,1650
+146,Amenorrhoea AssesLDAent Profile,LDA10014,1600
+147,"AMH -  Anti Mullerian Hormone, MULLERIAN INHIBITING SUBSTANCE
+(MIS), Serum",LDA10118,1800
+148,Amino Acid (1Dimensional) - Urine,LDA10055,1580
+149,Amino Acid (2 Dimensional) - Urine,LDA10056,1820
+150,Amino Acid (Qualitative),LDA10101,1580
+151,"Amino Acid (Qualitative), CLDA",LDA10112,1450
+152,AML Characterization & Karyotyping Combo,LDA10006,12000
+153,AML Characterization and Comprehensive Molecular panel,LDA10230,21500
+154,AML Characterization Panel (Flowcytometry),LDA10067,9300
+155,AML Comboquest I,LDA10009,4850
+156,AML Comboquest II,LDA10010,5200
+157,AML Comboquest III,LDA10011,7850
+158,AML Comboquest IV,LDA10024,5750
+159,AML Comboquest IX,LDA10216,13200
+160,AML Comboquest V,LDA10023,8450
+161,AML Comboquest VI,LDA10031,9200
+162,AML Comboquest VII,LDA10032,11950
+163,AML Comboquest VIII,LDA10215,6750
+164,AML Comboquest X,LDA10465,13000
+165,AML Flow & Mol. Panel,LDA10220,15000
+166,AML Panel by FISH,LDA10128,10000
+167,AML1/ETO - FISH,LDAI10004,4500
+168,AML1/ETO Qualitative RT PCR,LDA10009,4250
+169,"Ammonia, Whole Blood",LDA10064,920
+170,"Amoebic Serology, (Amoebiasis
+antibodies - IgG), Serum",LDA10174,1100
+171,"Amphetamines Screen, Urine",LDA10006,740
+172,Amylase,LDA10068,500
+173,"Amylase, Body Fluids",LDA10144,500
+174,"Amylase, Random  Urine",LDA10058,500
+175,ANA IFA reflex ANA blot 15,LDA10464,2950
+176,"ANA IFA, in dilutions",LDA10457,3000
+177,"ANA, ELISA",LDA10301,650
+178,"ANA, IFA",LDA10187,1320
+179,Anaemia AssesLDAent Profile,LDA10177,2750
+180,Androgen receptor (AR) gene analysis,LDA10300,43000
+181,Androstenedione,LDA10067,2420
+182,"Aneusomy Panel 2 in P. Bld (13, 18,
+21)",LDAI10032,4050
+183,"Aneusomy studies (13, 18, 21, X, Y)
+in P. Bld by FISH",LDAI10031,7700
+184,"Angiotensin Converting Enzyme -
+ACE",LDA10096,1090
+185,Angiotensin II,LDA10461,7600
+186,Annexin 1 (IHC Marker),LDA10085,1650
+187,Antenatal Screening profile (Basic),LDA10028,550
+188,Antenatal Screening Profile (Comprehensive),LDA10027,1320
+189,Anti - A Titres,LDA10202,1500
+190,Anti - B Titres,LDA10203,1500
+191,Anti - D Titres (Coomb’s Test Direct),LDA10204,600
+192,Anti - ds DNA antibody (Reflex to end titre for all positive cases),LDA10207,1900
+193,Anti Centromere Antibody,LDA10205,2420
+194,Anti Cyclic Citrullinated Peptide - Anti CCP,LDA10196,1450
+195,Anti diuretic Hormone - ADH,LDA10077,6000
+196,Anti -Dnase B (Deoxyribonuclease B),LDA10206,1540
+197,"Anti -ds DNA Antibody, ELISA",LDA10208,1090
+198,Anti fungal Susceptibility Testing (automated),LDAI10246,2200
+199,Anti Glomerular Basement Membrane Antibody - Anti GBM,LDA10215,2420
+200,Anti HBcore Total (Hepatitis B Core Antigen Total),LDA10088,1090
+201,Anti HBe / HBeAb (Hepatitis B Envelope Antibody),LDA10090,940
+202,Anti HBs (Antibody to Hepatitis B Surface Antigen),LDA10086,630
+203,"Anti HCV (By card) : Anti Hepatitis C
+Virus (By card)",LDA10106,900
+204,Anti HCV Total- Quantitative,LDA10091,1450
+205,Anti HDV (Delta Virus) :Hepatitis Delta virus antibody,LDA10094,3100
+206,Anti Hepatitis A Virus IgG - Anti HAV IgG,LDA10107,1540
+207,Anti Hepatitis A Virus IgM - Anti HAV IgM,LDA10097,970
+208,"Anti HEV IgG (Anti Hepatitis E Virus
+IgG)",LDA10096,1980
+209,"Anti HEV IgM (Anti Hepatitis E Virus
+IgM)",LDA10095,1450
+210,Anti HLA DSA  (DONAR LDAECIFIC AB),LDA10390,15500
+211,Anti Insulin Antibodies,LDA10216,2660
+212,"Anti LKM -1 Antibody (Liver Kidney
+Microsomal antibody)",LDA10217,1750
+213,"Anti Mitochondrial Antibody - AMA, IFA",LDA10218,2180
+214,Anti Neutrophilic CytoplaLDAic Antibodies - ANCA,LDA10191,2750
+215,Anti Nuclear Antibody - ANA IFA reflex ANA blot 15,LDA10464,2950
+216,"Anti Nuclear Antibody - ANA IFA, in
+dilutions",LDA10457,3000
+217,"Anti Nuclear Antibody - ANA, ELISA",LDA10301,650
+218,"Anti Nuclear Antibody - ANA, IFA",LDA10187,1320
+219,"Anti Parietal Cell Antibody, IFA",LDA10219,2530
+220,"ANTI RNP - LDA antibody
+(Anti Ribo - Nucleoprotein LDAith antibody)",LDA10224,2180
+221,"Anti Scl-70 IgG (Antibody
+Scleroderma Antibody)",LDA10198,1540
+222,Anti Skeletal Muscle Antibody,LDA10229,3850
+223,"Anti LDAith Antibody, IgG",LDA10238,1360
+224,Anti Soluble Liver Antigen (SLA),LDA10305,1940
+225,Anti LDAerm Antibody,LDA10228,1350
+226,Anti -ss DNA Antibody,LDA10209,3390
+227,"Anti SS-A  / Ro (Antibody Serum
+Soluble Substance -A Antibody)",LDA10194,1980
+228,"Anti SSB  / La (Antibody Serum
+Soluble Substance -B Antibody)",LDA10195,2180
+229,Anti Tg (Thyroglobulin Antibody),LDA10189,1270
+230,"Anti Thrombin Activity, Functional",LDA10074,3940
+231,Anti TPO (Thyroid Peroxidase) Antibody),LDA10190,1270
+232,Anti-adrenal Antibody Screen,LDA10455,11100
+233,"Anti-Endomysial Antibody, IgA",LDA10211,2500
+234,Anti-GBM by LIA,LDA10467,1820
+235,Antigen for PlaLDAdium falciparum,LDA10032,880
+236,Antigen For PlaLDAdium Vivax,LDA10031,880
+237,Any 2 IHC Markers (IHC Marker),LDA101114,1950
+238,Any 3 IHC Markers (IHC Marker),LDA101115,2950
+239,Any 4 IHC Markers (IHC Marker),LDA101116,4000
+240,Any 5 IHC Markers (IHC Marker),LDA101117,5000
+241,Any tumour resection with lymph node - Histopathology radical,LDA10114,2400
+242,Aplastic anemia gene panel,LDA10479,30000
+243,"APO A -1 : APO B Ratio
+(Apolipoprotein A1 :Apolipoprotein B  Ratio)",LDA10031,920
+244,"APO B: APO A-1 Ratio
+(Apolipoprotein B :Apolipoprotein A1 Ratio)",LDA10036,920
+245,Apolipoprotein A1,LDA10029,730
+246,Apolipoprotein B,LDA10030,730
+247,"Apolipoproteins A1 & B (Apolipoprotein A1 &
+Apolipoprotein B)",LDA10008,920
+248,Appendix - Histopathology LDAall,LDA10024,750
+249,Aquaporin 4 Antibodies (NMO),LDA10104,5000
+250,Aqueous Fluid Examination,LDA10160,400
+251,"Aqueous/vitreous/lacLDAal fluid  - Culture & Sensitivity Aerobic
+(Conventional)",LDAI10016,650
+252,Arterial Blood Gas - ABG,LDA10139,730
+253,Arthritis Profile (Basic),LDA10178,1980
+254,Arthritis Profile (Comprehensive ),LDA10179,4400
+255,"ASCA (S.Cerevisiae) IgA (Anti Saccharomyces Cerevisiae Antibody
+IgA)",LDA10225,2000
+256,"ASCA (S.Cerevisiae) IgG (Anti
+Saccharomyces Cerevisiae Antibody IgG)",LDA10226,2000
+257,Ascitic Fluid  - AFB Culture Rapid,LDAI10180,1000
+258,Ascitic Fluid  - Culture & Sensitivity Anaerobic (Conventional),LDAI10073,1050
+259,Ascitic Fluid - AFB Culture Rapid,LDAI10180,1000
+260,Ascitic Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10047,1050
+261,Ascitic Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10002,650
+262,Ascitic Fluid - Fungus Culture,LDAI10140,1000
+263,Ascitic Fluid Exam. for Malignant Cells,LDA10001,550
+264,Ascitic Fluid Examination,LDA10124,500
+265,Ascitic Fluid For Amylase,LDA10126,550
+266,ASLO (Antistrepto Lysin -O),LDA10074,490
+267,"ALDAergillus Fumigatus  DNA
+Detector",LDA10252,12300
+268,ALDAergillus IgE (A. Fumigatus),LDA10003,2200
+269,ALDAergillus IgG,LDA10002,2400
+270,"ALDAergillus IgG & IgM Antibody
+Panel",LDA10032,4500
+271,ALDAergillus IgM,LDA10001,2400
+272,ALDAirate - Fungus Culture,LDAI10146,1000
+273,ALDAirates - AFB Culture Rapid,LDAI10184,1000
+274,ALDAirates - Culture & Sensitivity Aerobic (Conventional),LDAI10017,650
+275,ALDAirates - Culture & Sensitivity Anaerobic (Conventional),LDAI10081,1050
+276,"AST (ALDAartate Amino-tranLDAerase),
+SGOT",LDA10043,150
+277,ATRX IHC,LDA10138,2500
+278,"Auto Immune Profile (Gastrointestinal) Includes *AMA
+*Anti LKM - 1 *ANA (Hep -2)*Anti LDAoth Muscle Antibody (LDAA)
+*ANCA",LDA10055,9680
+279,Autoimmune Encephalitis Panel,LDA10109,26500
+280,Axillary swab - Culture & Sensitivity Aerobic (Conventional),LDAI10035,650
+281,BAL - AFB Culture Rapid,LDAI10186,1000
+282,BAL - Culture & Sensitivity Aerobic (Conventional),LDAI10015,650
+283,"Barbiturates Screen, Urine",LDA10001,740
+284,Bartter Syndrome gene panel,LDA10312,48000
+285,Basic CLL Screening Panel,LDA10103,7700
+286,Basic Gene Health Check Profile,LDA10118,13500
+287,B-Cell Clonality Analysis for IgH,LDA10003,4850
+288,B-Cell Phenotype Panel (IHC Marker),LDA10051,6050
+289,BCL  -2 (IHC Marker),LDA10062,1650
+290,BCL 6 Gene Rearrangement,LDAI10064,5000
+291,BCR/ABL by FISH,LDAI10001,4100
+292,BCR/ABL Qualitative & Breakpoint Analysis RTPCR,LDA10007,5500
+293,"BCR/ABL Quantitative RT PCR with
+Breakpoint Analysis  (MRD)",LDA10014,8250
+294,"BCR-ABL Tyrosine Kinase inhibitor
+resist",LDA10348,10200
+295,"Bence Jones Protein, Urine",LDA10083,240
+296,"Benzodiazepines Screen, Urine",LDA10002,740
+297,BER Ep4 (IHC Marker),LDA10047,1650
+298,"Beta 2 glycoprotein 1 panel (IgG,
+IgM, IgA)",LDA10029,3630
+299,Beta 2 -Glycoprotein IgA,LDA10261,1820
+300,Beta 2 -Glycoprotein IgG,LDA10231,1650
+301,Beta 2 -Glycoprotein IgM,LDA10232,1650
+302,Beta -hCG (Cancer Marker),LDA10165,610
+303,"Beta -HCG, Fluid",LDA10488,1100
+304,"Beta -hCG, Random Urine",LDA10075,610
+305,Beta Thalassemia mutation,LDA10188,5500
+306,Beta Thalassemia Mutation (13 mutations),LDA10188,5500
+307,"Beta-2 Microglobulin, R. Urine",LDA10054,1820
+308,"Beta-2 Microglobulin, Serum",LDA10102,1820
+309,"Bile Pigment (BP), Urine",LDA10081,110
+310,"Bile Salts & Pigments, Urine",LDA10079,110
+311,"Bile Salts (BS), Urine",LDA10080,110
+312,"Bilirubin Total, Direct & Indirect",LDA10050,190
+313,"Bilirubin, Random Urine",LDA10092,170
+314,"Bilirubin, Total",LDA10047,170
+315,BIOFIRE CLDA PANEL,LDA10483,17000
+316,Biopsy - Block Issue,LDA10074,200
+317,Biopsy - Slide Issue,LDA10075,200
+318,Biopsy - Slides & Blocks Issue,LDA10069,200
+319,Biopsy - Slides Issue for II Opinion,LDA10068,200
+320,"Biotinidase deficiency -
+Quantitative – Blood",LDA10216,6500
+321,BK virus Quantitative,LDA10369,6500
+322,"Bladder Cancer, FISH",LDAI10049,39000
+323,Bleeding Time & Clotting Time,LDA10009,240
+324,Bleeding Time (B.T),LDA10020,190
+325,Block Issue,LDA10074,200
+326,Blood - AFB Culture Rapid,LDAI10193,1000
+327,"Blood ABO and Rh Factor, automated",LDA10034,200
+328,"Blood Glucose (Fasting & PP)-Blood Glucose Fasting & Blood Glucose
+Post Prandial,2hrs",LDA10020,130
+329,Blood Glucose (Fasting),LDA10018,70
+330,"Blood Glucose (PP, After 2Hrs.)- Blood Glucose Post Prandial",LDA10019,70
+331,Blood Glucose (Random),LDA10021,70
+332,Blood Group (ABO & Rh Factor),LDA10024,140
+333,Blood Karyotyping Single,LDA10009,3200
+334,Blood Urea Nitrogen (BUN),LDA10063,130
+335,BOB 1  (IHC Marker),LDA10086,1650
+336,Body Fluids - Culture & Sensitivity Aerobic (Conventional),LDAI10033,650
+337,Body fluids - Culture & Sensitivity Anaerobic (Conventional),LDAI10082,1050
+338,Body fluids Culture  - Culture & Sensitivity Aerobic (Automated),LDAI10054,1050
+339,BOH (Bad Obstetric History) Basic,LDA10301,7000
+340,BOH (Bad Obstetric History)Panel,LDA10193,18370
+341,Bone Large - Histopathology large,LDA10013,1800
+342,Bone Marrow - AFB Culture Rapid,LDAI10194,1000
+343,Bone Marrow - Culture & Sensitivity Aerobic (Automated),LDAI10024,950
+344,Bone Marrow - Culture & Sensitivity Anaerobic (Automated),LDAI10084,1050
+345,Bone Marrow - Fungus Culture,LDAI10137,1000
+346,Bone Marrow Biopsies - Histopathology LDAall,LDA10023,750
+347,Bone Marrow Exam. (Routine),LDA10112,830
+348,Bone marrow failure syndrome gene panel,LDA10453,30000
+349,"Bone Marrow, Iron Stain",LDA10113,370
+350,"Bone Marrow, MPO Stain",LDA10117,370
+351,"Bone Marrow, NSE Stain",LDA10118,370
+352,"Bone Marrow, PAS Stain",LDA10120,370
+353,"Bone Marrow, Reticulin Stain",LDA10114,730
+354,Bone LDAall - Histopathology,LDA10056,750
+355,"Bordetella Pertussis IgG Antibodies
+Quantitative",LDA10382,3000
+356,BRAF Testing by ARMS PCR,LDA10211,6500
+357,BRAF V600E for Hairy Cell Leukaemia,LDA10379,6500
+358,BRAF V600E Mutation,LDA10025,7400
+359,Brain & LDAinal Cord Tumors - Histopathology medium,LDA10088,1200
+360,"BRCA-1 & 2 -complete sequencing
+test",LDA10058,20000
+361,"BRCA1, BRCA2 Somatic Mutation Analysis",LDA10383,30000
+362,Breast Cancer Comprehensive Diagnosis Panel,LDA10098,7000
+363,Breast Cancer Prognosis Panel (1A) (IHC Marker),LDA10042,4250
+364,Breast Cancer Prognosis Panel (1B) (IHC Marker),LDA10043,3000
+365,Breast Cancer Prognosis Panel (2A) (IHC Marker),LDA10044,15150
+366,Breast Cancer Prognosis Panel (2B) (IHC Marker),LDA10045,5200
+367,Breast Cancer Prognosis Panel (3A) (IHC Marker),LDA10046,4000
+368,Breast Cancer Prognosis Panel (4A) (IHC Marker),LDA10047,25400
+369,"Breast Cancer Prognosis Panel (Basic) / ER, PR  (IHC Marker)",LDA10041,2200
+370,Breast Lump - Histopathology medium,LDA10076,1200
+371,Breast Lump Excision for Tumor (less than Mastectomy) - Histopathology large,LDA10127,1800
+372,Bronchial Alveolar Lavage Examination,LDA10140,240
+373,Bronchial Lavage - Fungus Culture,LDAI10144,1000
+374,Bronchial Lavage for Malignant Cells,LDA10009,550
+375,Bronchial Washing for Malignant Cells,LDA10008,550
+376,Bronchial Washing -Fungus Culture,LDAI10143,1000
+377,"Bronchial Washing Fungus Exam.,
+KOH Preparation",LDAI10170,350
+378,Bronchial Washings - AFB Culture Rapid,LDAI10187,1000
+379,Brucella Agglutination Test,LDA10026,1210
+380,Brucella IgG Antibodies,LDA10045,1820
+381,Brucella IgM Antibodies,LDA10046,1820
+382,"BSAP, Bone LDAecific Alkaline
+PhoLDAhatase",LDA10051,6660
+383,B-Type Natriuretic Peptide (BNP),LDA10298,2420
+384,"Buccal /Oral  Swab Culture &
+Sensitivity",LDAI10056,650
+385,"Buccal /Oral Swab For Fungus
+Culture",LDAI10057,1000
+386,Burkitt Lymphoma,LDA10011,7150
+387,C - ANCA (Anti Neutrophilic CytoplaLDAic Antibody),LDA10193,1820
+388,C -Peptide (Fasting),LDA10070,1210
+389,C.Difficile Toxin A & B,LDA10177,3140
+390,"C1 Esterase Inhibitor , Quantitative",LDA10103,3630
+391,C3 Complement Component,LDA10077,850
+392,C4 Complement Component,LDA10078,850
+393,CA -125 (IHC Marker),LDA10038,1650
+394,CA 27.29 (Breast Cancer Marker),LDA10161,10500
+395,CA 72.4 (Gastric Cancer),LDA10162,2100
+396,CA125 (Ovarian Cancer),LDA10158,1210
+397,CA15.3 (Breast Cancer),LDA10159,1210
+398,CA19.9 (Pancreatic Cancer),LDA10160,1210
+399,Calcitonin (IHC Marker),LDA10042,1650
+400,"Calcitonin, Cancer Marker",LDA10157,2730
+401,Calcium,LDA10059,170
+402,Calcium Ionized,LDA10066,490
+403,"Calcium, 24Hrs.Urine",LDA10034,250
+404,"Calcium, Random Urine",LDA10049,250
+405,Calreticulin Mutation Analysis,LDA10179,6350
+406,Calretinin (IHC Marker),LDA10046,1650
+407,CanAssist-Breast,LDA10423,60000
+408,cANCA by ELISA,LDA10351,1760
+409,cANCA by IFA,LDA10354,1900
+410,Cancer Screening Panel (Female),LDA10173,4070
+411,Cancer Screening Panel (Male),LDA10172,3190
+412,Candida Albicans Antibodies,LDA10484,5180
+413,"Cannabinoids Screen, Random Urine",LDA10003,740
+414,"Carbamazepine Drug Assay, Serum (Tegretol, Mazetol, Carbatol)",LDA10004,930
+415,Cardiac Enzymes Profile,LDA10070,1090
+416,Cardiac Injury Panel,LDA10194,5120
+417,Cardiac Panel,LDA10196,2970
+418,"Cardiolipin Antibodies IgG, IgM",LDA10252,1650
+419,Cardiolipin Antibodies Profile,LDA10004,2530
+420,Cardiolipin Antibody IgA,LDA10201,1100
+421,Cardiolipin Antibody IgG,LDA10199,850
+422,Cardiolipin Antibody IgM,LDA10200,850
+423,Cardiomyopathy gene panel,LDA10299,43000
+424,Caris Molecular Intelligence,LDA10386,600000
+425,"Catecholamine's, 24 Hrs. Urine",LDA10024,5780
+426,"Catecholamine's, R. Urine",LDA10050,5940
+427,Cathepsin D  (IHC Marker),LDA10006,1650
+428,CBC (Complete Blood Count),LDA10007,300
+429,"CD 34quest (stem cells)(Ishage
+Gating)  (Flowcytometry)",LDA10078,2400
+430,CD 43 (IHC Marker),LDA10078,1650
+431,CD 57  (IHC Marker),LDA10098,1650
+432,CD10 (CALLA) (IHC Marker),LDA10013,1650
+433,"CD10 (CALLA),
+B-Cell Markers, Flowcytometry",LDA10010,1850
+434,CD103  (Flowcytometry),LDA10047,1850
+435,CD117  Flowcytometry,LDA10036,1850
+436,CD117 (c -Kit) (IHC Marker),LDA10025,1650
+437,CD11c  Flowcytometry,LDA10030,1850
+438,CD13  (Flowcytometry),LDA10044,1850
+439,"CD13, Myeloid / Monocytic
+Markers,  Flowcytometry",LDA10025,1850
+440,CD138   (Flowcytometry),LDA10050,1850
+441,CD138   (IHC Marker),LDA10026,1650
+442,"CD14, Myeloid / Monocytic Markers,  Flowcytometry",LDA10026,1850
+443,CD15  (IHC Marker),LDA10014,1650
+444,"CD15, Myeloid / Monocytic Markers,  Flowcytometry",LDA10028,1850
+445,CD16  (Flowcytometry),LDA10046,1850
+446,CD19  (Flowcytometry),LDA10043,1850
+447,"CD19, B-Cell Markers,
+Flowcytometry",LDA10011,1850
+448,"CD19+ZAP-70, B-Cell Markers,
+Flowcytometry",LDA10020,2750
+449,CD1a (IHC Marker),LDA10080,1650
+450,"CD1a, T-Cell Markers,(Flowcytometry)",LDA10001,1850
+451,"CD2, T-Cell Markers,
+(Flowcytometry)",LDA10002,1850
+452,CD20 (IHC Marker),LDA10015,1650
+453,"CD20, B-Cell Markers,
+(Flowcytometry)",LDA10012,1850
+454,"CD22,B-Cell Markers,
+(Flowcytometry)",LDA10013,1850
+455,CD23 (IHC Marker),LDA10016,1650
+456,"CD23,B-Cell Markers,
+(Flowcytometry)",LDA10015,1850
+457,CD3 (IHC Marker),LDA10009,1650
+458,"CD3, T-Cell Markers,
+(Flowcytometry)",LDA10003,1850
+459,CD30 (IHC Marker),LDA10017,1650
+460,"CD33, Myeloid / Monocytic
+Markers,  Flowcytometry",LDA10029,1850
+461,CD34  (Flowcytometry),LDA10032,1850
+462,CD34 (IHC Marker),LDA10018,1650
+463,CD38  (Flowcytometry),LDA10045,1850
+464,CD4 (IHC Marker),LDA10010,1650
+465,"CD4,  T-Cell Markers,
+(Flowcytometry)",LDA10004,1850
+466,"CD4/ CD8 Enumeration
+(Flowcytometry)",LDA10076,1950
+467,CD45  (Flowcytometry),LDA10033,1850
+468,CD45 OR LCA  (IHC Marker),LDA10019,1650
+469,CD45 Ro (IHC Marker),LDA10020,1650
+470,CD5 (IHC Marker),LDA10011,1650
+471,"CD5,T-Cell Markers,
+(Flowcytometry)",LDA10005,1850
+472,CD56  (IHC Marker),LDA10021,1650
+473,CD61  (Flowcytometry),LDA10034,1850
+474,CD64  (Flowcytometry),LDA10035,1850
+475,CD68  (IHC Marker),LDA10022,1650
+476,CD7 (IHC Marker),LDA10067,1650
+477,"CD7, T-Cell Markers,
+(Flowcytometry)",LDA10006,1850
+478,CD79a (IHC Marker),LDA10023,1650
+479,CD8 (IHC Marker),LDA10012,1650
+480,"CD8,  T-Cell Markers,
+(Flowcytometry)",LDA10007,1850
+481,CD99 (MIC -2) (IHC Marker),LDA10024,1650
+482,CEA (Carcino Embryonic Antigen),LDA10164,720
+483,CEA (IHC Marker),LDA10036,1650
+484,CEA Fluid (Carcino Embryonic Antigen Body Fluid),LDA10476,1600
+485,CEBPA Mutation Detection,LDA10042,6650
+486,Cell Block Preparation,LDA10118,500
+487,Cell Free DNA /Circulating tumor (Ct)  DNA -  Colon Cancer Panel/ Liquid Bx. Cell Free Comprehensive Colon Cancer Panel,LDA10353,30000
+488,"Cell Free DNA /Circulating tumor (Ct)  DNA - BRAF/Liquid Bx. Cell
+Free BRAF",LDA10356,14000
+489,"Cell Free DNA /Circulating tumor
+(Ct)  DNA-  KRAS / Liquid Bx. Cell Free KRAS",LDA10355,14000
+490,"Cell Free DNA /Circulating tumor
+(Ct)  DNA- PAN RAS  Liquid Bx. Cell Free PAN RAS",LDA10354,"25,000"
+491,CeruloplaLDAin,LDA10108,1390
+492,Cervical Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10030,650
+493,Cervix biopsy - Histopathology LDAall,LDA10020,750
+494,Cervix cone - Histopathology medium,LDA10095,1200
+495,Champion Health Panel,LDA10187,5500
+496,Cheek biopsy - Histopathology LDAall,LDA10043,750
+497,Chikungunya IgM Antibody,LDA10014,920
+498,Chikungunya PCR,LDA10281,4000
+499,"Chile, Urine",LDA10082,630
+500,ChimeriLDA by STR (PosttranLDAlant),LDA10227,15000
+501,ChimeriLDA by STR (PretranLDAlant),LDA10226,12500
+502,"Chlamydia Pneumoniae IgA
+Antibody",LDA10434,2600
+503,Chlamydia Trachomatis DNA Test - (Hybrid Capture 2),LDA10093,1100
+504,"Chlamydia Trachomatis IgA
+Antibody",LDA10435,1500
+505,Chlamydia Trachomatis IgG,LDA10017,2130
+506,Chlamydia Trachomatis IgG & IgM,LDA10006,3850
+507,"Chlamydia trachomatis IgG, IgA, IgM",LDA10039,6000
+508,Chlamydia Trachomatis IgM,LDA10018,2130
+509,Chloride,LDA10058,140
+510,"Chloride, 24 Hrs. Urine",LDA10014,250
+511,"Chloride, Fluid",LDA10147,140
+512,"Chloride, Random Urine",LDA10051,250
+513,Cholesterol Total,LDA10022,130
+514,"Cholesterol, Fluid",LDA10148,130
+515,Cholinesterase,LDA10104,700
+516,Chromium Blood,LDA10185,4050
+517,Chromogranin A,LDA10172,7000
+518,Chromogranin A (IHC Marker),LDA10057,1650
+519,"Chromosomal microarray test, by
+blood",LDA10456,21600
+520,Chromosomal Studies (Fanconi's Anaemia),LDA10008,7900
+521,Chromosome Analysis (Genetic Disorders),LDA10002,3200
+522,Chromosome Analysis (Hematological Malignancy),LDA10001,3600
+523,Chromosome Analysis (Married Couple),LDA10003,6200
+524,Chromosome Analysis (POC),LDA10004,6000
+525,Chronic myeloproliferative disorder gene panel (CMPD),LDA10488,25000
+526,Chymotrypsin Stool,LDA10218,5000
+527,Citrate - 24 Hrs. Urine,LDA10040,1070
+528,CK 19 (Cytokeratin 19) (IHC Marker),LDA10030,1650
+529,CK 20 (Cytokeratin 20) (IHC Marker),LDA10029,1650
+530,CK 7 (Cytokeratin 7),LDA10028,1650
+531,Ck5/6 (IHC Marker),LDA10106,1650
+532,CK8/18 (IHC Marker),LDA10101,1650
+533,C-kit by blood sample,LDA10237,5000
+534,"Clinical exome + Mitochondrial
+genome sequencing (GEFS + Genetic Panel)",LDA10426,40000
+535,Clinical Exome Sequencing,LDA10421,30000
+536,Clinical Exome sequencing plus CNV,LDA10427,88000
+537,CLL Comprehensive & Karyotype Combo,LDA10105,15500
+538,CLL Diagnostic Panel (Comprehensive)  (Flowcytometry),LDA10069,11000
+539,CLL MRD panel,LDA10108,11500
+540,CLL prognosis by FISH,LDA10099,9100
+541,"Clopidogrel-PGx Test (CYP2C19
+Mutation Analysis)",LDA10020,3050
+542,Clotting Time (C.T),LDA10021,190
+543,CML Combo quest I,LDA10020,10900
+544,CML Combo quest II,LDA10021,10150
+545,CML Quest IRMA,LDA10067,9100
+546,"CMV Avidity, IgG (Cytomegalovirus
+Avidity, IgG)",LDA10136,1210
+547,CMV DNA Qualitative PCR,LDA10096,4950
+548,CMV DNA Quantitative Real Time- PCR,LDA10097,7700
+549,CMV IgG & IgM (Cytomegalovirus IgG & IgM),LDA10149,920
+550,CMV IgG (Cytomegalovirus IgG Antibody),LDA10135,490
+551,CMV IgM  (Cytomegalovirus IgM Antibody),LDA10134,490
+552,CMV IHC,LDA10146,2300
+553,Coagulation Profile (Basic),LDA10209,650
+554,"Cobalt, 24 Hrs. Urine",LDA10149,4840
+555,"Cobalt, Blood",LDA10145,4840
+556,"Cobalt, Random Urine",LDA10153,4840
+557,"Cocaine Screen, Urine",LDA10005,740
+558,Coeliac Disease Profile,LDA10056,5810
+559,Colaris,LDA10347,360000
+560,"Colon, Rectum - Histopathology LDAall",LDA10052,750
+561,Complement Panel (C3 & C4),LDA10106,1700
+562,Comprehensive Colorectal Panel,LDA10467,18000
+563,Comprehensive Gene Health Check Profile,LDA10117,23000
+564,Comprehensive leukemia panel - 57 genes,LDA10408,"21,000"
+565,"Congenital Adrenal HypeLDAlasia (CAH) CYP11B1
+Deletion/Duplication Testing",LDA10185,24000
+566,"Congenital Adrenal HypeLDAlasia
+(CAH) CYP11B1 gene mutation",LDA10184,13200
+567,"Congenital Adrenal HypeLDAlasia (CAH) CYP21A2
+Deletion/Duplication Testing",LDA10183,24000
+568,"Congenital Adrenal HypeLDAlasia
+(CAH) CYP21A2 gene mutation",LDA10182,10800
+569,Congenital afibrinogenemia gene panel,LDA10303,43000
+570,Congenital dyserythropoietic anaemia gene panel,LDA10304,43000
+571,Congenital hypopituitariLDA gene panel,LDA10301,43000
+572,Conjunctival - Histopathology LDAall,LDA10028,750
+573,Conjunctival Biopsy Panel - Histopathology,LDA10060,3650
+574,"Connexin 30 (GJB6) deletion/duplic
+ation analysis",LDA10406,12000
+575,"Coomb's Test Direct (Gel
+Technology)",LDA10043,500
+576,"Coomb's Test Indirect (Gel
+Technology)",LDA10044,500
+577,"Copper, 24 Hrs. Urine",LDA10150,1980
+578,"Copper, Random Urine",LDA10154,1980
+579,"Copper, Serum",LDA10142,1980
+580,Cortisol (Evening Sample),LDA10074,490
+581,Cortisol (Morning & Evening Sample),LDA10075,970
+582,Cortisol (Morning Sample),LDA10073,490
+583,"Cortisol Free, 24 Hrs. Urine",LDA10028,970
+584,Couple Sure (Panethnic Carrier Screening),LDA10442,48000
+585,Covid-19 IgG Antibody (SARS-CoV-2,LDA10506,1450
+586,COVID-19 RTPCR,G23S07T60,1200
+587,Coxsackie IgG antibody,LDA10371,3850
+588,Coxsackie IgM antibody,LDA10372,3850
+589,CPK - MB (Creatinine PhoLDAhokinase MB Isoenzyme),LDA10081,400
+590,"CPK -Total (Creatinine
+PhoLDAhokinase Total)",LDA10080,330
+591,CRC Protect,LDA10392,22500
+592,Creatinine Clearance Test,LDA10031,500
+593,"Creatinine, 24Hrs.Urine",LDA10011,250
+594,"Creatinine, Fluid",LDA10149,130
+595,"Creatinine, Random Urine",LDA10053,200
+596,"Creatinine, Serum",LDA10054,130
+597,"Creatinine/e Glomerular Filteration
+Rate",LDA10069,190
+598,"CLDA (C-Reactive Protein)-
+Qualitative",LDA10084,380
+599,"CLDA, Immunoturbidimetry
+(Quantitative)",LDA10156,700
+600,"CLDA, Nephelometry (Quantitative)",LDA10089,700
+601,"Cryoglobulins Screening
+(Qualitative)",LDA10126,1450
+602,Cryptococcus Antigen,LDA10179,2420
+603,"Cryptococcus Antigen, CLDA",LDA10113,2640
+604,"CryptoLDAoridium IsoLDAora, Stool",LDA10107,370
+605,CLDA - AFB Culture Rapid,LDAI10195,1000
+606,CLDA - Culture & Sensitivity Aerobic (Automated),LDAI10053,1050
+607,"CLDA - Culture & Sensitivity Aerobic
+(Conventional)",LDAI10008,650
+608,CLDA - Culture & Sensitivity Anaerobic (Conventional),LDAI10079,1050
+609,CLDA - Fungus Culture,LDAI10136,1000
+610,CLDA Examination for Malignant Cells,LDA10004,550
+611,CLDA Examination Routine,LDA10109,660
+612,"ct DNA for Hot LDAot mutations in EGFR, KRAS, NRAS, BRAF",LDA10411,29000
+613,"Ctx-1 (Beta Crosslaps) OSTEOPOROSIS MONITORING,
+Serum",LDA10180,2420
+614,Culture - Gonococcus,LDAI10260,950
+615,Culture & Sensitivity Aerobic (Automated) - Ascitic Fluid,LDAI10047,1050
+616,Culture & Sensitivity Aerobic (Automated) - Body fluids Culture,LDAI10054,1050
+617,Culture & Sensitivity Aerobic (Automated) - Ocular Fluid,LDAI10052,1050
+618,Culture & Sensitivity Aerobic (Automated) - Pericardial Fluid,LDAI10050,1050
+619,Culture & Sensitivity Aerobic (Automated) - Peritoneal Fluid,LDAI10049,1050
+620,Culture & Sensitivity Aerobic (Automated) - Pleural Fluid,LDAI10048,1050
+621,Culture & Sensitivity Aerobic (Automated) - Synovial Fluid,LDAI10051,1050
+622,Culture & Sensitivity Aerobic (Automated) - Whole Blood,LDAI10046,1000
+623,"Culture & Sensitivity Aerobic
+(Conventional) - Ascitic Fluid",LDAI10002,650
+624,"Culture & Sensitivity Aerobic
+(Conventional) - Axillary swab",LDAI10035,650
+625,Culture & Sensitivity Aerobic (Conventional) - BAL,LDAI10015,650
+626,Culture & Sensitivity Aerobic (Conventional) - Body Fluids,LDAI10033,650
+627,"Culture & Sensitivity Aerobic
+(Conventional) - Bone Marrow",LDAI10024,950
+628,"Culture & Sensitivity Aerobic
+(Conventional) - Cervical Swab",LDAI10030,650
+629,"Culture & Sensitivity Aerobic
+(Conventional) - CLDA",LDAI10008,650
+630,"Culture & Sensitivity Aerobic
+(Conventional) - Ear Swab",LDAI10010,650
+631,"Culture & Sensitivity Aerobic
+(Conventional) - ET secretion",LDAI10032,650
+632,"Culture & Sensitivity Aerobic
+(Conventional) - Eye Swab",LDAI10011,650
+633,"Culture & Sensitivity Aerobic
+(Conventional) - Groin Swab",LDAI10034,650
+634,Culture & Sensitivity Aerobic (Conventional) - Miscellaneous,LDAI10025,650
+635,"Culture & Sensitivity Aerobic
+(Conventional) - Nasal Swab",LDAI10012,650
+636,"Culture & Sensitivity Aerobic
+(Conventional) - Ocular Fluid",LDAI10007,650
+637,Culture & Sensitivity Aerobic (Conventional) - OT-LDAECIMEN,LDAI10037,650
+638,"Culture & Sensitivity Aerobic
+(Conventional) - Pericardial Fluid",LDAI10005,650
+639,Culture & Sensitivity Aerobic (Conventional) - Peritoneal Fluid,LDAI10004,650
+640,Culture & Sensitivity Aerobic (Conventional) - Pleural Fluid,LDAI10003,650
+641,Culture & Sensitivity Aerobic (Conventional) - Pus,LDAI10013,650
+642,"Culture & Sensitivity Aerobic
+(Conventional) - Secretions",LDAI10018,650
+643,Culture & Sensitivity Aerobic (Conventional) - Semen,LDAI10019,650
+644,"Culture & Sensitivity Aerobic
+(Conventional) - LDAutum",LDAI10014,650
+645,"Culture & Sensitivity Aerobic
+(Conventional) - Stool",LDAI10027,650
+646,Culture & Sensitivity Aerobic (Conventional) - Synovial Fluid,LDAI10006,650
+647,Culture & Sensitivity Aerobic (Conventional) - Throat Swab,LDAI10020,650
+648,"Culture & Sensitivity Aerobic
+(Conventional) - Tissue",LDAI10026,650
+649,Culture & Sensitivity Aerobic (Conventional) - Urethral Swab,LDAI10028,650
+650,Culture & Sensitivity Aerobic (Conventional) - Urine,LDAI10021,500
+651,Culture & Sensitivity Aerobic (Conventional) - Vaginal Swab,LDAI10022,650
+652,"Culture & Sensitivity Aerobic
+(Conventional) - Wound Swab",LDAI10029,650
+653,Culture & Sensitivity Aerobic (Conventional) - Aqueous/vitreous/lachrymal fluid,LDAI10016,650
+654,Culture & Sensitivity Aerobic (Conventional) -ALDAirates,LDAI10017,650
+655,Culture & Sensitivity Anaerobic (Automated) -Bone Marrow,LDAI10084,1050
+656,Culture & Sensitivity Anaerobic (Conventional) - Miscellaneous,LDAI10083,1050
+657,Culture & Sensitivity Anaerobic (Conventional) - Ocular Fluid,LDAI10078,1050
+658,Culture & Sensitivity Anaerobic (Conventional) - Pericardial Fluid,LDAI10076,1050
+659,Culture & Sensitivity Anaerobic (Conventional) - Peritoneal Fluid,LDAI10075,1050
+660,Culture & Sensitivity Anaerobic (Conventional) - Pleural Fluid,LDAI10074,1050
+661,Culture & Sensitivity Anaerobic (Conventional) - Pus,LDAI10080,1050
+662,Culture & Sensitivity Anaerobic (Conventional) - Synovial Fluid,LDAI10077,1050
+663,Culture & Sensitivity Anaerobic (Conventional) -Ascitic Fluid,LDAI10073,1050
+664,Culture & Sensitivity Anaerobic (Conventional) -ALDAirates,LDAI10081,1050
+665,Culture & Sensitivity Anaerobic (Conventional) -Body fluids,LDAI10082,1050
+666,Culture & Sensitivity Anaerobic (Conventional) -CLDA,LDAI10079,1050
+667,"Culture, Identification and sensitivity - Vitek",LDAI10241,2300
+668,Cultured Bacteria Identification & Sens.,LDAI10023,1050
+669,"Cultured Candida LDAecies
+Identification",LDAI10162,750
+670,"Customized (Any 5 Markers) Panel
+(Flowcytometry)",LDA10080,4250
+671,"Customized (Any 7 Markers) Panel
+(Flowcytometry)",LDA10079,6050
+672,"Cy.IgM, B-Cell Markers,
+Flowcytometry",LDA10024,1850
+673,Cy.MPO     (Flowcytometry),LDA10040,1850
+674,Cyclin D1 (IHC Marker),LDA10050,1650
+675,"CycloLDAora, MicroLDAoridia, stool",LDA10213,370
+676,CycloLDAorine (C2),LDA10014,2660
+677,CycloLDAorine (C2),LDA10015,2660
+678,Cyfra 21.1 (Lung Cancer),LDA10163,4000
+679,"Cysticercosis (Anti Taenia Solium
+IgG)",LDA10230,1210
+680,"Cysticercus (Taenia Solium) IgG Antibody, CLDA",LDA10462,2250
+681,Cytology - Slides (Duplicate) Issue,LDA10017,200
+682,"CytoplaLDAic CD3, T-Cell Markers, Flowcytometry",LDA10008,1850
+683,"CytoplaLDAic IGM  (Cyt. IgM) -
+Flowcytometry",LDA10041,1850
+684,"CytoplaLDAic Kappa, B-Cell Markers - Flowcytometry",LDA10022,1850
+685,"CytoplaLDAic Lambda, B-Cell Markers - Flowcytometry",LDA10023,1850
+686,D Dimer,LDA10065,1090
+687,D2-40 (IHC Marker),LDA10104,1650
+688,del11q and del17p,LDAI10045,5000
+689,del13q and CEP12,LDAI10046,5000
+690,del13q by FISH,LDAI10016,4100
+691,del17p by FISH,LDAI10015,4100
+692,del20q by FISH,LDAI10013,4100
+693,del5q (Monosomy 5) by FISH,LDAI10012,4250
+694,del7q (Monosomy 7) by FISH,LDAI10011,4250
+695,Deletion 8p FGFR-1 by FISH,LDA10269,6600
+696,Dengue Fever Antibodies,LDA10012,1710
+697,Dengue Fever Antibody IgM,LDA10377,1100
+698,Dengue Fever -NS1 Antigen,LDA10076,1700
+699,Dengue RNA PCR,LDA10066,3500
+700,DeLDAin  (IHC Marker),LDA10056,1650
+701,DeLDAglein I IgG Ab,LDA10302,3630
+702,DeLDAglein III IgG Ab,LDA10303,3630
+703,"dexamethasone Suppr Test For
+Cortisol",LDA10401,1680
+704,"DHEA (De Hydro EPI Andro Sterone
+)",LDA10058,3650
+705,"DHEA Sulphate (De Hydro EPI Andro Sterone SULPHATE), DHEAS",LDA10059,1090
+706,"DI - HYDRO TESTOSTERONE (DHT),
+Serum
+5a - DHT, Serum
+5 - ALPHA DI - HYDRO TESTOSTERONE, Serum",LDA10068,3870
+707,Diabetes Profile ( Basic),LDA10011,450
+708,Diabetes Profile (Comprehensive),LDA10072,1320
+709,Diagnostic ALCP & MRD Panel,LDA10104,19250
+710,Diamond blackfan anaemia gene panel,LDA10305,43000
+711,"Diazepam Screen, Random Urine",LDA10023,740
+712,DIC Panel (Disseminated Intravascular coagulation  Panel),LDA10494,3170
+713,Differential Leukocyte Count (DLC),LDA10129,130
+714,DiGeorge Syndrome by FISH,LDAI10042,5500
+715,Digoxin (Lanoxin),LDA10017,920
+716,"DihydropyLDAidine Dehydrogenase
+(DPD)",LDA10043,8000
+717,"DLC, Fluid (Differential Leukocyte
+Count Body Fluid)",LDA10145,130
+718,DNA Extraction & Storage,LDA10385,1000
+719,DNA Genetic Cancer Risk Test (98 gene panel),LDA10391,20000
+720,"DNA Ploidy & S- Phase, Leukaemia
+(Flowcytometry)",LDA10054,2400
+721,"DNA Ploidy & S- Phase, Solid Tumours (Flowcytometry)",LDA10053,2400
+722,DOG -1 (IHC Marker),LDA10083,1650
+723,Dopamine,LDA10181,6660
+724,"DPT Antibodies, Serum",LDA10381,8500
+725,Drug Of Abuse  Panel -5,LDA10020,3630
+726,Drug Of Abuse Panel-5,LDA10019,3630
+727,Drug Of Abuse Panel-7,LDA10018,5080
+728,Drugs of Abuse- Hair,LDA10486,3850
+729,"Dual marker on DBS (Dried Blood
+LDAot)",LDA10449,3300
+730,Dual Test (1st TLDAester),LDA10114,2150
+731,"Duchenne Muscular Dystrophy
+(DMD) by NGS",LDA10372,32000
+732,Duodenum - Histopathology LDAall,LDA10055,750
+733,"DYLDAERLINOPATHY/LGMD2B (DYLDA)DELETION/DUPLICATION
+ANALYSIS",LDA10429,14000
+734,Dyskeratosis congenita gene panel,LDA10306,43000
+735,E cadherin (IHC Marker),LDA10087,1650
+736,E2 (Estradiol),LDA10053,610
+737,E2A/PBX1 t(1;19) by FISH,LDAI10053,4250
+738,"Ear Swab - Culture & Sensitivity
+Aerobic (Conventional)",LDAI10010,650
+739,Ear Swab - Fungus Culture,LDAI10151,1000
+740,EBV   (IHC Marker),LDA10094,1650
+741,"EBV DNA, Qualitative PCR",LDA10064,5500
+742,"EBV DNA, Quantitative PCR",LDA10107,9100
+743,Ectodermal dyLDAlasia gene panel,LDA10405,30000
+744,EGFR  (IHC Marker),LDA10074,1650
+745,EGFR by FISH,LDAI10008,10900
+746,EGFR Cell Free DNA /Circulating tumor,LDA10290,12600
+747,"EGFR Mutation Analysis By ARMS PCR  for
+Stratifying patients with NSCLC",LDA10088,9500
+748,EGFR Mutation Analysis for Stratifying patients with NSCLC,LDA10071,9350
+749,"Electrolytes, Random Urine",LDA10074,450
+750,"Electrolytes, Serum",LDA10005,400
+751,"ELECTRON MICROSCOPY – TISSUE
+–Kidney or Muscle biopsy",LDA10126,12000
+752,EMA (Epithelial Membrane Antigen) (IHC Marker),LDA10063,1650
+753,"ENA (Screen)Panel Qualitative (Extractable Nuclear Antigen Screen
+Panel Qualitative)",LDA10030,2180
+754,"ENA Panel (Comprehensive) - Quantitative -Extractable Nuclear
+Antigen Comprehensive",LDA10031,9460
+755,Endometrial Curetting - Fungus Culture,LDAI10149,1000
+756,Endometrial Curetting's - AFB Culture Rapid,LDAI10190,1000
+757,Endometrium - Histopathology LDAall,LDA10019,750
+758,"Endometrial receptivity Analysis
+(ERA)",LDA10148,17500
+759,Endoscopic Biopsies - Histopathology LDAall,LDA10021,750
+760,Eosinophilic Leukaemia Panel by FISH,LDAI10052,12000
+761,"Epidermal Antibody, IgG (Pemphigus)",LDA10234,2660
+762,Epidermolysis bullosa gene panel,LDA10441,30000
+763,Epididymal Biopsy - Histopathology LDAall,LDA10035,750
+764,EPO (Erythropoietin),LDA10045,2420
+765,"Epstein Barr Virus IgG (Viral Capsid
+Ag)",LDA10033,2180
+766,"Epstein Barr Virus IgM (Viral Capsid
+Ag)",LDA10032,2180
+767,ER (Estrogen Receptor),LDA10001,1650
+768,"ER (Estrogen Receptor), PR (Progesterone Receptor), Her2/neu
+/ Breast Cancer Prognosis Panel (1B)  (IHC Marker)",LDA10043,3000
+769,Esophagectomy - Histopathology radical,LDA10099,2400
+770,"ESR (Westergren's)-Erythrocyte
+Sedimentation Rate",LDA10012,100
+771,Estrone,LDA10195,8400
+772,ET secretion - Culture & Sensitivity Aerobic (Conventional),LDAI10032,650
+773,ET secretion - Fungus Culture,LDAI10145,1000
+774,Excision Biopsies - Histopathology medium,LDA10089,1200
+775,"Extended RAS Reflex Panel (exons 2,3,4 of KRAS & NRAS)",LDA10131,13200
+776,"Extended RAS Testing (exons 2,3,4 of KRAS & NRAS)",LDA10130,15400
+777,Extended RAS Testing by ARMS PCR (K & NRAS),LDA10210,14300
+778,"Eye Swab - Culture & Sensitivity
+Aerobic (Conventional)",LDAI10011,650
+779,Eye Swab - Fungus Culture,LDAI10152,1000
+780,Eyeball Tumors - Histopathology radical,LDA10116,2400
+781,Eyeball-Non Tumorous - Histopathology medium,LDA10081,1200
+782,Fabry disease (GLA) gene analysis,LDA10297,43000
+783,Factor II Functional,LDA10086,9680
+784,Factor IX Functional,LDA10090,3030
+785,Factor V Functional,LDA10087,4600
+786,Factor V Leiden mutation,LDA10099,3000
+787,Factor VII Functional,LDA10088,4240
+788,Factor VIII Assay,LDA10089,2420
+789,Factor X Assay,LDA10091,6050
+790,Factor XI Functional,LDA10092,4240
+791,Factor XII Functional,LDA10093,4240
+792,Factor XIII Functional,LDA10094,600
+793,Faecal Calprotectin,LDA10193,4600
+794,Faecal Elastase,LDA10217,7000
+795,Fallopian Tubes - Histopathology LDAall,LDA10025,750
+796,"Fanconi Anaemia DNA Mutation
+Analysis",LDA10419,10500
+797,Fanconi anaemia gene panel,LDA10431,30000
+798,Fanconi bickel syndrome (SLC2A2) gene analysis,LDA10308,43000
+799,Fatty Acid Oxidation Disorders Gene Panel,LDA10402,38000
+800,Ferritin,LDA10294,600
+801,Fever Panel (Basic),LDA10026,560
+802,Fever Panel Comprehensive,LDA10170,2540
+803,Fever Panel: Multiplex PCR,LDA10169,7200
+804,FGF 23,LDA10492,"4,100"
+805,Fibrinogen Degradation Products (FDP),LDA10064,1320
+806,"Fibrinogen, Clotting Activity",LDA10103,1100
+807,Fibroids - Histopathology large,LDA10002,1800
+808,Fibroids-Enucleated - Histopathology medium,LDA10091,1200
+809,Filarial (W. Bancrofti) Antigen,LDA10042,1320
+810,Filarial Antibody,LDA10027,1200
+811,Final Diagnosis Panel by IHC,LDA10100,6500
+812,FIP1 L1 -PDGFRa  RTPCR,LDA10006,5450
+813,"FISH - Alk/NPM1;t(2;5) Anaplastic Large Cell Lymphoma, Bone
+marrow by FISH",LDAI10054,5600
+814,"FISH - Alk/NPM1;t(2;5) Anaplastic
+Large Cell Lymphoma, Tissue / FFPE by FISH",LDAI10055,11500
+815,FISH - del13q,LDAI10016,4100
+816,FISH - del17p,LDAI10015,4100
+817,FISH - Her2/neu,LDAI10007,10500
+818,FISH - Inv(16),LDAI10050,4500
+819,FISH - MDS in-situ,LDA10092,9700
+820,"FISH - MLL Gene Break apart
+Rearrangement",LDAI10006,4500
+821,FISH - PML/RARA,LDAI10002,4850
+822,FISH - ROS gene Rearrangement,LDAI10021,9900
+823,FISH - t(11;14),LDAI10018,4100
+824,FISH - t(11;22) for Ewings Sarcoma,LDA10010,7850
+825,FISH - t(14;16),LDAI10019,4100
+826,FISH - t(4;14),LDAI10017,4100
+827,FISH - TEL/AML1,LDAI10005,4500
+828,FISH - Trisomy 8,LDAI10014,4250
+829,"FISH - X,Y ChimeriLDA Screening",LDAI10020,4850
+830,FISH by AML Panel,LDA10128,10000
+831,FISH for Synovial Sarcoma,LDAI10059,8250
+832,FISH- Lymphoma Panel,LDAI10065,12000
+833,FISH- MET gene Amplification,LDAI10022,9900
+834,"FISH- Multiple Myeloma FISH on
+enriched PlaLDAa cells",LDAI10062,10500
+835,FISH-Eosinophilic Leukaemia Panel,LDAI10052,12000
+836,Fistula in ano - Histopathology LDAall,LDA10026,750
+837,Fistula/Sinus Lymph Node - Histopathology medium,LDA10080,1200
+838,Fistulectomy - Histopathology LDAall,LDA10036,750
+839,Fitness Gene Profile,LDA10119,8000
+840,Fitness Health Package,LDA10071,3400
+841,Fli - 1  (IHC Marker),LDA10082,1650
+842,"Flowcytometry -  CytoplaLDAic Kappa, B-Cell Markers",LDA10022,1850
+843,Flowcytometry - Acute Leukaemia- MRD Panel,LDA10075,11500
+844,Flowcytometry - ALL Characterization Panel,LDA10068,9100
+845,Flowcytometry - AML Characterization Panel,LDA10067,9300
+846,"Flowcytometry - CD 34quest (stem
+cells) (Ishage Gating)",LDA10078,2400
+847,"Flowcytometry - CD10 (CALLA), B-
+Cell Markers,",LDA10010,1850
+848,Flowcytometry - CD103,LDA10047,1850
+849,Flowcytometry - CD117,LDA10036,1850
+850,Flowcytometry - CD11c,LDA10030,1850
+851,Flowcytometry - CD13,LDA10044,1850
+852,"Flowcytometry - CD13, Myeloid /
+Monocytic Markers,",LDA10025,1850
+853,Flowcytometry - CD138,LDA10050,1850
+854,"Flowcytometry - CD14, Myeloid / Monocytic Markers,",LDA10026,1850
+855,"Flowcytometry - CD15, Myeloid / Monocytic Markers,",LDA10028,1850
+856,Flowcytometry - CD16,LDA10046,1850
+857,Flowcytometry - CD19,LDA10043,1850
+858,"Flowcytometry - CD19, B-Cell
+Markers,",LDA10011,1850
+859,"Flowcytometry - CD19+ZAP-70, B-
+Cell Markers, y",LDA10020,2750
+860,"Flowcytometry - CD1a, T-Cell Markers, Flowcytometry",LDA10001,1850
+861,"Flowcytometry - CD2, T-Cell
+Markers,",LDA10002,1850
+862,"Flowcytometry - CD20, B-Cell
+Markers,",LDA10012,1850
+863,"Flowcytometry - CD22,B-Cell
+Markers,",LDA10013,1850
+864,"Flowcytometry - CD23,B-Cell
+Markers,",LDA10015,1850
+865,"Flowcytometry - CD3, T-Cell
+Markers,",LDA10003,1850
+866,"Flowcytometry - CD33, Myeloid /
+Monocytic Markers,",LDA10029,1850
+867,Flowcytometry - CD34,LDA10032,1850
+868,Flowcytometry - CD38,LDA10045,1850
+869,"Flowcytometry - CD4,  T-Cell
+Markers,",LDA10004,1850
+870,"Flowcytometry - CD4/ CD8
+Enumeration",LDA10076,1950
+871,Flowcytometry - CD45,LDA10033,1850
+872,"Flowcytometry - CD5,T-Cell
+Markers,",LDA10005,1850
+873,Flowcytometry - CD61,LDA10034,1850
+874,Flowcytometry - CD64,LDA10035,1850
+875,"Flowcytometry - CD7, T-Cell
+Markers,",LDA10006,1850
+876,"Flowcytometry - CD8,  T-Cell
+Markers,",LDA10007,1850
+877,Flowcytometry - CLL Diagnostic Panel (Comprehensive),LDA10069,11000
+878,"Flowcytometry - Customized (Any 5
+Markers) Panel",LDA10080,4250
+879,"Flowcytometry - Customized (Any 7
+Markers) Panel",LDA10079,6050
+880,"Flowcytometry - Cy.IgM, B-Cell
+Markers,",LDA10024,1850
+881,"Flowcytometry - CytoplaLDAic CD3, T- Cell Markers,",LDA10008,1850
+882,"Flowcytometry - CytoplaLDAic IGM
+(Cyt. IgM)",LDA10041,1850
+883,"Flowcytometry - CytoplaLDAic Lambda, B-Cell Markers",LDA10023,1850
+884,Flowcytometry - CytoplaLDAic MPO,LDA10040,1850
+885,"Flowcytometry - DNA Ploidy & S-
+Phase, Leukaemia",LDA10054,2400
+886,"Flowcytometry - DNA Ploidy & S-
+Phase, Solid Tumours",LDA10053,2400
+887,"Flowcytometry - FMC-7, B-Cell
+Markers,",LDA10017,1850
+888,Flowcytometry - Glycophorin A,LDA10039,1850
+889,"Flowcytometry - Hairy Cell
+Leukaemia Panel",LDA10073,4850
+890,"Flowcytometry - Helper CD4 Cells
+Enumeration",LDA10077,950
+891,Flowcytometry - HLA B-27,LDA10056,1850
+892,"Flowcytometry - HLA-DR
+Flowcytometry",LDA10038,1850
+893,"Flowcytometry - Kappa Light Chain, B-Cell Markers,",LDA10018,1850
+894,"Flowcytometry - Lambda Light Chain, B-Cell Markers",LDA10019,1850
+895,"Flowcytometry - Leukaemia Lymphoma Comprehensive
+Diagnosis Panel",LDA10088,12100
+896,Flowcytometry - Leukaemia Orientation panel,LDA10089,7150
+897,Flowcytometry - Lymphoma Diagnostic Panel,LDA10072,11200
+898,Flowcytometry - MDS evaluation panel,LDA10106,12000
+899,"Flowcytometry - Multiple Myeloma
+Panel",LDA10074,5150
+900,"Flowcytometry - PNH
+Comprehensive Work Up",LDA10084,4850
+901,"Flowcytometry - PNH Diagnostic
+Panel (PolymoLDAhs)",LDA10071,3050
+902,"Flowcytometry - PNH Diagnostic
+Panel(LDAs)",LDA10070,3050
+903,Flowcytometry - PNH With  Flaer,LDA10083,3650
+904,"Flowcytometry - T B NK cell
+lymphocytes subset analysis",LDA10096,3700
+905,Flowcytometry - TdT,LDA10037,1850
+906,Flowcytometry - ZAP 70,LDA10049,2200
+907,"Flowcytometry Absolute CD19
+count",LDA10060,2000/-
+908,"Flowcytometry Absolute CD20
+count",LDA10061,2000/-
+909,Flowcytometry Acute Leukaemia - Basic lineage,LDA10066,6650
+910,Flowcytometry- Acute Leukaemia Comprehensive Diagnosis- 20  or ALCD- 20,LDA10065,9900
+911,Flowcytometry- Basic CLL Screening Panel,LDA10103,7700
+912,Flowcytometry- CLL MRD panel,LDA10108,11500
+913,Flowcytometry- Diagnostic ALCP & MRD Panel,LDA10104,19250
+914,"Flowcytometry for LAD (Leucocyte
+Adhesion Deficiency)",LDA10151,4500
+915,Flowcytometry- Multiple Myeloma MRD panel,LDA10107,11500
+916,Flowcytometry- LDAerm DNA fragmentation,LDA10200,10000
+917,"FLT 3 (AML) by PCR ITD, D835",LDA10478,8000
+918,"FLT3 Mutations Analysis (LDAecific to
+ITD & D835)",LDA10004,4250
+919,FLT3-ITD Mutant Allele Burden Analysis or FLT3 Quantitative,LDA10498,6000
+920,Fluid Examination,LDA10141,500
+921,Fluid Examination Biochemistry,LDA10161,400
+922,"Fluid For Fungus Exam., KOH
+Preparation",LDAI10168,350
+923,Fluid for Malignant cell,LDA10021,550
+924,"FMC-7, B-Cell Markers,
+Flowcytometry",LDA10017,1850
+925,FNAC - Slide Review (Second Opinion),LDA10016,650
+926,FNAC (Prepared Slides Only),LDA10015,500
+927,"Folate/Folic Acid, LDA",LDA10056,3030
+928,"Folate/Folic Acid, Serum",LDA10296,970
+929,Food Intolerance test,LDA10304,6600
+930,FoundationOne CDx,LDA10328,260000
+931,FoundationOne Heme for haematological  malignancies & Sarcomas,LDA10329,310000
+932,FoundationOne Liquid,LDA10125,260000
+933,Fragile X Mutation-FMR1 mutation,LDA10177,10900
+934,Free Androgen Index,LDA10083,4240
+935,Free Beta -hCG,LDA10092,600
+936,"Free Light Chains/ Kappa & Lambda Light Chain-Free (Haematology),
+Serum",LDA10207,6600
+937,Free PSA (Free Prostate LDAecific Antigen),LDA10167,850
+938,Free T4 & TSH (Free Thyroxine & Thyroid Stimulating Hormone),LDA10181,600
+939,Frozen Section - Histopathology,LDA10122,3300
+940,Fructosamine,LDA10033,600
+941,FSH (Follicle Stimulating Hormone),LDA10049,500
+942,FT3 & FT4 (Free Tri-IODO thyronine & Free Thyroxine),LDA10182,730
+943,FT3 (Free Triiodo thyronine),LDA10173,370
+944,"FT3, TSH (Free Tri-IODO thyronine &Thyroid Stimulating Hormone)",LDA10183,600
+945,FT4 (Free Thyroxine),LDA10174,370
+946,Fungus Culture,LDAI10175,1050
+947,Fungus Culture - Ascitic Fluid,LDAI10140,1000
+948,Fungus Culture - ALDAirate,LDAI10146,1000
+949,Fungus Culture - Bronchial Washing,LDAI10143,1000
+950,Fungus Culture - Hair,LDAI10160,1000
+951,Fungus Culture - Nails,LDAI10161,1000
+952,Fungus Culture - Nasal Swab,LDAI10153,1000
+953,Fungus Culture - Ocular Fluid,LDAI10142,1000
+954,Fungus Culture - Pericardial Fluid,LDAI10139,1000
+955,Fungus Culture - Pleural Fluid,LDAI10138,1000
+956,Fungus Culture - Pus,LDAI10154,1000
+957,Fungus Culture - Semen,LDAI10147,1000
+958,Fungus Culture - Skin Scraping,LDAI10159,1000
+959,Fungus Culture - LDAutum,LDAI10157,1000
+960,Fungus Culture - Stool,LDAI10148,1000
+961,Fungus Culture - Synovial Fluid,LDAI10141,1000
+962,Fungus Culture - Throat Swab,LDAI10155,1000
+963,Fungus Culture - Tissue,LDAI10150,1000
+964,Fungus Culture - Urine,LDAI10158,1000
+965,Fungus Culture - Vaginal Swab,LDAI10156,1000
+966,Fungus Culture -Bone Marrow,LDAI10137,1000
+967,Fungus Culture -Bronchial Lavage,LDAI10144,1000
+968,Fungus Culture -CLDA,LDAI10136,1000
+969,Fungus Culture -Ear Swab,LDAI10151,1000
+970,Fungus Culture -Endometrial Curetting,LDAI10149,1000
+971,Fungus Culture -ET secretion,LDAI10145,1000
+972,Fungus Culture -Eye Swab,LDAI10152,1000
+973,Fungus Stain - Aqueous fluid,LDAI10126,350
+974,Fungus Stain - Ascitic Fluid,LDAI10123,350
+975,Fungus Stain - BAL,LDAI10130,350
+976,Fungus Stain - Bone Marrow,LDAI10134,350
+977,Fungus Stain - Bronchial Secretions,LDAI10120,350
+978,Fungus Stain - ET secretion,LDAI10131,350
+979,Fungus Stain - High vaginal swab,LDAI10172,350
+980,Fungus Stain - Pericardial Fluid,LDAI10125,350
+981,Fungus Stain - Peritoneal fluid,LDAI10129,350
+982,Fungus Stain - Pleural Fluid,LDAI10122,350
+983,Fungus Stain - Pus,LDAI10121,350
+984,Fungus Stain - Swab,LDAI10124,350
+985,Fungus Stain - Urethral LDAear,LDAI10127,350
+986,Fungus Stain - Urine,LDAI10119,350
+987,G H Clonidine Stimulation Test,LDA10081,3700
+988,"G-6PD (Qualitative)- Glucose6-
+PhoLDAhate  Dehydrogenase (qualitative)",LDA10046,490
+989,"G-6PD (Quantitative)- Glucose6- PhoLDAhate  Dehydrogenase
+(quantitative)",LDA10047,730
+990,"GAD -65 IgG Antibody Glutamic
+Acid Decarboxylase Antibody",LDA10214,8470
+991,"Galactomannan antigen for
+ALDAergillus",LDA10041,3030
+992,Gall Stone Analysis,LDA10183,1400
+993,"Ganglioside GQ1B AB (IgG), EIA",LDA10396,11000
+994,Gastrectomy - Histopathology radical,LDA10100,2400
+995,Gastric Lavage - AFB Culture Rapid,LDAI10189,1000
+996,Gastrin,LDA10293,1700
+997,GCDFP -15 (IHC Marker),LDA10064,1650
+998,"Gene Panel Maturity- Onset
+Diabetes of the Young (MODY) & neonatal diabetes",LDA10425,37000
+999,Gene Xpert /TB Xpert,LDA10040,2200
+1000,Genetic Diagnosis of Mitochondrial Disease,LDA10293,26500
+1001,GenochecQ - C (HCV genotyping),LDA10030,8400
+1002,Genomepatri,LDA10100,38500
+1003,Genomepatri Lite,LDA10275,35000
+1004,GFAP (IHC Marker),LDA10060,1650
+1005,GGTP (Gamma Glutamyl- tranLDAeptidase),LDA10046,240
+1006,Giemsa stain for free living amoebae,LDAI10272,300
+1007,"Gilbert Syndrome Genotyping
+(UGT1A1)",LDA10069,6600
+1008,"GIST Mutation (c-KIT) Analysis for Prognostically
+Stratifying patients with GIST
+reLDAonsive to Imatinib",LDA10070,12100
+1009,GIST Panel,LDA10435,40000
+1010,GIST Panel (IHC Marker),LDA10064,3850
+1011,"Gliadin Antibody IgA (De-amidated, DGP)",LDA10212,2310
+1012,"Gliadin Antibody IgG (De-amidated,
+DGP)",LDA10213,2310
+1013,Glioblastoma (Grade IV) Panel,LDA10141,21000
+1014,Gliomas Mutation analysis,LDA10296,19500
+1015,Globulin,LDA10041,310
+1016,"Glucose (Fasting), Urine",LDA10088,70
+1017,"Glucose (PP), Urine",LDA10089,70
+1018,"Glucose (Random), Urine",LDA10090,70
+1019,"Glucose Challenge Test (GCT),Obstetrical  1 hour , 50gm Glucose for Gestational Diabetes Mellitus,  (Does not include a
+fasting blood glucose LDAecimen)",LDA10121,90
+1020,"Glucose Challenge Test (GCT),Pregnancy,75 g ,2hrs  (Does not include a fasting blood glucose LDAecimen) Only one sample to be taken exact 2 hour after oral administration of 75 gms. Glucose",,90
+1021,"Glucose estimation  (5 Samples) ,75 g Glucose  PlaLDAa and urine",LDA10120,600
+1022,"Glucose estimation (6 Samples), 75gm.Glucose plaLDAa and urine",LDA10124,720
+1023,"Glucose Tolerance Test (OGTT) ,  75 gm glucose -2 samples (fasting and 2 hrs)",LDA10180,180
+1024,"Glucose Tolerance Test (GTT) , PREGNANCY , 100 gm glucose .",LDA10125,480
+1025,"Glucose Tolerance Test( GTT) 3 Samples,75 gm. Pregnancy Glucose Orally",LDA10126,360
+1026,"Glucose, Fluid",LDA10150,70
+1027,GLUT1 deficiency (SLC2A1) gene analysis,LDA10309,25000
+1028,Glycophorin A  Flowcytometry,LDA10039,1850
+1029,Glypican 3 (IHC Marker),LDA10105,1650
+1030,Gonococcus - culture,LDAI10260,950
+1031,Gonorrhoea DNA Test - (Hybrid Capture 2),LDA10094,1100
+1032,Gram Stain - Aqueous humour,LDAI10105,250
+1033,Gram Stain - Ascitic Fluid,LDAI10102,250
+1034,Gram stain - BAL,LDAI10109,250
+1035,Gram Stain - Body Fluid,LDAI10112,250
+1036,Gram Stain - Bone Marrow,LDAI10114,250
+1037,Gram Stain - Bronchial Secretions,LDAI10099,250
+1038,Gram Stain - CLDA,LDAI10107,250
+1039,Gram Stain - ET secretion,LDAI10110,250
+1040,Gram Stain - High vaginal swab,LDAI10111,250
+1041,Gram Stain - Oesophageal Scraping Gram Stain For Fungus,LDAI10115,250
+1042,Gram Stain - Pericardial Fluid,LDAI10104,250
+1043,Gram Stain - Peritoneal fluid,LDAI10108,250
+1044,Gram Stain - Pleural Fluid,LDAI10101,250
+1045,Gram Stain - Pus,LDAI10100,250
+1046,Gram Stain - LDAutum,LDAI10097,250
+1047,Gram Stain - Swab,LDAI10103,250
+1048,Gram Stain - Throat Swab,LDAI10113,250
+1049,Gram Stain - Tissue,LDAI10116,250
+1050,Gram Stain - Urethral LDAear,LDAI10106,250
+1051,Gram Stain - Urine,LDAI10098,250
+1052,Granulation Tissue - Histopathology LDAall,LDA10041,750
+1053,Groin Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10034,650
+1054,Growth hormone,LDA10064,730
+1055,H1N1 (Swine Flu) PCR,LDA10044,4500
+1056,Haemoglobin (Hb),LDA10010,100
+1057,"Haemoglobin A2, HbA2",LDA10125,880
+1058,"Haemoglobin Foetal, HbF",LDA10124,880
+1059,"Haemoglobin –Free, PlaLDAa",LDA10139,1600
+1060,Haemoglobin- HPLC (Hb HPLC),LDA10123,880
+1061,"Haemoglobin, Urine",LDA10086,110
+1062,Haemogram (CBC with ESR),LDA10001,400
+1063,Haemophilia (F8 & F9) gene panel,LDA10457,24000
+1064,Hair - Fungus Culture,LDAI10160,1000
+1065,"Hairy Cell Leukaemia Panel
+(Flowcytometry)",LDA10073,4850
+1066,HAM's Test,LDA10028,1580
+1067,"Hanging Drop Preparation, Stool",LDA10106,190
+1068,Haptoglobin,LDA10048,2640
+1069,HbA1c (Glycated Haemoglobin),LDA10049,450
+1070,HBB Gene Sequencing by Sanger,LDA10474,17000
+1071,HBeAg (Hepatitis B Envelope Antigen),LDA10089,800
+1072,HBME -1 (IHC Marker),LDA10048,1650
+1073,HBsAg  (Confirmatory Test),LDA10085,930
+1074,"HBsAg Screen (by Rapid Card)-
+qualitative",LDA10348,500
+1075,HBsAg-CMIA,LDA10084,1300
+1076,HBV AmpliQ (HBV DNA Qualitative PCR),LDA10026,4250
+1077,HBV DNA Qualitative PCR (HBV AmpliQ),LDA10026,4250
+1078,HBV DNA Quantitative PCR (TracQ - B),LDA10027,6850
+1079,HBV Drug Resistance Assay,LDA10083,5000
+1080,HBV genotyping,LDA10084,5500
+1081,"HBV Quest Duo, Serum",LDA10009,1450
+1082,"HBV Quest Trio, Serum",LDA10089,1815
+1083,HBV RQPCR Assay,LDA10444,4200
+1084,HBV Scan,LDA10082,7850
+1085,hc2 Chlamydia DNA & Gonorrhoea DNA Test,LDA10036,"1,800"
+1086,HCG  (IHC Marker),LDA10039,1650
+1087,HCV AmpliQ (HCV RNA Qualitative RT PCR),LDA10028,4250
+1088,HCV RNA Quantitative RTPCR (TracQ - C ),LDA10029,7700
+1089,HCV RNA Quantitative RTPCR and HCV Genotyping combo,LDA10095,15050
+1090,HCV RQPCR Assay,LDA10445,4200
+1091,HDL Cholesterol,LDA10024,230
+1092,Head & Neck Resection - Histopathology,LDA10110,2550
+1093,Health Screen (Basic),LDA10058,1650
+1094,Health Screening (Comprehensive),LDA10057,2640
+1095,Healthy Bone Panel,LDA10208,2750
+1096,Heavy Metals profile,LDA10226,14000
+1097,Heinz Bodies,LDA10029,110
+1098,Helicobacter Pylori IgA,LDA10237,2840
+1099,Helicobacter Pylori IgG,LDA10236,2840
+1100,Helicobacter Pylori IgM,LDA10260,3520
+1101,Helper CD4 Cells Enumeration (Flowcytometry),LDA10077,950
+1102,Hemangioma - Histopathology LDAall,LDA10032,750
+1103,Hemicolectomy/total colectomy - Histopathology radical,LDA10102,2400
+1104,"Hemochromatosis gene panel (HFE
+gene panel)",LDA10477,35000
+1105,"Hemosiderin, Random Urine",LDA10096,500
+1106,"Heparin Induced
+Thrombocytopenia (HIT)",LDA10097,15500
+1107,Hepatitis A Diagnostic Panel,LDA10033,2000
+1108,Hepatitis Accuchek,LDA10212,5500
+1109,Hepatitis Autoimmune Profile,LDA10059,6660
+1110,Hepatitis B Core IgM & Total,LDA10105,2000
+1111,"Hepatitis B Core IgM Antibody -
+Anti HB core IgM",LDA10087,920
+1112,Hepatitis B Infant Follow up Panel,LDA10034,490
+1113,Hepatitis-B Profile Comprehensive,LDA10007,4240
+1114,HepPAR -1 (IHC Marker),LDA10045,1650
+1115,HER2 FISH For Equivocal Cases,LDAI10061,10000
+1116,HER2/neu  (IHC Marker),LDA10003,1650
+1117,Hereditary Cancer Testing,LDA10345,25000
+1118,"Hereditary Haemolytic Anaemia
+Panel",LDA10499,31000
+1119,"Hereditary Hemochromatosis DNA
+Mutation",LDA10194,10500
+1120,"High Sensitivity C-Reactive Protein -
+hsCLDA",LDA10085,850
+1121,"Histamine Intolerance Test by
+ImuPro",LDA10479,13500
+1122,Histopathology  -  Radical with Block,LDA10112,2400
+1123,Histopathology -  Second Opinion (Upto 2-5 Slides),LDA10063,650
+1124,Histopathology -  Second Opinion (Upto 6-15 Slides),LDA10064,1200
+1125,Histopathology - - Second Opinion(Upto 2 Blocks),LDA10065,800
+1126,Histopathology -  Skin Biopsy Panel,LDA10061,3650
+1127,Histopathology - (Bone) Large,LDA10013,1800
+1128,Histopathology - (Bone) LDAall,LDA10056,750
+1129,Histopathology - (Excision Biopsies) (medium),LDA10089,1200
+1130,Histopathology - (Hemicolectomy/total colectomy) (radical),LDA10102,2400
+1131,Histopathology - Bone Marrow Biopsies-LDAall,LDA10023,750
+1132,Histopathology - Brain & LDAinal Cord Tumors (Medium),LDA10088,1200
+1133,Histopathology - Breast Lump (medium biopsy),LDA10076,1200
+1134,Histopathology - Cervix biopsy (LDAall),LDA10020,750
+1135,Histopathology - Cervix cone (medium),LDA10095,1200
+1136,Histopathology - Cheek biopsy (LDAall),LDA10043,750
+1137,"Histopathology - Colon, Rectum (LDAall)",LDA10052,750
+1138,Histopathology - Conjunctival (LDAall),LDA10028,750
+1139,Histopathology - Conjunctival Biopsy Panel,LDA10060,3650
+1140,Histopathology - Duodenum (LDAall),LDA10055,750
+1141,Histopathology - Endometrium (LDAall),LDA10019,750
+1142,Histopathology - Endoscopic Biopsies (LDAall),LDA10021,750
+1143,Histopathology - Epididymal Biopsy (LDAall),LDA10035,750
+1144,Histopathology - Esophagectomy (radical),LDA10099,2400
+1145,Histopathology - Eyeball Tumors (radical),LDA10116,2400
+1146,Histopathology - Fallopian Tubes (LDAall),LDA10025,750
+1147,Histopathology - Fibroids (large biopsy),LDA10002,1800
+1148,Histopathology - Fibroids- Enucleated (medium biopsy),LDA10091,1200
+1149,Histopathology - Fistula in ano (LDAall),LDA10026,750
+1150,Histopathology - Fistulectomy (LDAall),LDA10036,750
+1151,Histopathology - Frozen Section,LDA10122,3300
+1152,Histopathology - Gastrectomy (radical),LDA10100,2400
+1153,Histopathology - Granulation Tissue (LDAall),LDA10041,750
+1154,Histopathology - Head & Neck Resection,LDA10110,2550
+1155,Histopathology - Hemangioma (LDAall),LDA10032,750
+1156,Histopathology - Kidney Biopsy,LDA10058,1550
+1157,Histopathology - Large,LDA10015,1800
+1158,Histopathology - Large Bone Resection,LDA10103,2400
+1159,Histopathology - Large Cyst,LDA10003,1800
+1160,Histopathology - Large LDAecimen,LDA10001,1800
+1161,Histopathology - Large with blocks,LDA10014,1950
+1162,Histopathology - Liver Biopsy,LDA10057,1550
+1163,Histopathology - Lymph node (large biopsy),LDA10008,1800
+1164,Histopathology - Lymph node (medium biopsy),LDA10096,1200
+1165,Histopathology  medium- Ovarian Cyst,LDA10082,1200
+1166,Histopathology - Medium LDAecimen,LDA10094,1200
+1167,"Histopathology  medium- Urinary Bladder Tumour-
+TURBT LDAecimen",LDA10098,1200
+1168,Histopathology - Medium with blocks,LDA10093,1200
+1169,Histopathology - Oesophagus (LDAall biopsy),LDA10039,750
+1170,Histopathology - Radical,LDA10111,2400
+1171,Histopathology  radical- (Orchidectomy for Cancer),LDA10108,2400
+1172,Histopathology  radical- Hysterectomy for Cancer,LDA10107,2400
+1173,Histopathology - Radical Neck Dissection,LDA10106,2400
+1174,Histopathology - Second Opinion(6- 15 Blocks),LDA10067,1800
+1175,Histopathology - Second Opinion(Upto 2 Slides),LDA10062,600
+1176,Histopathology - LDAall,LDA10046,750
+1177,Histopathology - LDAall Diag./Incision,LDA10029,750
+1178,Histopathology  LDAall- Larynx,LDA10050,750
+1179,Histopathology  LDAall- Mass <5 cm,LDA10054,750
+1180,Histopathology  LDAall- Salivary gland,LDA10049,750
+1181,Histopathology -Eyeball-Non Tumorous (medium),LDA10081,1200
+1182,Histopathology -Fistula/Sinus Lymph Node (medium),LDA10080,1200
+1183,Histopathology large -  Sleeve gastrectomy,LDA10017,1800
+1184,Histopathology large - Intestinal Resection,LDA10007,1800
+1185,Histopathology large - Ulcer,LDA10012,1800
+1186,Histopathology large - Uterus with Cervix and Adenexa,LDA10009,1800
+1187,Histopathology large- Breast Lump Excision for Tumor (less than Mastectomy),LDA10127,1800
+1188,Histopathology large- Nephrectomy,LDA10006,1800
+1189,Histopathology large- Non Tumorous Thyroid,LDA10004,1800
+1190,Histopathology large- Non tumourous intestinal resection,LDA10018,1800
+1191,Histopathology large- Prostate enucleation,LDA10016,1800
+1192,Histopathology large- LDAleen,LDA10011,1800
+1193,Histopathology large- Sympathectomy,LDA10010,1800
+1194,Histopathology large- Testis,LDA10005,1800
+1195,Histopathology Medium -  Placenta,LDA10083,1200
+1196,Histopathology medium - Synovium,LDA10097,1200
+1197,Histopathology medium - Uterus with Cervix (medium biopsy),LDA10090,1200
+1198,Histopathology medium- Partial thyroid,LDA10085,1200
+1199,Histopathology medium- Pilonidal Sinus,LDA10079,1200
+1200,Histopathology medium- Products of Conception,LDA10092,1200
+1201,Histopathology medium- Prostate - TULDA chips,LDA10086,1200
+1202,Histopathology medium- Superficial Lumps,LDA10087,1200
+1203,Histopathology radical  - Any tumour resection with lymph node,LDA10114,2400
+1204,Histopathology radical - Uterine Tumour/T.O.Mass (radical biopsy),LDA10117,2400
+1205,Histopathology radical- Lymph node block dissection,LDA10113,2400
+1206,Histopathology radical- Mastectomy,LDA10101,2400
+1207,Histopathology radical- Nephrectomy for Cancer,LDA10105,2400
+1208,Histopathology radical- Ovarian Tumor Resection,LDA10104,2400
+1209,Histopathology radical- Ovarian Tumors,LDA10115,2400
+1210,Histopathology radical- Soft Tissue Tumor Resection,LDA10109,2400
+1211,Histopathology- Second Opinion(2- 5 Blocks),LDA10066,850
+1212,Histopathology LDAall - Appendix,LDA10024,750
+1213,Histopathology LDAall - Hyperkeratosis,LDA10033,750
+1214,Histopathology LDAall - Intervertebral Discl,LDA10047,750
+1215,Histopathology LDAall - Stomach,LDA10038,750
+1216,Histopathology LDAall - Vulva,LDA10048,750
+1217,Histopathology LDAall- Nasal Polyp,LDA10034,750
+1218,Histopathology LDAall- Omentum,LDA10040,750
+1219,Histopathology LDAall- Pyogenic Granuloma,LDA10031,750
+1220,Histopathology LDAall- Skin,LDA10027,750
+1221,Histopathology LDAall- Synovial,LDA10045,750
+1222,Histopathology LDAall- Trucut Biopsies,LDA10022,750
+1223,Histopathology-Kidney Biopsy Panel,LDA10077,4300
+1224,HIV 1 & 2 by Western Blot,LDA10128,3630
+1225,HIV I & II Ab & p24 Ag( Combo),LDA10130,650
+1226,"HIV I&II Antibody Screen
+(Qualitative)",LDA10126,450
+1227,HIV Monitoring Panel,LDA10039,6700
+1228,HIV RQPCR Assay,LDA10443,4200
+1229,HIV-1 Drug Resistant Assay,LDA10078,23000
+1230,HIV-1 RNA Qualitative PCR,LDA10021,3100
+1231,HIV-1 RNA Quantitative PCR,LDA10022,4950
+1232,HLA - ABDR TYPING (One Person),LDA10052,16000
+1233,HLA-  ABDR TYPING (Two Persons),LDA10053,32000
+1234,HLA - B8,LDA10059,6000
+1235,"HLA B*5701 Genotyping Abacavir
+Hypersensitivity",LDA10464,4200
+1236,HLA B-27 (Flowcytometry),LDA10056,1850
+1237,"HLA B-27, Disease Association PCR",LDA10079,3050
+1238,"HLA high resolution typing-
+complete",LDA10192,16000
+1239,HLA high resolution typing-basic,LDA10191,8000
+1240,HLA KIR typing,LDA10472,12000
+1241,"HLA single Antigen bead Assay For
+Class IgG Antibodies",LDA10447,26500
+1242,HLA-DR    Flowcytometry,LDA10038,1850
+1243,HMB -45 (IHC Marker),LDA10058,1650
+1244,HMW - CK (IHC Marker),LDA10031,1650
+1245,HNPCC/Lynch Syndrome,LDA10259,30000
+1246,HOMA IR (insulin resistance),LDA10432,1300
+1247,Homocysteine (Quantitative),LDA10297,850
+1248,Homogentisic Acid,LDA10112,930
+1249,Homovanillic Acid (HVA),LDA10137,10290
+1250,Hormone Profile,LDA10060,2730
+1251,"HPV DNA detection and typing
+tissue/biopsy",LDA10387,4200
+1252,HPV DNA HR  - (Hybrid Capture 2) & LBC concurrent detection,LDA10034,3050
+1253,"HPV DNA HR & LR - (Hybrid Capture
+2) & LBC",LDA10035,3850
+1254,"HPV DNA HR & LR + Chlamydia + N. Gonorrhoea DNA - (Hybrid Capture
+2) + LBC",LDA10094,4850
+1255,HPV DNA HR & LR(High & Low Risk)test  - (Hybrid Capture 2),LDA10033,3300
+1256,HPV DNA HR (High Risk) Test - (Hybrid Capture 2),LDA10090,2750
+1257,HPV DNA LR (Low Risk) Test    - (Hybrid Capture 2),LDA10091,2750
+1258,HPV Genotyping,LDA10092,4850
+1259,HPV High Risk and Genotyping (Qual),LDA10494,2500
+1260,HPV HR - Real Time PCR,LDA10491,1800
+1261,HPV HR & LR – Real Time PCR,LDA10493,2500
+1262,HPV HR & LR RTPCR + LBC,LDA10150,2900
+1263,HPV HR & LR with Genotyping (Qual),LDA10496,3500
+1264,HPV HR RTPCR + LBC,LDA10148,2500
+1265,HPV Low Risk and Genotyping (Qual),LDA10495,2500
+1266,HPV LR - Real Time PCR,LDA10492,1800
+1267,HPV LR RTPCR + LBC,LDA10149,2500
+1268,HSV 1 & 2 IgG antibody,LDA10380,3500
+1269,HSV 1 IgG,LDA10143,840
+1270,HSV 1 IgM,LDA10142,840
+1271,HSV 1+2 IgG,LDA10141,570
+1272,HSV 1+2 IgM,LDA10140,570
+1273,HSV 1+2 IgM & IgG,LDA10151,1100
+1274,HSV 2 IgG,LDA10145,930
+1275,HSV 2 IgM,LDA10144,930
+1276,HSV Type 1 & 2 PCR (Qualitative),LDA10047,7250
+1277,HSV Type 1 PCR,LDA10045,5450
+1278,HSV Type 2 PCR,LDA10046,5450
+1279,HTLV I & II ANTIBODIES,LDA10309,5300
+1280,"Human Papillomavirus / HPV DNA
+(Real Time PCR)",LDA10041,3650
+1281,Human Papillomavirus / HPV DNA HR & LR - (Hybrid Capture 2) & LBC,LDA10035,3850
+1282,"Human Papillomavirus / HPV DNA HR & LR + Chlamydia + N. Gonorrhoea DNA - (Hybrid Capture
+2) + LBC",LDA10094,4850
+1283,"Human Papillomavirus / HPV DNA HR & LR(High & Low Risk)test  -
+(Hybrid Capture 2)",LDA10033,3300
+1284,"Human Papillomavirus / HPV DNA HR (High Risk) Test - (Hybrid
+Capture 2)",LDA10090,2750
+1285,"Human Papillomavirus / HPV DNA LR (Low Risk) Test    - (Hybrid
+Capture 2)",LDA10091,2750
+1286,"Human Papillomavirus / HPV
+Genotyping",LDA10092,4850
+1287,"Human Papillomavirus/ HPV DNA HR  - (Hybrid Capture 2) & LBC
+concurrent detection",LDA10034,3050
+1288,Hydatid Serology (Echinococcus IgG Ab.),LDA10210,1700
+1289,"Hyper-immunoglobulin E syndrome deletion /duplication analysis
+(DOCK8, STAT3)",LDA10404,14000
+1290,Hyperkeratosis - Histopathology LDAall,LDA10033,750
+1291,Hypersensitivity Pneumonitis Panel,LDA10048,10500
+1292,Hypertension AssesLDAent Profile,LDA10211,1100
+1293,Hysterectomy for Cancer - Histopathology radical,LDA10107,2400
+1294,IA2 Insulin Autoantibodies,LDA10400,3500
+1295,Ichthyosis gene panel,LDA10398,30000
+1296,IDH-1/2 Mutations for AML,LDA10197,5000
+1297,IDH-1 IHC,LDA10137,1650
+1298,IDH-1/2 Mutations for Glioma,LDA10433,7000
+1299,"IGF BP3 (Insulin Like Growth Factor
+Binding Protein -3)",LDA10244,5160
+1300,"IGF-1 (Insulin Like Growth Factor -
+1); (Somatomedin C)",LDA10243,5160
+1301,IgG4,LDA10407,6000
+1302,IgH/BCl2 t(14;18) by FISH,LDAI10037,5000
+1303,IgH/MYC t(8;14) by FISH,LDAI10063,5000
+1304,IgM (IHC Marker),LDA10077,1650
+1305,IgVH Somatic Hyper mutation Assay,LDA10087,6050
+1306,IHC - Adenocarcinoma Vs. Mesothelioma,LDA10061,4000
+1307,IHC - AFP,LDA10037,1650
+1308,IHC - ALK -1,LDA10049,1650
+1309,IHC - ALK D5F3,LDA10107,8800
+1310,IHC - AMACR,LDA10096,1650
+1311,IHC - Annexin 1,LDA10085,1650
+1312,IHC - Any 2 IHC Markers,LDA101114,1950
+1313,IHC - Any 3 IHC Markers,LDA101115,2950
+1314,IHC - Any 4 IHC Markers,LDA101116,4000
+1315,IHC - Any 5 IHC Markers,LDA10072,5000
+1316,IHC - ATRX,LDA10138,2500
+1317,IHC - B-Cell Phenotype Panel,LDA10051,6050
+1318,IHC - bcl -2,LDA10062,1650
+1319,IHC - BER Ep4,LDA10047,1650
+1320,IHC - BOB 1,LDA10086,1650
+1321,IHC - Breast Cancer Comprehensive Diagnosis Panel,LDA10098,7000
+1322,IHC - Breast Cancer Prognosis Panel (1B),LDA10043,3000
+1323,IHC - Breast Cancer Prognosis Panel (3A),LDA10046,4000
+1324,"IHC - Breast Prognosis Panel (Basic)
+/ ER, PR",LDA10041,2200
+1325,IHC - CA -125,LDA10038,1650
+1326,IHC - Calcitonin,LDA10042,1650
+1327,IHC - Calretinin,LDA10046,1650
+1328,IHC - Cathepsin D,LDA10006,1650
+1329,IHC - CD 43,LDA10078,1650
+1330,IHC - CD 57,LDA10098,1650
+1331,IHC - CD10 (CALLA),LDA10013,1650
+1332,IHC - CD117 (c -Kit),LDA10025,1650
+1333,IHC - CD138,LDA10026,1650
+1334,IHC - CD15,LDA10014,1650
+1335,IHC - CD1a,LDA10080,1650
+1336,IHC - CD20,LDA10015,1650
+1337,IHC - CD23,LDA10016,1650
+1338,IHC - CD3,LDA10009,1650
+1339,IHC - CD30,LDA10017,1650
+1340,IHC - CD34,LDA10018,1650
+1341,IHC - CD4,LDA10010,1650
+1342,IHC - CD45 OR LCA,LDA10019,1650
+1343,IHC - CD45 Ro,LDA10020,1650
+1344,IHC - CD5,LDA10011,1650
+1345,IHC - CD56,LDA10021,1650
+1346,IHC - CD68,LDA10022,1650
+1347,IHC - CD7,LDA10067,1650
+1348,IHC - CD79a,LDA10023,1650
+1349,IHC - CD8,LDA10012,1650
+1350,IHC - CD99 (MIC -2),LDA10024,1650
+1351,IHC - CEA,LDA10036,1650
+1352,IHC - Chromogranin A,LDA10057,1650
+1353,IHC - CK 19 (Cytokeratin 19),LDA10030,1650
+1354,IHC - CK 20 (Cytokeratin 20),LDA10029,1650
+1355,IHC - CK 7 (Cytokeratin 7),LDA10028,1650
+1356,IHC - Ck5/6,LDA10106,1650
+1357,IHC - CK8/18,LDA10101,1650
+1358,IHC - D2-40,LDA10104,1650
+1359,IHC - DeLDAin,LDA10056,1650
+1360,IHC - DOG -1,LDA10083,1650
+1361,IHC - E cadherin,LDA10087,1650
+1362,IHC - EBV,LDA10094,1650
+1363,IHC - EGFR,LDA10074,1650
+1364,IHC - EMA (Epithelial Membrane Antigen),LDA10063,1650
+1365,IHC - ER (Estrogen Receptor),LDA10001,1650
+1366,IHC - Fli - 1,LDA10082,1650
+1367,IHC - GCDFP -15,LDA10064,1650
+1368,IHC - GFAP,LDA10060,1650
+1369,IHC - GIST Panel,LDA10064,3850
+1370,IHC - Glypican 3,LDA10105,1650
+1371,IHC - HBME -1,LDA10048,1650
+1372,IHC - HCG,LDA10039,1650
+1373,IHC - HepPAR -1,LDA10045,1650
+1374,IHC - HMB -45,LDA10058,1650
+1375,IHC - HMW - CK,LDA10031,1650
+1376,IHC - IDH-1,LDA10137,1650
+1377,IHC - IgM,LDA10077,1650
+1378,IHC - Inhibin,LDA10043,1650
+1379,IHC - Kappa Light Chain,LDA10051,1650
+1380,IHC - Ki - 67,LDA10004,1650
+1381,IHC - Lambda Light Chain,LDA10052,1650
+1382,IHC - Large Cell Lymphoma Panel,LDA10053,5750
+1383,IHC - MLH-1,LDA10089,1650
+1384,IHC - MOC 31,LDA10109,1650
+1385,IHC - MPO,LDA10032,1650
+1386,IHC - MSH-2,LDA10090,1650
+1387,IHC - MSH-6,LDA10091,1650
+1388,IHC - MSI by Immunohistochemistry,LDA10097,5500
+1389,IHC - MUC 1,LDA10100,1650
+1390,IHC - MUC 2,LDA10108,1650
+1391,IHC - MUC 5AC,LDA10103,1650
+1392,IHC - Mum-1,LDA10099,1650
+1393,IHC - Myogenin,LDA10033,1650
+1394,IHC - Napsin,LDA10088,1650
+1395,IHC - NSE,LDA10061,1650
+1396,IHC - Oct 3 /4,LDA10084,1650
+1397,IHC - p53,LDA10005,1650
+1398,IHC - p63,LDA10095,1650
+1399,IHC - Pan CK (Pan Cytokeratin),LDA10027,1650
+1400,IHC - PAX-5,LDA10093,1650
+1401,IHC - PLAP,LDA10044,1650
+1402,IHC - PMS-2,LDA10092,1650
+1403,IHC - PR (Progesterone Receptor),LDA10002,1650
+1404,IHC - PSA,LDA10035,1650
+1405,IHC - RCC (Renal Cell Carcinoma),LDA10068,1650
+1406,IHC - S100,LDA10054,1650
+1407,IHC - Single,LDA10075,1650
+1408,IHC - LDAA,LDA10034,1650
+1409,IHC - LDAall Cell Lymphoma Panel,LDA10054,5050
+1410,IHC - Synaptophysin,LDA10059,1650
+1411,IHC - TdT,LDA10053,1650
+1412,IHC - Thyroglobulin,LDA10040,1650
+1413,IHC - TTF - 1,LDA10041,1650
+1414,IHC - Uroplakin II,LDA10065,1650
+1415,IHC - Vimentin,LDA10055,1650
+1416,IHC - WT - 1,LDA10081,1650
+1417,IHC Final Diagnosis Panel,LDA10100,6500
+1418,IHC Marker - Oct 2,LDA10102,1650
+1419,"Imatinib resistance mutation
+analysis (IRMA) CML Quest",LDA10067,9100
+1420,Imerslund-Gräsbeck syndrome gene panel,LDA10307,43000
+1421,"Immunofixation Electrophoresis, Quantitative Serum",LDA10132,8500
+1422,"Immunofixation Electrophoresis, Urine",LDA10133,10300
+1423,Immunoglobulin IgA,LDA10289,550
+1424,Immunoglobulin IgE,LDA10473,730
+1425,Immunoglobulin IgG,LDA10288,550
+1426,"Immunoglobulin IgG, CLDA",LDA10110,1820
+1427,Immunoglobulin IgM,LDA10287,550
+1428,Immunoglobulin Profile,LDA10061,1580
+1429,ImuLife Bronze,LDA10251,19180
+1430,ImuLife Bronze Plus,LDA10252,20210
+1431,ImuLife Gold,LDA10255,37150
+1432,ImuLife Gold Plus,LDA10256,44650
+1433,ImuLife Silver,LDA10253,30410
+1434,ImuLife Silver Plus,LDA10254,31150
+1435,ImuPro Basic 90 trigger food items,LDA10438,25000
+1436,"ImuPro Complete 270 trigger food
+items",LDA10436,43500
+1437,"ImuPro Screen+ 44 trigger food
+items",LDA10439,15000
+1438,Imupro Vegetarian Diet,LDA10458,25000
+1439,"ImuProBasic+ 180 trigger food
+items",LDA10437,35000
+1440,Individual Allergy Marker for Fish,LDA10271,1650
+1441,"Individual Marker ALTERNARIA ALTERNATA/TENIUS in-house
+allergen",LDA10262,1800
+1442,"Individual Marker ALDAergillus
+Fumigatus",LDA10263,1800
+1443,Individual Marker Candida Albicans,LDA10264,1800
+1444,Individual Marker Cat Epithelium,LDA10265,1800
+1445,Individual Marker Chicken,LDA10266,1800
+1446,Individual Marker Cockroach,LDA10267,1800
+1447,Individual Marker Cow Dander,LDA10268,1800
+1448,Individual Marker Dog Dander,LDA10269,1800
+1449,Individual Marker Egg White,LDA10270,1800
+1450,Individual Marker Horse Dander,LDA10273,1800
+1451,Individual Marker House Dust,LDA10274,1800
+1452,Individual Marker Milk,LDA10275,1800
+1453,Individual Marker Mug Wort,LDA10277,1800
+1454,Individual Marker Olive,LDA10278,1800
+1455,Individual Marker Peanut,LDA10279,1800
+1456,"Individual Marker Penicillium
+Notatum",LDA10280,1800
+1457,Individual Marker Rice,LDA10281,1800
+1458,Individual Marker ShLDAp (Prawn),LDA10282,1800
+1459,Individual Marker Soyabean,LDA10283,1800
+1460,Individual Marker Wheat,LDA10284,1800
+1461,Individual Marker white Pine,LDA10285,1650
+1462,"Infectious mononucleosis test
+(Heterophilic antibodies- MonoLDAot test)",LDA10053,1600
+1463,Infertility AssesLDAent Profile,LDA10189,2990
+1464,Infertility AssesLDAent Profile Comprehensive,LDA10203,6220
+1465,Inhibin  (IHC Marker),LDA10043,1650
+1466,Inhibin A (Maternal Marker),LDA10121,1040
+1467,Inhibin A (Reproductive Marker),LDA10489,1040
+1468,Inhibin B,LDA10112,2790
+1469,Insulin (Fasting),LDA10061,730
+1470,Insulin (PP) -Insulin Post Prandial,LDA10062,730
+1471,"Insulin, Free (Bioactive)",LDA10465,3800
+1472,Int_1p & 19q co deletion,LDAI10034,12650
+1473,Int_DPD Mutation Analysis,LDA10136,11900
+1474,"Int_Extended RAS Reflex Panel (exons 2,3,4 of KRAS & NRAS)",LDA10135,17050
+1475,"Int_Extended RAS Testing (exons 2,3,4 of KRAS & NRAS)",LDA10134,19250
+1476,"Int_KRAS Mutation Analysis (exons 2,3,4)",LDA10132,9900
+1477,"Int_N-RAS Mutation Analysis (exons 2,3,4)",LDA10133,11550
+1478,INTERLUEKIN-6,LDA10310,3390
+1479,International BCR-ABL Quantitation,LDA10167,6900
+1480,Intervertebral Disc - Histopathology LDAall,LDA10047,750
+1481,Intestinal Resection - Histopathology large,LDA10007,1800
+1482,Inv16 Qualitative RTPCR,LDA10008,4250
+1483,"Irinotecan Toxicity Genotyping
+(UGT1A1)",LDA10271,6600
+1484,IRMA CML Quest,LDA10067,9100
+1485,"Iron Studies, Basic",LDA10009,600
+1486,"Iron Studies, Comprehensive",LDA10010,1200
+1487,"Iron, Serum",LDA10075,400
+1488,IS BCR-ABL Quantitation,LDA10167,6900
+1489,Islet Cell Antibody,LDA10254,2530
+1490,Itraconazol level in blood,LDA10223,12000
+1491,JAK 2 Mutation Analysis (Exon 14),LDA10005,5900
+1492,JAK2 Exon 12 mutations,LDA10076,6050
+1493,Jak2 Reflex panel,LDA10101,8250
+1494,JC/BK Virus,LDA10062,7700
+1495,Jo-1 Antibody,LDA10197,1820
+1496,Kallmann syndrome gene panel,LDA10302,43000
+1497,"Kappa & Lambda Light Chains
+(Free),Urine",LDA10055,8470
+1498,Kappa Light Chain (IHC Marker),LDA10051,1650
+1499,"Kappa Light Chain, B-Cell Markers, Flowcytometry",LDA10018,1850
+1500,"Kappa, Free Light Chain",LDA10061,7700
+1501,"Kappa/Lambda, Ratio",LDA10063,7700
+1502,Ketone,LDA10005,80
+1503,Ki - 67   (IHC Marker),LDA10004,1650
+1504,Kidney Biopsy - Histopathology,LDA10058,1550
+1505,Kidney Function Test (KFT),LDA10002,600
+1506,"Kidney Function Test (KFT) Extended / Renal Function Test
+Extended",LDA10141,790
+1507,Kidney Stone Analysis,LDA10185,1400
+1508,"KIT Mutation Analysis - Systemic
+Mastocytosis",LDA10195,9500
+1509,KIT Mutation Analysis- Melanoma,LDA10187,9500
+1510,"KRAS Mutation Analysis (exons 2,3,4)",LDA10128,7500
+1511,K-RAS Testing by ARMS PCR,LDA10209,7450
+1512,Lactate,LDA10109,1450
+1513,"Lactate,CLDA",LDA10114,1450
+1514,Lambda Light Chain (IHC Marker),LDA10052,1650
+1515,"Lambda Light Chain, B-Cell Markers, Flowcytometry",LDA10019,1850
+1516,"Lambda, Free Light Chain",LDA10062,8470
+1517,Large - Histopathology,LDA10015,1800
+1518,Large Bone Resection - Histopathology,LDA10103,2400
+1519,Large Cell Lymphoma Panel (IHC Marker),LDA10053,5750
+1520,Large Cyst - Histopathology,LDA10003,1800
+1521,Large LDAecimen - Histopathology,LDA10001,1800
+1522,Large with blocks - Histopathology,LDA10014,1950
+1523,Laryngeal swab - AFB Culture Rapid,LDAI10188,1000
+1524,Larynx - Histopathology LDAall,LDA10050,750
+1525,LBC / Liquid Based Cytology,LDA10018,950
+1526,LBC Reflex to HR HPV,LDA101113,1650
+1527,LBx Multiorgan Somatic Mutation panel,LDA10399,"1,50,000"
+1528,"LC 1 Antibody Liver Cytosolic
+Antigen Type 1",LDA10399,4000
+1529,"LDH, (Serum Lactate
+Dehydrogenase serum)",LDA10062,350
+1530,"LDH, Fluid (Lactic dehydrogenase
+Fluid)",LDA10151,370
+1531,LE cell Phenomenon,LDA10050,350
+1532,"Lead, 24 Hrs. Urine",LDA10151,2180
+1533,"Lead, Blood",LDA10146,2180
+1534,"Legionella Pneumophila IgG
+Antibodies",LDA10373,3000
+1535,"Legionella Pneumophila IgM
+Antibodies",LDA10374,3000
+1536,Legionella Pneumophila  Antibody,LDA10375,5000
+1537,"Leishmania  Antibodies (KALA
+AZAR)",LDA10021,1820
+1538,LeptoLDAira IgG & IgM,LDA10040,2660
+1539,LeptoLDAira IgG Antibody,LDA10015,1820
+1540,LeptoLDAira IgM Antibody,LDA10016,1820
+1541,"Leucocyte Adhesion Deficiency (LAD
+I&II)",LDA10058,6000
+1542,Leukaemia Cytochemistry Panel,LDA10053,1090
+1543,"Leukaemia Lymphoma
+comprehensive panel",LDA10088,12100
+1544,Leukaemia Orientation panel,LDA10089,7150
+1545,Levofloxacin AFB Sensitivity,LDAI10255,3000
+1546,LH (Luteinizing Hormone),LDA10050,500
+1547,"LH / FSH Ratio (Luteinizing Hormone & Follicle Stimulating
+Hormone)",LDA10051,880
+1548,Limb-girdle muscular dystrophy,LDA10458,14000
+1549,Lipase,LDA10061,550
+1550,Lipase - Fluid,LDA10156,490
+1551,Lipid Profile (Basic),LDA10062,600
+1552,Lipid Profile (Extended),LDA10063,3250
+1553,Lipid Profile with LDL Direct,LDA10064,970
+1554,Lipoprotein (a) - LPA,LDA10032,1390
+1555,Liquid Based Cytology,LDA10018,950
+1556,Liquid Biopsy Panel for Lung Cancer- 11 gene,LDA10414,60000
+1557,Liquid Bx. Cell Free BRAF,LDA10356,"14,000"
+1558,Liquid Bx. Cell Free Comprehensive Colon Cancer Panel,LDA10353,30000
+1559,Liquid Bx. Cell Free KRAS,LDA10355,"14,000"
+1560,Liquid Bx. Cell Free PAN RAS,LDA10354,"25,000"
+1561,Liquid Bx.EGFR Cell Free DNA / Circulating tumor,LDA10290,12600
+1562,"LITHIUM DRUG ASSAY, Serum",LDA10007,370
+1563,Liver Abscess ALDAirate Examination,LDA10137,240
+1564,Liver Biopsy - Histopathology,LDA10057,1550
+1565,Liver Function Test (LFT),LDA10001,660
+1566,"LKM Antibody In Dilutions, IFA (Liver Kidney Microsomal antibody
+In Dilutions, IFA)",LDA10250,2180
+1567,Low Density Lipoprotein Cholesterol (Direct) - LDL (Direct),LDA10035,350
+1568,Lung Abscess TAP (CT Guided),LDA10138,730
+1569,Lung Cancer LBx (NGS only) - Blood,LDA10397,75000
+1570,Lung Cancer LBx panel + PDL1 - Blood,LDA10396,85000
+1571,"Lung Cancer-Targeted Gene Panel with Rearrangement, Tumor",LDA10389,200000
+1572,"Lung MSI (unstable) plus Tumor
+Mutation Burden (TMB)",LDA10417,65000
+1573,Lupus Anticoagulant (dRVVT),LDA10066,1940
+1574,"Lupus Erythematosus Panel (SLE
+Panel)",LDA10255,9390
+1575,"LYME (Borrelia Burgdorferi IgG &
+IgM)",LDA10324,3850
+1576,LYME DISEASE (Borrelia Burgdorferi IgG),LDA10306,2250
+1577,LYME DISEASE (Borrelia Burgdorferi IgM),LDA10323,2250
+1578,Lymph node - Histopathology (large biopsy),LDA10008,1800
+1579,Lymph node - Histopathology (medium biopsy),LDA10096,1200
+1580,Lymph node block dissection - Histopathology radical,LDA10113,2400
+1581,Lymphoma Comprehensive & Karyotype Combo,LDA10091,14400
+1582,Lymphoma Diagnostic Panel (Flowcytometry),LDA10072,11200
+1583,Lymphoma Panel by FISH,LDAI10065,12000
+1584,"LYMPHOMA/LEUKEMIA-
+comprehensive gene panel for AML
+, MDS , ALL & CLL",LDA10413,45000
+1585,Lysozyme (Muramidase),LDA10228,7000
+1586,"MAG Antibodies Demyelinating
+disorders",LDA10493,5600
+1587,Magnesium,LDA10065,400
+1588,"Magnesium, 24Hrs.Urine",LDA10019,600
+1589,"Magnesium, Random Urine",LDA10059,600
+1590,"Malaria Antigen
+(P.Vivax/Falciparum)",LDA10024,600
+1591,Male Infertility Panel,LDA10204,3740
+1592,MammaPrint + BluePrint Combination,LDA10242,220000
+1593,MammaPrint Assay,LDA10364,165000
+1594,Mantoux Test,LDA10165,200
+1595,"Marfan’s syndrome (FBN1) gene
+analysis",LDA10298,43000
+1596,Mass <5 cm - Histopathology LDAall,LDA10054,750
+1597,Mastectomy - Histopathology radical,LDA10101,2400
+1598,MDM2 GENE AMPLIFICATION BY FIS,LDAI10051,10000
+1599,MDS evaluation panel,LDA10106,12000
+1600,MDS prognostication and risk stratification gene panel,LDA10450,22000
+1601,Meckel Gruber syndrome gene panel,LDA10313,43000
+1602,Medium LDAecimen - Histopathology,LDA10094,1200
+1603,Medium with blocks - Histopathology,LDA10093,1200
+1604,"Medullary Thyroid Carcinoma
+Mutation Detection (MEN2 mutation)",LDA10292,15750
+1605,"Melanoma Mutation Panel, (BRAF+
+c-KIT)",LDA10173,15000
+1606,"MELAS (MITOCHONDRIAL ENCEPHALOPATHY & LACTIC ACIDOSIS WITH STROKE LIKE
+SYNDROME",LDA10390,11100
+1607,Melatonin,LDA10494,6300
+1608,MET gene Amplification by FISH,LDAI10022,9900
+1609,Metabolic screen (Basic)-4 conditions,LDA10198,1210
+1610,"Metabolic screen -111 conditions
+urine",LDA10201,4290
+1611,"Metabolic screen -119 conditions
+urine",LDA10202,6160
+1612,Metabolic screen- TMS (47 disorders),LDA10214,3250
+1613,"Metabolic screen TMS + 6 + Hb ( CH, CAH, G6PD, CF, Galactosemia, Biotinidase, Sickle Cell Disease, Sickle Cell trait, Hb variants, B
+thalassemia)",LDA10216,5890
+1614,"Metabolic screen TMS + 6  (CH, CAH, G6PD, CF, Galactosemia and
+Biotinidase)",LDA10215,4790
+1615,Metabolic screen-11 conditions,LDA10200,2750
+1616,Metabolic screen-7 conditions,LDA10199,1850
+1617,Metanephrine-Free PlaLDAa,LDA10394,5000
+1618,"Metanephrines, 24 Hrs. Urine",LDA10026,2700
+1619,"Methadone Screen, Urine",LDA10019,4240
+1620,Methotrexate level,LDA10171,3000
+1621,Methyl Malonic Acid,LDA10201,2400
+1622,"MGMT Methylation Test-
+Glioblastoma",LDA10106,12500
+1623,"Microalbumin Creatinine Ratio,
+Random Urine",LDA10072,500
+1624,"Microalbumin, 24Hrs.Urine",LDA10032,500
+1625,"Microphotograph Surgical
+Pathology",LDA101120,150
+1626,Microsatellite Instability HNPCC Studies,LDA10276,18000
+1627,Miscellaneous - AFB Culture Rapid,LDAI10198,1000
+1628,Miscellaneous - Culture & Sensitivity Aerobic (Conventional),LDAI10025,650
+1629,"Miscellaneous Culture & Sensitivity Anaerobic (Conventional) -
+Miscellaneous",LDAI10083,1050
+1630,MLH-1  (IHC Marker),LDA10089,1650
+1631,MLL Gene Break apart Rearrangement,LDAI10006,4500
+1632,MOC 31 (IHC Marker),LDA10109,1650
+1633,Modified ZN staining for Nocardia,LDAI10235,150
+1634,MOTT DIFFERENTIATION,LDA10036,6000
+1635,MPL Mutation Analysis,LDA10178,7700
+1636,MPN Molecular Panel,LDA10219,17000
+1637,MPO (IHC Marker),LDA10032,1650
+1638,MSH-2 (IHC Marker),LDA10090,1650
+1639,MSH-6 (IHC Marker),LDA10091,1650
+1640,MSI by Immunohistochemistry  (IHC Marker),LDA10097,5500
+1641,MTHFR Mutation Detection,LDA10049,2750
+1642,"MTHFR Mutations C677T / A1298C
+Mutations",LDA10482,9000
+1643,MUC 2 IHC marker,LDA10108,1650
+1644,MUC 5AC (IHC Marker),LDA10103,1650
+1645,Muc-1 (IHC Marker),LDA10100,1650
+1646,"Multiple Myeloma FISH on enriched
+PlaLDAa cells",LDAI10062,10500
+1647,Multiple Myeloma MRD panel,LDA10107,11500
+1648,"Multiple Myeloma Panel
+(Flowcytometry)",LDA10074,5150
+1649,Mum-1  (IHC Marker),LDA10099,1650
+1650,Mumps IgG Antibody,LDA10019,2180
+1651,Mumps IgM Antibody,LDA10020,2180
+1652,Mumps Virus Antibody Panel,LDA10034,4240
+1653,Muscular Dystrophy & Congenital Myopathy,LDA10415,21000
+1654,"Musk Antibody Muscle LDAecific
+Kinase Antibody",LDA10326,9100
+1655,My Risk,LDA10362,310000
+1656,"MycoplaLDAa Pneumoniae IgG
+Antibody",LDA10043,3030
+1657,"MycoplaLDAa Pneumoniae IgM
+Antibody",LDA10044,3030
+1658,"MYD88, Mutation Analysis",LDA10377,5000
+1659,Myogenin (IHC Marker),LDA10033,1650
+1660,"Myoglobin, Serum",LDA10106,6050
+1661,"Myoglobin, Urine",LDA10107,1200
+1662,Myositis Profile 11 antigens,LDA10481,12000
+1663,Myotonic dystrophy type 1,LDA10428,24000
+1664,"Myotonic dystrophy type 1, GENE DMPK",LDA10339,16600
+1665,"Myotonic dystrophy type 2, GENE CNBP",LDA10340,16600
+1666,"Nail For Fungus Exam., KOH
+Preparation",LDAI10164,350
+1667,Nails - Fungus Culture,LDAI10161,1000
+1668,Napsin  (IHC Marker),LDA10088,1650
+1669,Nasal Polyp - Histopathology LDAall,LDA10034,750
+1670,Nasal Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10012,650
+1671,Nasal Swab -Fungus Culture,LDAI10153,1000
+1672,Neonatal  and Adult  Cholestasis,LDA10295,55000
+1673,Nephrectomy - Histopathology large,LDA10006,1800
+1674,Nephrectomy for Cancer - Histopathology radical,LDA10105,2400
+1675,Neuro Oncology Panel,LDA10388,220000
+1676,Neuroblastoma Profile,LDA10027,14520
+1677,"Neuronal Antibody Profile or Paraneoplastic panel by
+Immunoblot",LDA10108,8400
+1678,"NGAL (NEUTROPHIL GELATINASE –
+ASSOCIATED LIPOCALIN), URINE",LDA10483,10000
+1679,NGS Cancer HotLDAot 50 gene Panel,LDA10284,33500
+1680,NGS Comprehensive Lung Panel,LDA10468,41000
+1681,NGS Lung Plus Panel,LDA10124,40000
+1682,"Nickle, Random urine",LDA10186,4050
+1683,"Nickle, serum",LDA10184,4050
+1684,Niemann-Pick disease gene panel,LDA10310,30000
+1685,Nipple Discharge for Malignant Cells,LDA10012,550
+1686,NMDA (N-METHYL D ALDAARATE),LDA10366,9000
+1687,"NMDA Receptor Antibody (NR1), CLDA",LDA10431,9000
+1688,N-myc Gene amplification by FISH,LDAI10041,10000
+1689,Non Tumorous Thyroid - Histopathology large,LDA10004,1800
+1690,"Non tumourous intestinal resection
+- Histopathology large",LDA10018,1800
+1691,Non-invasive Pre-natal test (NIPT),LDA10455,18000
+1692,Noonan syndrome gene panel,LDA10473,35000
+1693,NPM 1 (Exon 12) Mutation Analysis,LDA10089,3050
+1694,"NRAS Mutation Analysis (exons 2,3,4)",LDA10129,9350
+1695,NRAS TESTING BY ARMS PCR,LDA10430,6000
+1696,NSCLC  (Non-LDAall cell lung cancer) Panel:2,LDA10030,17000
+1697,NSCLC (Non-LDAall cell lung cancer) Panel:1,LDA10029,15500
+1698,NSCLC Express Panel 7,LDA10466,55000
+1699,NSCLC Panel 3,LDA10217,20500
+1700,NSCLC Panel 4,LDA10218,20500
+1701,NSCLC Panel 5,LDA10123,36000
+1702,NSCLC Panel 8,LDA10469,38000
+1703,NSE (IHC Marker),LDA10061,1650
+1704,NSE (Neuron LDAecific Enolase),LDA10186,4240
+1705,NT-pro BNP,LDA10307,2900
+1706,Obesity Gene Profile,LDA10120,6750
+1707,Obesity Package,LDA10186,1270
+1708,Oct 2 (IHC Marker),LDA10102,1650
+1709,Oct 3 /4 (IHC Marker),LDA10084,1650
+1710,Ocular Fluid - AFB Culture Rapid,LDAI10183,1000
+1711,Ocular Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10052,1050
+1712,Ocular Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10007,650
+1713,Ocular Fluid - Culture & Sensitivity Anaerobic (Conventional),LDAI10078,1050
+1714,Ocular Fluid - Fungus Culture,LDAI10142,1000
+1715,Oesophagus - Histopathology LDAall,LDA10039,750
+1716,"Oligoclonal Bands, CLDA",LDA10135,5800
+1717,Omega 3 & 6 Fatty Acid,LDA10095,8050
+1718,Omentum - Histopathology LDAall,LDA10040,750
+1719,Oncomine Focus Assay,LDA10454,55000
+1720,"Oncomine Lung Cancer Mutation
+and Fusion Panel",LDA10424,50500
+1721,OncoSelect ctDNA for EGFR T790M and C797S,LDA10434,22000
+1722,"Opiates Screen, Urine",LDA10008,740
+1723,Oral Scrappings For Candida,LDA10166,220
+1724,Orchidectomy for Cancer - Histopathology  radical,LDA10108,2400
+1725,Organic Acid Qualitative Urine LDAot,LDA10214,2400
+1726,OLDAlality,LDA10187,880
+1727,"OLDAlality, Random Urine",LDA10097,880
+1728,OLDAtic (LDA's) Fragility Test,LDA10052,850
+1729,Osteocalcin,LDA10188,3870
+1730,OSTEOPOROSIS  MONITORING (TOTAL P1NP),LDA10092,2100
+1731,OT-LDAECIMEN - Culture  Aerobic (Conventional),LDAI10037,650
+1732,"Ovarian Antibody, AOA",LDA10445,4200
+1733,Ovarian Cancer Panel,LDA10183,3200
+1734,Ovarian Cyst - Histopathology medium,LDA10082,1200
+1735,Ovarian Cyst Fluid for Cytology,LDA10024,550
+1736,Ovarian Tumor Resection - Histopathology radical,LDA10104,2400
+1737,Ovarian Tumors - Histopathology radical,LDA10115,2400
+1738,"Oxalate, 24 Hrs. Urine",LDA10035,2420
+1739,Oxcarbazepine Metabolite of oxcarbamazepine,LDA10201,5000
+1740,P - ANCA,LDA10192,1820
+1741,p53 (IHC Marker),LDA10005,1650
+1742,p63,LDA10095,1650
+1743,PALB2 Gene for Breast Cancer,LDA10231,66500
+1744,Pan CK (Pan Cytokeratin),LDA10027,1650
+1745,pANCA by ELISA,LDA10352,1760
+1746,pANCA by IFA,LDA10353,1760
+1747,PanCA Monitor Test,LDA10393,22500
+1748,"p-ANCA, c-ANCA- combo test by LIA",LDA10253,2420
+1749,Panfungal Detection & Identification Panel,LDA10265,18200
+1750,"Panorama (NIPT) for Twins/Egg
+Donor/Surrogate Pregnancy",LDA10382,40000
+1751,PAP LDAear Conventional,LDA10013,550
+1752,PAPP - A,LDA10109,2130
+1753,Paracetamol (Acetaminophen),LDA10009,1820
+1754,Partial thyroid - Histopathology medium,LDA10085,1200
+1755,Parvovirus B19 IgG Antibodies,LDA10036,3630
+1756,"Parvovirus B19 IgM & IgG
+Antibodies, Serum",LDA10038,6050
+1757,Parvovirus B19 IgM Antibodies,LDA10037,3630
+1758,PAX-5  (IHC Marker),LDA10093,1650
+1759,PCOD Profile Extended,LDA10205,4030
+1760,PCR for Chlamydia,LDA10056,4600
+1761,"PCV, Body Fluid (Packed Cell Volume, Body Fluid)",LDA10152,100
+1762,PCV+Hemoglobin (Hb),LDA10015,190
+1763,"PD - L1 Lung Ventana, IHC",LDA10142,17500
+1764,PDGFRA Gene Rearrangement by FISH,LDAI10066,4500
+1765,"PDGFRa Mutation Analysis in
+Blocks",LDA10176,9000
+1766,PDGFRB Gene Rearrangement by FISH,LDAI10067,4500
+1767,PDL - 1 by Dako,LDA10134,26200
+1768,PD-L1 (Clone LDA263) by IHC,LDA10143,6400
+1769,Pericardial Fluid - AFB Culture Rapid,LDAI10181,1000
+1770,Pericardial Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10050,1050
+1771,Pericardial Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10005,650
+1772,"Pericardial Fluid - Culture &
+Sensitivity Anaerobic (Conventional)",LDAI10076,1050
+1773,Pericardial Fluid Examination,LDA10139,500
+1774,Pericardial Fluid for Malignant Cells,LDA10003,550
+1775,Pericardial Fluid -Fungus Culture,LDAI10139,1000
+1776,Peripheral Blood LDAear,LDA10022,200
+1777,Peritoneal Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10049,1050
+1778,Peritoneal Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10004,650
+1779,"Peritoneal Fluid - Culture & Sensitivity Anaerobic
+(Conventional)",LDAI10075,1050
+1780,Peritoneal Fluid Examination,LDA10134,500
+1781,"pH, Urine",LDA10094,110
+1782,"Phadiatop IgE,",LDA10355,1430
+1783,"Phencyclidine Screen, Urine",LDA10010,730
+1784,Phenobarbitone (Luminal/Gardenal) Assay,LDA10012,1210
+1785,Phenobarbitone Screen Urine,LDA10022,740
+1786,Phenytoin (Dilantin/Eptoin/Epsolin),LDA10011,1360
+1787,Pheochromocytoma Profile,LDA10016,18150
+1788,"PhoLDAholipase A2 Receptor
+Antibody (PLA2R),Quantitative",LDA10480,6500
+1789,"PhoLDAholipid Antibodies (IgG&
+IgM)",LDA10220,1580
+1790,"PhoLDAholipid Antibody, IgG",LDA10221,1100
+1791,"PhoLDAholipid Antibody, IgM",LDA10222,1100
+1792,PhoLDAholipid Syndrome Panel,LDA10002,4240
+1793,PhoLDAhorus,LDA10060,150
+1794,"PhoLDAhorus, 24Hrs.Urine",LDA10012,250
+1795,"PhoLDAhorus, Random Urine",LDA10061,250
+1796,"PhoLDAhorus-Inorganic, Serum",LDA10187,350
+1797,"PhoLDAhorus-Inorganic, Urine 24Hrs",LDA10207,350
+1798,"PhoLDAhorus-Inorganic, Urine
+LDAot/Random",LDA10208,350
+1799,PIK3CA Gene Mutation,LDA10139,7250
+1800,Pilonidal Sinus - Histopathology medium,LDA10079,1200
+1801,PIVKA-II,LDA10308,4900
+1802,Placenta - Histopathology medium,LDA10083,1200
+1803,PlaLDAa Renin Activity,LDA10189,5000
+1804,Platelet Antibody,LDA10408,10000
+1805,Platelet Count,LDA10018,130
+1806,Pleural Fluid - AFB Culture Rapid,LDAI10179,1000
+1807,Pleural Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10048,1050
+1808,Pleural Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10003,650
+1809,Pleural Fluid - Culture & Sensitivity Anaerobic (Conventional) -,LDAI10074,1050
+1810,Pleural Fluid - Fungus Culture,LDAI10138,1000
+1811,Pleural Fluid Exam. for Malignant Cells,LDA10002,550
+1812,Pleural Fluid Examination,LDA10127,500
+1813,Pleural Fluid For Amylase,LDA10129,550
+1814,PMS-2 (IHC Marker),LDA10092,1650
+1815,"PNH Comprehensive Work Up
+(Flowcytometry)",LDA10084,4850
+1816,"PNH Diagnostic Panel (PolymoLDAhs)
+(Flowcytometry)",LDA10071,3050
+1817,"PNH Diagnostic Panel(LDAs)
+(Flowcytometry)",LDA10070,3050
+1818,PNH With  Flear  (Flowcytometry),LDA10083,3650
+1819,"Polycystic kidney disease gene
+panel (ALDAKD PKHD1/ADPKD PKD1 & PKD2)",LDA10314,38500
+1820,Polycystic Ovarian disorder(PCOD) profile,LDA10175,1870
+1821,"PoLDAhobililnogen, quantitative, 24hrs Urine",LDA10085,4900
+1822,"POLDAHYRINS TOTAL, 24 Hour Urine
+(quantitative) Recommended test for PoLDAhyrias
+and Lead Poisoning.",LDA10033,6200
+1823,Posaconazole quantitative,LDA10227,24000
+1824,Positive Select Lung test,LDA10462,42000
+1825,Potassium,LDA10057,150
+1826,"Potassium, 24Hrs.Urine",LDA10036,200
+1827,"Potassium, Body Fluid",LDA10153,220
+1828,"Potassium, Random Urine",LDA10062,200
+1829,PR (Progesterone Receptor)    (IHC Marker),LDA10002,1650
+1830,Prader Willi Syndrome by MS-PCR,LDA10338,16000
+1831,"Pregnancy Test, Urine or bHCG,
+Urine",LDA10084,170
+1832,Pregnenolone,LDA10229,9100
+1833,Prenatal Chromosomal Microarray Analysis (CMA),LDA10249,36000
+1834,PLDAary immunodeficiency gene panel - By NGS,LDA10459,30000
+1835,PLDAary immunodeficiency screening panel,LDA10097,6600
+1836,"Procalcitonin, Semi-quantitative
+serum",LDA10341,3030
+1837,Procalcitonin,LDA10413,3630
+1838,Products of Conception - Histopathology medium,LDA10092,1200
+1839,Progesterone,LDA10057,500
+1840,Prolactin,LDA10052,500
+1841,Prolactin (Manual),LDA10147,1650
+1842,Prolaris,LDA10346,300000
+1843,Propoxyphene,LDA10020,740
+1844,Prostate - TULDA chips - Histopathology medium,LDA10086,1200
+1845,Prostate Cancer Test,LDA10394,22500
+1846,Prostate enucleation - Histopathology large,LDA10016,1800
+1847,Prostate LDAecific Antigen Profile,LDA10206,1500
+1848,Prostatic Fluid Exam for Malignant Cells,LDA10006,550
+1849,Protein C and Protein S functional Assay,LDA10504,9350
+1850,Protein C-Functional Assay,LDA10096,5170
+1851,"Protein Creatinine Ratio, Random
+Urine",LDA10073,490
+1852,Protein Electrophoresis,LDA10130,850
+1853,"Protein Electrophoresis, 24Hr.Urine",LDA10131,3650
+1854,"Protein Electrophoresis, CLDA",LDA10138,5800
+1855,Protein electrophoresis reflex to IFE,LDA10208,3300
+1856,Protein S-Functional Assay,LDA10099,4290
+1857,Protein Total,LDA10039,160
+1858,Protein Total Body Fluids,LDA10014,220
+1859,"Protein Total, CLDA",LDA10115,220
+1860,"Protein, 24Hrs.Urine",LDA10030,220
+1861,"Protein, Random Urine",LDA10063,220
+1862,Prothrombin Gene Mutation,LDA10175,2750
+1863,Prothrombin Time (PT) and INR (International Normalized Ratio),LDA10002,350
+1864,PSA (IHC Marker),LDA10035,1650
+1865,PTH (Intact)-Parathyroid Hormone,LDA10065,1320
+1866,Pus - AFB Culture Rapid,LDAI10178,1000
+1867,Pus - Culture & Sensitivity Aerobic (Conventional),LDAI10013,650
+1868,Pus - Culture & Sensitivity Anaerobic (Conventional) -,LDAI10080,1050
+1869,Pus - Fungus Culture,LDAI10154,1000
+1870,Pyogenic Granuloma - Histopathology LDAall,LDA10031,750
+1871,Pyruvate (Pyruvic Acid),LDA10057,3300
+1872,Quadruple Test,LDA10116,3500
+1873,Quantiferon TB Gold,LDA10025,2640
+1874,Radical - Histopathology,LDA10111,2400
+1875,Radical Neck Dissection - Histopathology,LDA10106,2400
+1876,Radical with Block - Histopathology,LDA10112,2400
+1877,LDA Count (Red Blood Cell count),LDA10013,100
+1878,RCC (Renal Cell Carcinoma) (IHC Marker),LDA10068,1650
+1879,RDW (Red Cell Distribution Width),LDA10019,110
+1880,"RET/PTC rearrangement, thyroid
+cancer",LDA10222,23800
+1881,Reticulin Stain / Silver stain,LDA10121,650
+1882,Reticulocyte Count,LDA10041,330
+1883,Retinal degeneration gene panel,LDA10461,30000
+1884,"RETT syndrome (MECP2 mutation
+analysis)",LDA10232,8000
+1885,"Rett Syndrome comprehensive gene panel, NGS",LDA10437,30000
+1886,"RF Factor, Synovial Fluid",LDA10132,620
+1887,"Rheumatoid Factor  - RF Factor,
+Qualitative",LDA10008,350
+1888,"Rheumatoid Factor - RF Factor,
+(Quantitative)",LDA10083,450
+1889,"Rickettsia (Typhus Fever) antibody
+(IgG,IgM)",LDA10344,10500
+1890,Rickettsia PCR,LDA10438,7000
+1891,"ROMA Value (HE4 +
+CA125)/Ovarian cancer Panel",LDA10183,3200
+1892,Rubella (German Measles) IgG,LDA10138,490
+1893,Rubella (German Measles) IgM,LDA10137,490
+1894,"Rubella Avidity, IgG",LDA10139,1210
+1895,Rubeola (Measles) IgG,LDA10006,2180
+1896,Rubeola (Measles) IgM,LDA10005,2180
+1897,S100  (IHC Marker),LDA10054,1650
+1898,"SAAG(Serum Ascites-Albumin
+Gradient)",LDA10111,370
+1899,Salivary gland  - Histopathology LDAall,LDA10049,750
+1900,"SCA Comprehensive Panel SCA1, 2, 3, 6, 7",LDA10373,16200
+1901,"SCA12 LDAinocerebellar Ataxia Type
+12, LDA Repeats",LDA10486,4100
+1902,Scleroderma Panel,LDA10474,7000
+1903,SCN1A genetic testing,LDA10363,478500
+1904,"Scraping For Fungus Exam, KOH
+Prep.",LDAI10174,350
+1905,Scrub Typhus Antibody,LDAI10261,1300
+1906,Scrub typhus IgM antibody test,LDA10482,1150
+1907,"Secretions - Culture & Sensitivity
+Aerobic (Conventional)",LDAI10018,650
+1908,Semen - AFB Culture Rapid,LDAI10185,1000
+1909,Semen - Culture & Sensitivity Aerobic (Conventional),LDAI10019,650
+1910,Semen - Fungus Culture,LDAI10147,1000
+1911,Semen Analysis,LDA10164,450
+1912,Semen Fructose Qualitative,LDA10162,300
+1913,Serum Theophylline,LDA10402,1350
+1914,SES- Acute Encephalitic Syndrome PCR,LDA10153,43200
+1915,SES- Acute Pyrexia + Dengue IgM PCR,LDA10165,19250
+1916,SES- Febrile Neutropenia/Post tranLDAlant infection/Pneumonia PCR,LDA10157,46700
+1917,SES- Infectious Endophthalmitis PCR,LDA10160,32200
+1918,SES- Meningitis PCR,LDA10150,19000
+1919,SES- Meningo Encephalitis PCR,LDA10152,19500
+1920,SES- Sepsis PCR,LDA10155,22000
+1921,SES- Sepsis PCR with Antibiotic Resistance,LDA10156,30000
+1922,SES- Uveitis PCR,LDA10163,11000
+1923,SES- Viral Retinitis PCR,LDA10161,16000
+1924,SGOT,LDA10043,150
+1925,sHBG (Sex Hormone Binding Globulin),LDA10069,2650
+1926,Shwachman-Diamond syndrome,LDA10412,44000
+1927,"Sickling, Screening Test",LDA10030,190
+1928,Single IHC Marker (IHC Marker),LDA10075,1650
+1929,Skin - Histopathology LDAall,LDA10027,750
+1930,"Skin And Nasal Scrappings
+(Leprabacilli )",LDAI10236,300
+1931,Skin Biopsy Panel - Histopathology,LDA10061,3650
+1932,"Skin For Fungus Exam., KOH Preparation",LDAI10163,350
+1933,Skin Scraping -Fungus Culture,LDAI10159,1000
+1934,Sleeve gastrectomy - Histopathology large,LDA10017,1800
+1935,Slide Issue,LDA10075,200
+1936,Slides & Blocks Issue,LDA10069,200
+1937,Slides (Duplicate) Issue,LDA10017,200
+1938,Slides Issue for II Opinion,LDA10068,200
+1939,LDAA (IHC Marker),LDA10034,1650
+1940,LDAall - Histopathology,LDA10046,750
+1941,LDAall Cell Lymphoma Panel,LDA10054,5050
+1942,LDAall Diag./Incision - Histopathology,LDA10029,750
+1943,"LDAear Examination for Malarial
+Parasite",LDA10023,100
+1944,LDAear For Leprae Bacilli,LDA10171,200
+1945,"LDAoth Muscle Antibody (ALDAA), IFA",LDA10251,2180
+1946,Sodium,LDA10056,150
+1947,Sodium & Potassium,LDA10069,300
+1948,"Sodium Valproate Level or Valproic
+Acid",LDA10013,920
+1949,"Sodium, 24Hrs. Urine",LDA10037,250
+1950,"Sodium, Body Fluid",LDA10154,150
+1951,"Sodium, Random Urine",LDA10064,250
+1952,Soft Tissue Tumor Resection - Histopathology radical,LDA10109,2400
+1953,Somatic Genomic Testing -SGT 352,LDA10475,35000
+1954,"LDAecial Histochemical stain (except
+reticulin stain) - Formalin fixed tissue",LDA10120,600
+1955,LDAecial Histochemical stain (except reticulin stain) - Paraffin block,LDA10119,300
+1956,"LDAecific Gravity, Urine",LDA10091,80
+1957,LDAerm DNA fragmentation,LDA10200,10000
+1958,LDAinal muscular Atrophy Microdeletion (LDAA)-PCR (Pre- natal),LDA10059,13050
+1959,LDAinal muscular dystrophy (LDAA) by PCR,LDA10057,4600
+1960,LDAleen - Histopathology large,LDA10011,1800
+1961,LDAutum - AFB Culture Rapid,LDAI10196,1000
+1962,"LDAutum - Culture & Sensitivity
+Aerobic (Conventional)",LDAI10014,650
+1963,LDAutum - Fungus Culture,LDAI10157,1000
+1964,LDAutum Exam. for Malignant Cells,LDA10010,550
+1965,"LDAutum Examination, Routine",LDA10190,110
+1966,"LDAutum For Fungus Exam., KOH
+Preparation",LDAI10169,350
+1967,SRY detection (Yp11.3) by FISH,LDAI10060,5500
+1968,"STK11 gene analysis (Peutz-Jeghers
+Syndrome)",LDA10480,30000
+1969,Stomach - Histopathology LDAall,LDA10038,750
+1970,Stool - AFB Culture Rapid,LDAI10199,1000
+1971,"Stool - Culture & Sensitivity Aerobic
+(Conventional)",LDAI10027,650
+1972,Stool  Examination (Routine),LDA10002,120
+1973,"Stool Examination, PH and Reducing Substances",LDA10108,130
+1974,Stool For Fat Globules,LDA10104,550
+1975,Stool For Occult Blood,LDA10099,140
+1976,Stool For Reducing Sugar,LDA10100,130
+1977,Stool For Rota Virus,LDA10103,1980
+1978,Stool -Fungus Culture,LDAI10148,1000
+1979,"Streptococcus Group B Antigen
+Detection",LDA10191,1070
+1980,"Streptococcus pneumoniae Antigen
+detection CLDA",LDA10122,1550
+1981,Superficial Lumps - Histopathology medium,LDA10087,1200
+1982,Surrogacy Panel,LDA10207,5000
+1983,Swab - AFB Culture Rapid,LDAI10192,1000
+1984,"Swabs For Fungus Exam, KOH Prep.",LDAI10173,350
+1985,Sympathectomy - Histopathology large,LDA10010,1800
+1986,Synaptophysin (IHC Marker),LDA10059,1650
+1987,Synovial - Histopathology LDAall,LDA10045,750
+1988,Synovial Fluid - AFB Culture Rapid,LDAI10182,1000
+1989,Synovial Fluid - Culture & Sensitivity Aerobic (Automated),LDAI10051,1050
+1990,Synovial Fluid - Culture & Sensitivity Aerobic (Conventional),LDAI10006,650
+1991,"Synovial Fluid - Culture &
+Sensitivity Anaerobic (Conventional)",LDAI10077,1050
+1992,Synovial Fluid - Fungus Culture,LDAI10141,1000
+1993,Synovial Fluid Exam. for Malignant Cells,LDA10005,550
+1994,Synovial Fluid Examination,LDA10130,500
+1995,Synovium - Histopathology medium,LDA10097,1200
+1996,Syphilis Serology,LDA10378,1700
+1997,"T B NK cell lymphocytes subset
+analysis",LDA10096,3700
+1998,T Cell clonality,LDA010105,13200
+1999,t(5;12) or PDGFRB/ETV6 RTPCR,LDA10077,4250
+2000,"T, B Myeloid & Karyotype Combo Panel",LDA10007,10150
+2001,"T3, Total (Tri-Iodothyronine)",LDA10175,310
+2002,"T4, Total  (Thyroxine Total)",LDA10176,310
+2003,Tacrolimus,LDA10016,3870
+2004,"Tartarate Resistant Acid PhoLDAhatase-Cytochemistry Stain
+(TRAP)",LDA10156,1900
+2005,"Tay-Sachs disease (HEXA) gene
+analysis",LDA10460,30000
+2006,TB Confirmatory Test,LDA10012,4750
+2007,TB detection through TMA,LDA10037,3000
+2008,TB Drug Resist Rapid,LDA10141,13750
+2009,TB Drug Resistance- MDRsure (Hain's Line Probe Assay),LDA10038,1800
+2010,TB Drug Resistance- XDRsure (Hain's Line Probe Assay),LDA10039,4000
+2011,TB PCR,LDA10032,2000
+2012,TB Screen,LDA10048,1160
+2013,TB Xpert /Gene xpert,LDA10040,2200
+2014,TBC and MOTT Identification of cultured broth,LDAI10238,1300
+2015,TdT    Flowcytometry,LDA10037,1850
+2016,TdT  (IHC Marker),LDA10053,1650
+2017,Testis - Histopathology large,LDA10005,1800
+2018,Testosterone Free,LDA10055,2180
+2019,Testosterone Total,LDA10056,550
+2020,Thalassemia Mutation (5 common mutations) Prenatal LDAecimen,LDA10418,17000
+2021,Thalassemia Profile,LDA10049,2200
+2022,"Thiamine-reLDAonsive megaloblastic anaemia syndrome or Roger
+Syndrome",LDA10321,44000
+2023,Throat Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10020,650
+2024,Throat Swab - Fungus Culture,LDAI10155,1000
+2025,Throat Swab For Albert Stain,LDAI10096,300
+2026,"Throat Swab For Fungus
+Examination",LDAI10117,350
+2027,Thrombin Time,LDA10004,850
+2028,Thrombophilia profile,LDA10180,15950
+2029,Thyroglobulin (IHC Marker),LDA10040,1650
+2030,Thyroglobulin (Tg),LDA10170,2420
+2031,Thyroid Antibodies Profile,LDA10003,2310
+2032,Thyroid Profile Free,LDA10065,800
+2033,Thyroid Profile Free-ultra sensitive,LDA10066,990
+2034,Thyroid Profile Total,LDA10067,660
+2035,Thyroid Profile Total- ultra sensitive,LDA10068,760
+2036,TIBC (Total Iron Binding Capacity),LDA10076,450
+2037,Tissue - Fungus Culture,LDAI10150,1000
+2038,Tissue Culture & Sensitivity (Conventional),LDAI10026,650
+2039,"Tissue For Fungus Exam., KOH
+Preparation",LDAI10171,350
+2040,Tissue Transglutaminase (TTG) IgG,LDA10428,1400
+2041,Tissues - AFB Culture Rapid,LDAI10191,1000
+2042,TLC & DLC (Total Leukocyte Count &  Differential Leukocyte Count),LDA10006,130
+2043,"TLC & DLC, Fluid (Total Leukocyte
+Count,& Differential Leukocyte Count Body Fluid)",LDA10146,400
+2044,"TLC, Body Fluids (Total Leukocyte
+Count, Body Fluid)",LDA10142,130
+2045,TMA + AFB Culture,LDA10016,4600
+2046,TMA + MOTT Differentiation,LDA10013,9700
+2047,TMA+ MDR Sure panel,LDA10090,8800
+2048,TMB+ PDL1+ MSI,LDA10449,"80,000"
+2049,"TNF Alpha (Tumour Necrosis Factor
+Alpha)",LDA10119,5450
+2050,Torch  IgM & IgG Antibodies,LDA10148,2530
+2051,Torch IgG Antibodies,LDA10147,1450
+2052,Torch IgG Avidity Panel,LDA10054,3390
+2053,Torch IgM Antibodies,LDA10146,1450
+2054,TORCH PCR,LDA10051,6650
+2055,"Total B -hCG, Quantitative",LDA10120,600
+2056,Total PSA (Total Prostate LDAecific Antigen),LDA10166,660
+2057,"ToxoplaLDAa Avidity, IgG",LDA10133,1210
+2058,ToxoplaLDAa IgG,LDA10132,490
+2059,ToxoplaLDAa IgM,LDA10131,490
+2060,ToxoplaLDAa IgM & IgG,LDA10153,970
+2061,ToxoplaLDAa PCR,LDA10138,3300
+2062,"TP53 Gene Analysis (R175, G245, R248, R273, R282)",LDA10490,24000
+2063,TPHA (Quantitative),LDA10192,770
+2064,"TPHA (Treponema Palladium
+Hemagglutination)",LDA10205,660
+2065,"TPMT Enzyme Activity Thiopurine
+Methyl TranLDAerase",LDA10495,6000
+2066,"TPMT Genotyping Analysis (for Prognostically
+Stratifying patients with Thiopurine
+Drug Toxicity)",LDA10012,6600
+2067,TracQ - B (HBV DNA Quantitative PCR),LDA10027,6850
+2068,TracQ - C (HCV RNA Quantitative RTPCR),LDA10029,7700
+2069,"TracQ - C Duo (TracQ - C, GenochecQ - C)",LDA10095,15050
+2070,TranLDAerrin,LDA10090,1090
+2071,Translocation BCR/ABL Qualitative RTPCR,LDA10001,4850
+2072,Translocation BCR/ABL Quant. RTPCR (MRD),LDA10013,7250
+2073,Translocation PML/RARa Qualitative RTPCR,LDA10002,4850
+2074,Translocation PML/RARa Quant. RTPCR (MRD),LDA10015,7850
+2075,Translocation t(14;20) by FISH,LDAI10029,4100
+2076,Translocation t(4;11) by FISH,LDAI10068,4500
+2077,Tricyclic Antidepressants Screen,LDA10018,10780
+2078,Tridot Panel,LDA10016,1500
+2079,Triglycerides,LDA10023,290
+2080,"Triglycerides, Body Fluid",LDA10155,290
+2081,Triple Test (2nd TLDAester),LDA10115,2420
+2082,Trisomy 8 by FISH,LDAI10014,4250
+2083,Troponin - I,LDA10292,1490
+2084,Troponin - T,LDA10291,1490
+2085,Trucut Biopsies - Histopathology LDAall,LDA10022,750
+2086,TSH (Thyroid Stimulating Hormone),LDA10177,310
+2087,TSH Receptor Antibody,LDA10386,5500
+2088,"TSH-ultra sensitive (Thyroid Stimulating Hormone -ultra
+sensitive)",LDA10184,350
+2089,TTF - 1  (IHC Marker),LDA10041,1650
+2090,"TTG Antibody IgA, Tissue
+Transglutaminase IgA Antibody",LDA10239,1000
+2091,"Tumor Mutation Burden (409 genes
+variant calling on DNA)",LDA10448,"70,000"
+2092,Typhidot IgM,LDA10155,500
+2093,U1sn RNP Antibody,LDA10223,3630
+2094,Ulcer - Histopathology large,LDA10012,1800
+2095,Unconjugated Estriol (uE3),LDA10113,1450
+2096,"Urea, 24 Hrs. Urine",LDA10038,310
+2097,"Urea, Random Urine",LDA10065,290
+2098,"Urea, Serum",LDA10053,110
+2099,Urethral Fluid Exam. For Malignant Cells,LDA10007,550
+2100,Urethral Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10028,650
+2101,"Uric Acid, 24Hrs.Urine",LDA10013,250
+2102,"Uric Acid, Random Urine",LDA10066,250
+2103,"Uric Acid, Serum",LDA10055,150
+2104,Urinary Bladder Tumour - TURBT LDAecimen - Histopathology medium,LDA10098,1200
+2105,Urinary Trypsinogen-2 test (Rapid Card),LDA10220,2400
+2106,Urine - AFB Culture Rapid,LDAI10197,1000
+2107,Urine - Culture & Sensitivity Aerobic (Conventional),LDAI10021,500
+2108,Urine - Fungus Culture,LDAI10158,1000
+2109,Urine Cotinine / Nicotine,LDA10078,1820
+2110,Urine Examination  (Routine),LDA10001,100
+2111,"Urine Examination For DyLDALDAhic
+LDAs",LDA10095,280
+2112,Urine Examination For Reducing Substance,LDA10093,100
+2113,Urine fluoride level,LDA10222,2000
+2114,Urine For Haemoglobinuria,LDA10043,110
+2115,Urine for Malignant Cells,LDA10011,550
+2116,Urine Glucose,LDA10004,80
+2117,Urine Protein,LDA10003,190
+2118,Urobilinogen,LDA10008,100
+2119,"Urobilinogen, 24Hrs. Urine",LDA10039,100
+2120,Uterine Tumour/T.O.Mass - Histopathology radical,LDA10117,2400
+2121,Uterus with Cervix - Histopathology medium,LDA10090,1200
+2122,Uterus with Cervix and Adenexa - Histopathology large,LDA10009,1800
+2123,Vaginal Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10022,650
+2124,Vaginal Swab - Fungus Culture,LDAI10156,1000
+2125,Variant RARA Translocations,LDAI10058,5500
+2126,"Varicella Zoster Virus IgG (Chicken
+Pox)",LDA10030,2100
+2127,Varicella Zoster Virus IgG Antibody,LDA10450,3500
+2128,Varicella Zoster Virus IgM (Chicken Pox),LDA10029,1700
+2129,Varicella Zoster Virus IgM IgG Antibody,LDA10042,3000
+2130,"VASOACTIVE INTESTINAL
+POLYPEPTIDE (VIP),PLALDAA",LDA10468,16500
+2131,"VDRL (LDAR), Serum",LDA10001,160
+2132,"VDRL, CLDA",LDA10117,270
+2133,Venous Blood Gas Analysis,LDA10140,730
+2134,"Venous Thrombosis Panel (Fact V,MTHFR,Prothrombin)",LDA10174,6000
+2135,VGKC  (Voltage gated potassium channel),LDA10365,9500
+2136,Vimentin (IHC Marker),LDA10055,1650
+2137,Viral CNS Panel,LDA10432,8500
+2138,Viral CNS Panel (any 2 virus),LDA10416,"10,000"
+2139,Vitamin A (Retinol),LDA10313,6000
+2140,Vitamin B1 (Thiamine),LDA10314,6000
+2141,Vitamin B12 (Cyanocobalamin),LDA10317,970
+2142,"Vitamin B12, active Holo Transcobalamin",LDA10460,1750
+2143,Vitamin B2 (Riboflavin),LDA10315,6100
+2144,Vitamin B3,LDA10430,8000
+2145,Vitamin B6,LDA10316,6050
+2146,Vitamin C (Ascorbic Acid),LDA10318,3850
+2147,Vitamin D and Vitamin B12 Assay,LDA10322,2400
+2148,"Vitamin D, 1, 25 - Dihydroxy",LDA10321,4250
+2149,"Vitamin D, 25 - OH",LDA10320,1550
+2150,Vitamin E (Tocopherol),LDA10319,6100
+2151,Vitamin K1,LDA10367,5000
+2152,"Vitek - Culture, Identification and sensitivity",LDAI10241,2300
+2153,"VMA & Catecholamines, 24 Hr. Urine",LDA10025,9350
+2154,"VMA, 24Hrs.Urine (Vanillyl Mandelic Acid, 24hrs. Urine)",LDA10015,4800
+2155,Von Hippel-Lindau syndrome (VHL) deletion/duplication analysis MLPA,LDA10484,14000
+2156,Von Willebrand Factor (vWF) Antigen,LDA10102,13310
+2157,Vulva - Histopathology LDAall,LDA10048,750
+2158,Warfarin-PGx Test (CYP2C9 & VKORC1 Mutation Analysis),LDA10019,3050
+2159,Water culture/sensitivity,LDAI10237,550
+2160,Weil Felix Test,LDA10031,850
+2161,Western Blot For HIV 1 & 2,LDA10128,3630
+2162,Wetmount  for free living amoebae,LDAI10273,220
+2163,Whole Blood - Culture & Sensitivity Aerobic (Automated),LDAI10046,1000
+2164,Whole Exome Sequencing- Advanced by NGS,LDA10420,100000
+2165,"Whole Genome Sequencing-
+Advanced",LDA10422,150000
+2166,Whole Mitochondrial Genome Sequencing,LDA10274,29500
+2167,Widal  (Tube Agglutination),LDA10007,270
+2168,Widal (Slide Agglutination),LDA10006,250
+2169,"Wilson Panel ( Copper Urine+
+Copper Serum+ CeruloplaLDAin",LDA10244,4200
+2170,Wound Swab - Culture & Sensitivity Aerobic (Conventional),LDAI10029,650
+2171,WT - 1 (IHC Marker),LDA10081,1650
+2172,WT1 mutation detection,LDA10326,8100
+2173,Xanthinuria (XDH) gene analysis,LDA10315,43000
+2174,Y Chromosome Microdeletion,LDA10012,8500
+2175,ZAP 70  (Flowcytometry),LDA10049,2200
+2176,"Zinc, PlaLDAa",LDA10147,2250
+2177,"Zinc, Serum",LDA10143,2250
+Panels & Profile,,,
+1,4 marker ALL Panel by FISH,LDA10138,11000
+2,"4 Marker Ca-Lung Panel (EGFR,BRAF,ALK,ROS)",LDA10212,25000
+3,"5 Marker Ca-Lung Panel (EGFR,KRAS,BRAF,ALK,ROS)",LDA10213,30000
+4,"5 Marker Ca-Lung Panel (EGFR,KRAS,BRAF,ALK,ROS)",LDA10028,30000
+5,"5 Marker Ca-Lung Panel (EGFR,KRAS,BRAF,ALK,ROS)",LDA10086,30000
+6,Acute Leukaemia -Basic lineage (Flowcytometry),LDA10066,6650
+7,Acute Leukaemia Comprehensive & Karyotype,LDA10003,13000
+8,Acute Leukaemia Comprehensive Diagnosis -20 (Flowcytometry) or ALCD-20,LDA10065,9900
+9,Acute Leukaemia Comprehensive reflex Panel (AML or ALL)- Panel 1,LDA10037,19800
+10,Acute Leukaemia Comprehensive reflex Panel (AML or ALL)-Panel2,LDA10038,25300
+11,Acute Leukaemia Comprehensive reflex-ALL or AML Panel -3,LDA10135,19000
+12,Acute Leukaemia-MRD Panel,LDA10075,11500
+13,Adenocarcinoma Vs. Mesothelioma (IHC Marker),LDA10061,4000
+14,Adult Diffuse Glioma Low Grade (II & III) Panel,LDA10140,15500
+15,Advanced Fitness Health Package,LDA10257,4000
+16,ALCP Flow & Mol. ALL Panel,LDA10214,15100
+17,ALCP Flow & Mol. AML Panel,LDA10221,16500
+18,ALL Characterization & Karyotype Combo,LDA10008,12600
+19,ALL Characterization Panel (Flowcytometry),LDA10068,9100
+20,ALL Panel by FISH (3 translocations),LDA10102,9900
+21,"Allergy panel-7 Drugs  (Ampicillin, Amoxicillin, CephaloLDAorin mix., Penicilloyl V, Penicilloyl G)",LDA10475,5750
+22,"Allergy panel-food, inhalants,
+contacts",LDA10505,11000
+23,Alport syndrome gene panel,LDA10311,48000
+24,Amenorrhoea AssesLDAent Profile,LDA10014,1600
+25,AML Characterization & Karyotyping Combo,LDA10006,12000
+26,AML Characterization and Comprehensive Molecular panel,LDA10230,21500
+27,AML Characterization Panel (Flowcytometry),LDA10067,9300
+28,AML Comboquest I,LDA10009,4850
+29,AML Comboquest II,LDA10010,5200
+30,AML Comboquest III,LDA10011,7850
+31,AML Comboquest IV,LDA10024,5750
+32,AML Comboquest IX,LDA10216,13200
+33,AML Comboquest V,LDA10023,8450
+34,AML Comboquest VI,LDA10031,9200
+35,AML Comboquest VII,LDA10032,11950
+36,AML Comboquest VIII,LDA10215,6750
+37,AML Comboquest X,LDA10465,13000
+38,AML Flow & Mol. Panel,LDA10220,15000
+39,AML Panel by FISH,LDA10128,10000
+40,Anaemia AssesLDAent Profile,LDA10177,2750
+41,Antenatal Screening profile (Basic),LDA10028,550
+42,Antenatal Screening Profile (Comprehensive),LDA10027,1320
+43,Any 5 IHC Markers (IHC Marker),LDA101117,5000
+44,Arthritis Profile (Basic),LDA10178,1980
+45,Arthritis Profile (Comprehensive ),LDA10179,4400
+46,"ALDAergillus IgG & IgM Antibody
+Panel",LDA10032,4500
+47,"Auto Immune Profile (Gastrointestinal) Includes *AMA
+*Anti LKM - 1 *ANA (Hep -2)*Anti LDAoth Muscle Antibody (LDAA)
+*ANCA",LDA10055,9680
+48,Bartter Syndrome gene panel,LDA10312,48000
+49,Basic CLL Screening Panel,LDA10103,7700
+51,"Beta 2 glycoprotein 1 panel (IgG,
+IgM, IgA)",LDA10029,3630
+52,BOH (Bad Obstetric History) Basic,LDA10301,7000
+53,BOH (Bad Obstetric History)Panel,LDA10193,18370
+54,Bone marrow failure syndrome gene panel,LDA10453,30000
+55,Breast Cancer Comprehensive Diagnosis Panel,LDA10098,7000
+56,Breast Cancer Prognosis Panel (1A) (IHC Marker),LDA10042,4250
+57,Breast Cancer Prognosis Panel (1B) (IHC Marker),LDA10043,3000
+58,Breast Cancer Prognosis Panel (2A) (IHC Marker),LDA10044,15150
+59,Breast Cancer Prognosis Panel (2B) (IHC Marker),LDA10045,5200
+60,Breast Cancer Prognosis Panel (3A) (IHC Marker),LDA10046,4000
+61,"Breast Cancer Prognosis Panel (Basic) / ER, PR  (IHC Marker)",LDA10041,2200
+62,CanAssist-Breast,LDA10423,60000
+63,Cancer Screening Panel (Female),LDA10173,4070
+64,Cancer Screening Panel (Male),LDA10172,3190
+65,Cardiac Enzymes Profile,LDA10070,1090
+66,Cardiac Injury Panel,LDA10194,5120
+67,Cardiac Panel,LDA10196,2970
+68,Cardiolipin Antibodies Profile,LDA10004,2530
+69,Cardiomyopathy gene panel,LDA10299,43000
+70,"CD 34quest (stem cells) (Ishage
+Gating)  (Flowcytometry)",LDA10078,2400
+71,"CD4/ CD8 Enumeration
+(Flowcytometry)",LDA10076,1950
+72,Cell Free DNA /Circulating tumor (Ct)  DNA -  Colon Cancer Panel/ Liquid Bx. Cell Free Comprehensive Colon Cancer Panel,LDA10353,30000
+73,"Cell Free DNA /Circulating tumor (Ct)  DNA- PAN RAS  Liquid Bx. Cell
+Free PAN RAS",LDA10354,"25,000"
+74,Champion Health Panel,LDA10187,5500
+75,CLL Comprehensive & Karyotype Combo,LDA10105,15500
+76,CLL Diagnostic Panel (Comprehensive)  (Flowcytometry),LDA10069,11000
+77,CLL MRD panel,LDA10108,11500
+78,CLL prognosis by FISH,LDA10099,9100
+79,CML Combo quest I,LDA10020,10900
+80,CML Combo quest II,LDA10021,10150
+81,Coagulation Profile (Basic),LDA10209,650
+82,Coeliac Disease Profile,LDA10056,5810
+83,Comprehensive Colorectal Panel,LDA10467,18000
+84,Comprehensive leukemia panel - 57 genes,LDA10408,"21,000"
+85,Congenital afibrinogenemia gene panel,LDA10303,43000
+86,Congenital dyserythropoietic anaemia gene panel,LDA10304,43000
+87,Congenital hypopituitariLDA gene panel,LDA10301,43000
+88,"ct DNA for Hot LDAot mutations in EGFR, KRAS, NRAS, BRAF",LDA10411,29000
+89,"Customized (Any 5 Markers) Panel
+(Flowcytometry)",LDA10080,4250
+90,"Customized (Any 7 Markers) Panel
+(Flowcytometry)",LDA10079,6050
+91,Deep Vein Thrombosis (DVT) Panel,LDA10210,14850
+92,Diabetes Profile ( Basic),LDA10011,450
+93,Diabetes Profile (Comprehensive),LDA10072,1320
+94,Diagnostic ALCP & MRD Panel,LDA10104,19250
+95,Diamond blackfan anaemia gene panel,LDA10305,43000
+96,DIC Panel (Disseminated Intravascular coagulation  Panel),LDA10494,3170
+97,DNA Genetic Cancer Risk Test (98 gene panel),LDA10391,20000
+98,Drug Of Abuse  Panel -5 A,LDA10020,3630
+99,Drug Of Abuse Panel-5 B,LDA10019,3630
+100,Drug Of Abuse Panel-7,LDA10018,5080
+101,Dyskeratosis congenita gene panel,LDA10306,43000
+102,"ENA (Screen)Panel Qualitative (Extractable Nuclear Antigen Screen
+Panel Qualitative)",LDA10030,2180
+103,ENA Panel (Comprehensive) - Quantitative -Extractable Nuclear Antigen Comprehensive,LDA10031,9460
+104,Eosinophilic Leukaemia Panel by FISH,LDAI10052,12000
+105,Epidermolysis bullosa gene panel,LDA10441,30000
+106,"Fanconi Anaemia DNA Mutation
+Analysis",LDA10419,10500
+107,Fanconi anaemia gene panel,LDA10431,30000
+108,Fever Panel (Basic),LDA10026,560
+109,Fever Panel Comprehensive,LDA10170,2540
+110,Fever Panel: Multiplex PCR,LDA10169,7200
+111,Final Diagnosis Panel by IHC,LDA10100,6500
+112,FISH - AML Panel,LDA10128,10000
+113,FISH - CLL prognosis,LDA10099,9100
+114,FISH - Eosinophilic Leukaemia Panel,LDAI10052,12000
+115,FISH - IgH/MYC t(8;14),LDAI10063,5000
+116,FISH- Lymphoma Panel,LDAI10065,12000
+117,"FISH- Multiple Myeloma FISH on
+enriched PlaLDAa cells",LDAI10062,10500
+118,Fitness Health Package,LDA10071,3400
+119,Flowcytometry - Acute Leukaemia- MRD Panel,LDA10075,11500
+120,Flowcytometry - ALL Characterization Panel,LDA10068,9100
+121,Flowcytometry - AML Characterization Panel,LDA10067,9300
+122,"Flowcytometry - CD 34quest (stem
+cells) (Ishage Gating)",LDA10078,2400
+123,"Flowcytometry - CD4/ CD8
+Enumeration",LDA10076,1950
+124,Flowcytometry - CLL Diagnostic Panel (Comprehensive),LDA10069,11000
+125,"Flowcytometry - Customized (Any 5
+Markers) Panel",LDA10080,4250
+126,"Flowcytometry - Customized (Any 7
+Markers) Panel",LDA10079,6050
+127,"Flowcytometry - Hairy Cell
+Leukaemia Panel",LDA10073,4850
+128,"Flowcytometry - Helper CD4 Cells
+Enumeration",LDA10077,950
+129,"Flowcytometry - Leukaemia Lymphoma Comprehensive
+Diagnosis Panel",LDA10088,12100
+130,Flowcytometry - Leukaemia Orientation panel,LDA10089,7150
+131,Flowcytometry - Lymphoma Diagnostic Panel,LDA10072,11200
+132,Flowcytometry - MDS evaluation panel,LDA10106,12000
+133,"Flowcytometry - Multiple Myeloma
+Panel",LDA10074,5150
+134,"Flowcytometry - PNH
+Comprehensive Work Up",LDA10084,4850
+135,"Flowcytometry - PNH Diagnostic
+Panel (PolymoLDAhs)",LDA10071,3050
+136,"Flowcytometry - PNH Diagnostic
+Panel(LDAs)",LDA10070,3050
+137,Flowcytometry - PNH With  Flaer,LDA10083,3650
+138,"Flowcytometry - T B NK cell
+lymphocytes subset analysis",LDA10096,3700
+139,Flowcytometry Acute Leukaemia - Basic lineage,LDA10066,6650
+140,Flowcytometry- Acute Leukaemia Comprehensive Diagnosis - 20 or ALCD- 20,LDA10065,9900
+141,Flowcytometry- Basic CLL Screening Panel,LDA10103,7700
+142,Flowcytometry- CLL MRD panel,LDA10108,11500
+143,Flowcytometry- Diagnostic ALCP & MRD Panel,LDA10104,19250
+144,Flowcytometry- Multiple Myeloma MRD panel,LDA10107,11500
+145,Follicular Lymphoma Panel    (IHC Marker),LDA10052,5050
+146,FoundationOne CDx,LDA10328,260000
+147,FoundationOne Heme for haematological  malignancies & Sarcomas,LDA10329,310000
+148,"Gene Panel Maturity- Onset Diabetes of the Young (MODY) &
+neonatal diabetes",LDA10425,37000
+149,GIST Panel,LDA10435,40000
+150,GIST Panel (IHC Marker),LDA10064,3850
+151,Glioblastoma (Grade IV) Panel,LDA10141,21000
+152,"Hairy Cell Leukaemia Panel
+(Flowcytometry)",LDA10073,4850
+153,hc2 Chlamydia DNA & Gonorrhoea DNA Test,LDA10036,1800
+154,HCV RNA Quantitative RTPCR and HCV Genotyping combo,LDA10095,15050
+155,Health Screen (Basic),LDA10058,1650
+156,Health Screening (Comprehensive),LDA10057,2640
+157,Healthy Bone Panel,LDA10208,2750
+158,"Helper CD4 Cells Enumeration
+(Flowcytometry)",LDA10077,950
+159,Hepatitis A Diagnostic Panel,LDA10033,2000
+160,Hepatitis Accuchek,LDA10212,5500
+161,Hepatitis Autoimmune Profile,LDA10059,6660
+162,Hepatitis B Infant Follow up Panel,LDA10034,490
+163,Hepatitis-B Profile Comprehensive,LDA10007,4240
+164,HIV Monitoring Panel,LDA10039,6700
+165,Hormone Profile,LDA10060,2730
+166,HPV DNA HR  - (Hybrid Capture 2) & LBC concurrent detection,LDA10034,3050
+167,"HPV DNA HR & LR - (Hybrid Capture
+2) & LBC",LDA10035,3850
+168,"HPV DNA HR & LR + Chlamydia + N. Gonorrhoea DNA - (Hybrid Capture
+2) + LBC",LDA10094,4850
+169,HPV DNA HR & LR(High & Low Risk)test  - (Hybrid Capture 2),LDA10033,3300
+170,Human Papillomavirus / HPV DNA HR & LR - (Hybrid Capture 2) & LBC,LDA10035,3850
+171,"Human Papillomavirus / HPV DNA HR & LR + Chlamydia + N. Gonorrhoea DNA - (Hybrid Capture
+2) + LBC",LDA10094,4850
+172,"Human Papillomavirus / HPV DNA
+HR & LR(High & Low Risk)test  - (Hybrid Capture 2)",LDA10033,3300
+173,"Human Papillomavirus/ HPV DNA HR  - (Hybrid Capture 2) & LBC
+concurrent detection",LDA10034,3050
+174,Hypertension AssesLDAent Profile,LDA10211,1100
+175,Ichthyosis gene panel,LDA10398,30000
+176,IHC - Adenocarcinoma Vs. Mesothelioma,LDA10061,4000
+177,IHC - Any 5 IHC Markers,LDA10072,5000
+179,IHC - Breast Cancer Comprehensive Diagnosis Panel,LDA10098,7000
+180,IHC - Breast Cancer Prognosis Panel (1B),LDA10043,3000
+181,IHC - Breast Cancer Prognosis Panel (3A),LDA10046,4000
+182,"IHC - Breast Prognosis Panel (Basic)
+/ ER, PR",LDA10041,2200
+183,IHC - Follicular Lymphoma Panel,LDA10052,5050
+184,IHC - Large Cell Lymphoma Panel,LDA10053,5750
+185,IHC - Lymphoma Basic Panel,LDA10050,6950
+186,IHC - Melanoma Panel,LDA10060,1950
+187,IHC - Neuroendocrine Tumours Panel,LDA10062,3850
+188,IHC - NHL Immunophenotyping,LDA10049,5050
+189,IHC - Round Cell Tumour(Adult),LDA10058,5050
+190,IHC - Round Cell Tumours (Children),LDA10057,5050
+191,IHC - Sarcoma Panel,LDA10063,5750
+192,IHC - LDAall Cell Lymphoma Panel,LDA10054,5050
+193,IHC - LDAindle Cell Tumours Panel,LDA10059,5050
+194,IHC - Undifferentiated Tumor Panel- 1,LDA10055,4000
+195,IHC - Undifferentiated Tumor Panel- 2,LDA10056,4000
+196,IHC Final Diagnosis Panel,LDA10100,6500
+197,Imerslund-Gräsbeck syndrome gene panel,LDA10307,43000
+198,Immunoglobulin Profile,LDA10061,1580
+199,ImuLife Bronze,LDA10251,19180
+200,ImuLife Bronze Plus,LDA10252,20210
+201,ImuLife Gold,LDA10255,37150
+202,ImuLife Gold Plus,LDA10256,44650
+203,ImuLife Silver,LDA10253,30410
+204,ImuLife Silver Plus,LDA10254,31150
+205,ImuPro Basic 90 trigger food items,LDA10438,25000
+206,"ImuPro Complete 270 trigger food
+items",LDA10436,43500
+207,"ImuPro Screen+ 44 trigger food
+items",LDA10439,15000
+208,Imupro Vegetarian Diet,LDA10458,25000
+209,"ImuProBasic+ 180 trigger food
+items",LDA10437,35000
+210,Infertility AssesLDAent Profile,LDA10189,2990
+211,Infertility AssesLDAent Profile Comprehensive,LDA10203,6220
+212,Jak2 Reflex panel,LDA10101,8250
+213,Kallmann syndrome gene panel,LDA10302,43000
+214,Large Cell Lymphoma Panel     (IHC Marker),LDA10053,5750
+215,LBC Reflex to HR HPV,LDA101113,1650
+216,LBx Multiorgan Somatic Mutation panel,LDA10399,150000
+217,Leukaemia Cytochemistry Panel,LDA10053,1090
+218,"Leukaemia Lymphoma
+comprehensive panel",LDA10088,12100
+219,Leukaemia Orientation panel,LDA10089,7150
+220,Limb-girdle muscular dystrophy,LDA10458,14000
+221,Lipid Profile (Basic),LDA10062,600
+222,Lipid Profile (Extended),LDA10063,3250
+223,Lipid Profile with LDL Direct,LDA10064,970
+224,Liquid Biopsy Panel for Lung Cancer- 11 gene,LDA10414,60000
+225,Liquid Bx. Cell Free Comprehensive Colon Cancer Panel,LDA10353,30000
+226,Liquid Bx. Cell Free PAN RAS,LDA10354,25000
+227,Lung Cancer LBx (NGS only) - Blood,LDA10397,75000
+228,Lung Cancer LBx panel + PDL1 - Blood,LDA10396,85000
+229,"Lung Cancer-Targeted Gene Panel with Rearrangement, Tumor",LDA10389,200000
+230,Lymphoma Basic Panel(IHC Marker),LDA10050,6950
+231,Lymphoma Comprehensive & Karyotype Combo,LDA10091,14400
+232,Lymphoma Diagnostic Panel (Flowcytometry),LDA10072,11200
+233,Lymphoma Panel by FISH,LDAI10065,12000
+234,"LYMPHOMA/LEUKEMIA-
+comprehensive gene panel for AML
+, MDS , ALL & CLL",LDA10413,45000
+235,Male Infertility Panel,LDA10204,3740
+236,MDS evaluation panel,LDA10106,12000
+237,MDS in-situ by FISH,LDA10092,9700
+238,MDS prognostication and risk stratification gene panel,LDA10450,22000
+239,Meckel Gruber syndrome gene panel,LDA10313,43000
+240,"Melanoma Mutation Panel, (BRAF+
+c-KIT)",LDA10173,15000
+241,Melanoma Panel (IHC Marker),LDA10060,1950
+242,Metabolic screen (Basic)-4 conditions,LDA10198,1210
+243,"Metabolic screen -111 conditions
+urine",LDA10201,4290
+244,"Metabolic screen -119 conditions
+urine",LDA10202,6160
+245,Metabolic screen- TMS (47 disorders),LDA10214,3250
+246,"Metabolic screen TMS + 6 + Hb ( CH, CAH, G6PD, CF, Galactosemia, Biotinidase, Sickle Cell Disease, Sickle Cell trait, Hb variants, B
+thalassemia)",LDA10216,5890
+247,"Metabolic screen TMS + 6  (CH,
+CAH, G6PD, CF, Galactosemia and Biotinidase)",LDA10215,4790
+248,Metabolic screen-11 conditions,LDA10200,2750
+249,Metabolic screen-7 conditions,LDA10199,1850
+250,MPN Molecular Panel,LDA10219,17000
+251,"Multiple Myeloma FISH on enriched
+PlaLDAa cells",LDAI10062,10500
+252,Multiple Myeloma MRD panel,LDA10107,11500
+253,Multiple Myeloma Panel (Flowcytometry),LDA10074,5150
+254,Myositis Profile 11 antigens,LDA10481,12000
+255,Neuro Oncology Panel,LDA10388,220000
+256,Neuroendocrine Tumours Panel (IHC Marker),LDA10062,3850
+257,NGS Cancer HotLDAot 50 gene Panel,LDA10284,33500
+258,NGS Comprehensive Lung Panel,LDA10468,41000
+259,NGS Lung Plus Panel,LDA10124,40000
+260,NHL Immunophenotyping (IHC Marker),LDA10049,5050
+261,Niemann-Pick disease gene panel,LDA10310,30000
+262,Non-invasive Pre-natal test (NIPT),LDA10455,18000
+263,Noonan syndrome gene panel,LDA10473,35000
+264,NSCLC  (Non-LDAall cell lung cancer) Panel:2,LDA10030,17000
+265,NSCLC (Non-LDAall cell lung cancer) Panel:1,LDA10029,15500
+266,NSCLC Express Panel 7,LDA10466,55000
+267,NSCLC Panel 3,LDA10217,20500
+268,NSCLC Panel 4,LDA10218,20500
+269,NSCLC Panel 5,LDA10123,36000
+270,NSCLC Panel 8,LDA10469,38000
+271,Obesity Package,LDA10186,1270
+272,Ovarian Cancer Panel,LDA10183,3200
+273,PCOD Profile Extended,LDA10205,4030
+274,PhoLDAholipid Syndrome Panel,LDA10002,4240
+275,"PNH Comprehensive Work Up
+(Flowcytometry)",LDA10084,4850
+276,"PNH Diagnostic Panel (PolymoLDAhs)
+(Flowcytometry)",LDA10071,3050
+277,"PNH Diagnostic Panel(LDAs)
+(Flowcytometry)",LDA10070,3050
+278,PNH With  Flear  (Flowcytometry),LDA10083,3650
+279,"Polycystic kidney disease gene panel (ALDAKD PKHD1/ADPKD PKD1
+& PKD2)",LDA10314,38500
+280,Polycystic Ovarian disorder(PCOD) profile,LDA10175,1870
+281,PLDAary immunodeficiency gene panel - By NGS,LDA10459,30000
+282,PLDAary immunodeficiency screening panel,LDA10097,6600
+283,Prostate LDAecific Antigen Profile,LDA10206,1500
+284,Protein C and Protein S functional Assay,LDA10504,9350
+285,Retinal degeneration gene panel,LDA10461,30000
+286,"Rett Syndrome comprehensive gene panel, NGS",LDA10437,30000
+287,ROMA (HE4 + CA125)/Ovarian cancer Panel,LDA10183,3200
+288,Round Cell Tumour(Adult) (IHC Marker),LDA10058,5050
+289,Round Cell Tumours (Children) (IHC Marker),LDA10057,5050
+290,Sarcoma Panel (IHC Marker),LDA10063,5750
+291,Scleroderma Panel,LDA10474,7000
+292,LDAall Cell Lymphoma Panel (IHC Marker),LDA10054,5050
+293,LDAindle Cell Tumours Panel (IHC Marker),LDA10059,5050
+294,Surrogacy Panel,LDA10207,5000
+295,T B NK cell lymphocytes subset analysis,LDA10096,3700
+296,"T, B Myeloid & Karyotype Combo Panel",LDA10007,10150
+297,TB Confirmatory Test,LDA10012,4750
+298,TB Diagnosis & Drug Resistance (Reflex),LDA10162,3000
+299,TB Screen,LDA10048,1160
+300,Thalassemia Profile,LDA10049,2200
+301,Thrombophilia profile,LDA10180,15950
+302,Thyroid Antibodies Profile,LDA10003,2310
+303,Thyroid Profile Free,LDA10065,800
+304,Thyroid Profile Free-ultra sensitive,LDA10066,990
+305,Thyroid Profile Total,LDA10067,660
+306,Thyroid Profile Total- ultra sensitive,LDA10068,760
+307,TMA + AFB Culture,LDA10016,4600
+308,TMA + MOTT Differentiation,LDA10013,9700
+309,TMA+ MDR Sure panel,LDA10090,8800
+310,Torch IgG Avidity Panel,LDA10054,3390
+311,"TracQ - C Duo (TracQ - C, GenochecQ - C)",LDA10095,15050
+312,Tridot Panel,LDA10016,1500
+313,Undifferentiated Tumor Panel-1 (IHC Marker),LDA10055,4000
+314,Undifferentiated Tumor Panel-2 (IHC Marker),LDA10056,4000
+315,Viral CNS Panel,LDA10432,8500
+316,Viral CNS Panel (any 2 virus),LDA10416,10000
+317,Whole Exome Sequencing- Advanced by NGS,LDA10420,100000
+318,Whole Genome Sequencing- Advanced,LDA10422,150000

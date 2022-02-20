@@ -1,0 +1,20 @@
+{% load static %}
+{% block body %}
+<div class="erroe_page_wrapper">
+    <div class="errow_wrap">
+        <div class="container text-center">
+            <img src="{% static 'new/img/bak_hovers/sad.png' %}" alt="">
+            <div class="error_heading  text-center">
+                <h3 class="headline color_parpel">Sorry</h3>
+            </div>
+            <div class="col-md-8 offset-md-2 text-center">
+                <p >We are working on this Page.</p>
+            </div>
+            <div class="error_btn  text-center">
+                <a class=" default_btn parpel_bg " href="{% url 'index' %}">Back Home</a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+    

@@ -1,0 +1,51 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+
+{% block body %}
+    
+    
+    <!-- home section -->
+    <section class="service-banner">
+        <div class="service-banner-container">
+            <h1>Our Tests</h1>
+            <p>Know more about us, We are more than a Lab.</p>
+        </div>
+    </section>
+
+    <section class="lab-search-box">
+        <div class="lab-search-box-container">
+            <input id="search-box-lab" type="text" placeholder="Type some text">
+        </div>
+        <!-- -------------------- -->
+        <div class="product-list-box">
+            {% for i in items %}
+            <div class="product-list-container">
+                <div class="product-image">
+                    <img src="{% static 'images/service-1.jpg' %}" alt="">
+                </div>
+                <div class="product-info">
+                    <small class="test-code">{{i.testcode}}</small>
+                    <h3 class="product-title">
+                        {{i.testname}} 
+                    </h3>
+                    <div class="product-sub-info">
+                        <div class="price">${{i.price}}</div>
+                    </div>
+                </div>
+                <div class="product-button">
+                   
+                    <form action="/add-to-cart">
+                        <input type="hidden" name="prod_id" value="{{i.id}}" id="prod_id">
+                        <button type="submit" class="btn-product">Add to Cart</button>
+                    </form>
+                    <!-- <a href="{% url 'detail' i.id %}" class="btn-product">Add to Cart</a> -->
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+
+        
+    </section>
+    {% endblock %}

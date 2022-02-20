@@ -1,0 +1,40 @@
+{% extends 'dashboard/base.html' %}
+{%load crispy_forms_tags %} 
+{% load static %}
+
+{% block content %}
+<div class="main_content_iner ">
+    <div class="container-fluid p-0">
+        <div class="row justify-content-center">
+          <div class="col-12">
+            <div class="dashboard_header mb_50">
+                
+            </div>
+        </div>
+            <div class="col-lg-12">
+                <div class="white_box mb_30">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6">
+                            <!-- sign_in  -->
+                            <div class="modal-content cs_modal">
+                                <div class="modal-header theme_bg_1">
+                                    <h5 class="modal-title text_white">Change Password</h5>
+                                </div>
+                                <div class="modal-body">
+                                    <form method="POST">
+                                        {% csrf_token %}
+                                        {{form|crispy}}
+                                        <button type="submit" class="btn_1 full_width text-center">Submit</a>
+                                    
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+    {% block body %}
+    <style>
+        i{
+            justify-items: center;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+    <section class="service-banner-1">
+        <div class="small-container cart-page">
+            <br><br><br><br><br>
+            <center><i class="fas fa-shopping-cart" style="font-size: 250px; align-items:center"></i>
+                <br><br>
+            <h1 style="font-size: 6rem;">This cart is Empty</h1>         
+            <br><br>
+            <a href="{% url 'products' %}" class="btn">Go to Lab Test</a>  
+         </center>
+        </div>
+    </section>
+
+{% endblock %}

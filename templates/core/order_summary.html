@@ -1,0 +1,56 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+{% block body %}
+    
+    
+    <section class="service-banner-1">
+        <div class="small-container cart-page">
+            <table>
+                <tr>
+                    <th>Product</th>
+                    <th>Testcode</th>
+                    <th>Subtotal</th>
+                </tr>
+                {% for i in cart %}
+                <tr>
+                    <td>
+                        <div class="cart-info">
+                            <img src="{% static 'images/service-1.jpg' %}" alt="">
+                            <div class="">
+                                <p>{{i.product.testname}}</p>
+                                <small>{{i.product.price}}</small>
+                                <br>
+                                <a href="" class="remove-cart" pid="{{i.product.id}}">remove</a>
+                            </div>
+                        </div>
+                    </td>
+                    <td>{{i.product.testcode}}</td>
+                    <td>${{ i.product.price }}</td>
+                </tr>
+                {% endfor %}
+                
+            </table>
+            <div class="total-price">
+                <table>
+                    <tr>
+                        <td>subtotal</td>
+                        <td>$<span id="amount">{{amount}}</span></td>
+                    </tr>
+                    <tr>
+                        <td>Discount</td>
+                        <td>${{disc}}</td>
+                    </tr>
+                    <tr>
+                        <td>total</td>
+                        <td>$<span id="total">{{total}}</span></td>
+                    </tr>
+                    <tr>
+                        <td><a href="{% url 'checkout' %}" class="btn">Proceed to Checkout</a></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    {% endblock %}

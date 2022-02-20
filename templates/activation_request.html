@@ -1,0 +1,10 @@
+{% autoescape off %}
+Hi {{ user }}, This is the Activation Link for your Account
+
+Please click the following link to confirm your registration:
+
+http://{{ domain }}{% url 'activate' uidb64=uid token=token %}
+
+Thanks,
+Team LABCORE DIAGNOSIS
+{% endautoescape %}
