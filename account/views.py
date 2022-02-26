@@ -58,7 +58,7 @@ def login_request(request):
             )
             if not user.is_email_verified:
                 message = "Email is not  verified. Please check inbox and spam box."
-                return render(request, 'account/login.html', {'message': message})
+                return render(request, 'account/login2.html', {'message': message})
             if user is not None:
                 login(request, user)
                 message = f'Hello! You have been logged in'
@@ -68,7 +68,7 @@ def login_request(request):
         else:
             message = 'Invalid Email and Password!'
     return render(
-        request, 'account/login.html', context={'form': form, 'message': message})
+        request, 'account/login2.html', context={'form': form, 'message': message})
 
 def login_requ(request):
     if request.method == "POST":
@@ -150,7 +150,7 @@ def register_view(request, *args, **kwargs):
         form = RegistrationForm()
         profile = UpdateProfileForm()
         context['registration_form'] = form
-    return render(request, 'account/regestration.html', {'form': form})
+    return render(request, 'account/register2.html', {'form': form})
 
 def activate_user(request, uidb64, token):
     try:
@@ -227,4 +227,35 @@ class ResetPasswordView(SuccessMessageMixin, PasswordResetView):
                       "if an account exists with the email you entered. You should receive them shortly." \
                       " If you don't receive an email, " \
                       "please make sure you've entered the address you registered with, and check your spam folder."
-    success_url = reverse_lazy('login')
+    success_url = reverse_lazy('link')
+
+
+def login2(request):
+    form = LoginForm()
+    message = ''
+    if request.user.is_authenticated:
+        return redirect('/')
+    elif request.method == 'POST':
+        form = LoginForm(request.POST)
+        if form.is_valid():
+            user = authenticate(
+                email=form.cleaned_data['email'],
+                password=form.cleaned_data['password'],
+            )
+            if not user.is_email_verified:
+                message = "Email is not  verified. Please check inbox and spam box."
+                return render(request, 'account/login2.html', {'message': message})
+            if user is not None:
+                login(request, user)
+                message = f'Hello! You have been logged in'
+                return redirect('editprofile')
+            else:
+                message = 'Invalid Email and Password!'
+        else:
+            message = 'Invalid Email and Password!'
+    return render(
+        request, 'account/login2.html', context={'form': form, 'message': message})
+    # return render(request, 'account/login2.html')
+
+def link(request):
+    return render(request, 'account/link.html')
