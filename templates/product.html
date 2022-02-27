@@ -19,7 +19,7 @@
         </div>
         <!-- -------------------- -->
         <div class="product-list-box">
-            {% for i in items %}
+            {% for i in page_obj %}
             <div class="product-list-container">
                 <div class="product-image">
                     <img src="{% static 'images/service-1.jpg' %}" alt="">
@@ -45,6 +45,55 @@
             {% endfor %}
 
         </div>
+        
+
+          {% comment %} pagination {% endcomment %}
+
+          <div class="pagination_section">
+            {% if page_obj.has_previous %}
+            <a href="?page={{ page_obj.previous_page_number }}"><< Previous</a>
+            {% else %}
+            <a href="#"><< Previous</a>
+            {% endif %}
+            {% for i in page_obj.paginator.page_range %}
+                    {% if page_obj.number == i %}
+                    <a href="" class="activate">{{i}}</a>
+            {% else %}
+            <a href="?page={{ i }}" >{{i}}</a>
+            {% endif %}
+                  {% endfor %}
+                  {% if page_obj.has_next %}
+
+            <a href="?page={{ page_obj.next_page_number }}">Next >></a>
+            {% endif %}
+        </div>
+
+        <style>
+            .pagination_section {
+                position: absolute;
+             
+            }
+             
+            /* pagination styling */
+            .pagination_section a {
+                color: black;
+                padding: 10px 18px;
+                text-decoration: none;
+            }
+             
+            /* pagination hover effect on non-active */
+            .pagination_section a:hover:not(.active) {
+                background-color: #031F3B;
+                color: white;
+            }
+             
+            /* pagination hover effect on active*/
+            .activate {
+                background-color: rgb(0,97,185);
+                color: white;
+            }
+                  
+        </style>
 
         
     </section>

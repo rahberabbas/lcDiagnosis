@@ -15,6 +15,7 @@ from .models import Cart, OrderPlaced, PaymentDone
 from django.conf import settings
 import razorpay
 from django.views.decorators.csrf import csrf_exempt
+from django.core.paginator import Paginator
 
 def index(request):
     return render(request, 'core/index.html')
@@ -56,8 +57,12 @@ def Import_csv(request):
 
 def products(request):
     items = Item.objects.all()
+    paginator = Paginator(items, 100)
+    page_number = request.GET.get('page')
+    page_obj = paginator.get_page(page_number)
     return render(request, 'product.html', {
         'items': items,
+        'page_obj': page_obj
     })
 
 class ProductDetailView(View):
