@@ -1,0 +1,110 @@
+{% extends 'core/base.html' %}
+{% load static %}
+
+
+{% block body %}
+    
+    
+    <!-- home section -->
+    <section class="service-banner">
+        <div class="service-banner-container">
+            <h1>Our Tests</h1>
+            <p>Know more about us, We are more than a Lab.</p>
+        </div>
+    </section>
+
+    <section class="lab-search-box">
+        <div class="lab-search-box-container">
+            <form class="example" method="GET" action="{% url 'search' %}">
+                <!-- {% csrf_token %} -->
+                <input type="text" placeholder="Search Test here..." aria-describedby="url" name="q">
+                <button type="submit">Search</button>
+             </form>
+             <br>
+             <br>
+            <center> <h1 class="h1tag">You Searched for {{q}}</h1> </center>
+        </div>
+        <!-- -------------------- -->
+        <div class="product-list-box">
+            
+            {% for i in items %}
+            <div class="product-list-container">
+                <div class="product-image">
+                    <img src="{% static 'images/service-1.jpg' %}" alt="">
+                </div>
+                <div class="product-info">
+                    <small class="test-code">{{i.testcode}}</small>
+                    <h3 class="product-title">
+                        {{i.testname}} 
+                    </h3>
+                    <div class="product-sub-info">
+                        <div class="price">Rs. {{i.price}}</div>
+                    </div>
+                </div>
+                <div class="product-button">
+                   
+                    <form action="/add-to-cart">
+                        <input type="hidden" name="prod_id" value="{{i.id}}" id="prod_id">
+                        <button type="submit" class="btn-product">Add to Cart</button>
+                    </form>
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+        
+
+          
+        <style>
+            form.example input[type="text"] {
+                padding: 10px;
+                font-size: 17px;
+                border: 1px solid grey;
+                width: 40%;
+                margin-left: 27%;
+                background: #f1f1f1;
+              }
+              
+              /* Style the submit button */
+              form.example button {
+                width: 10%;
+                padding: 10px;
+                background-color: red;
+                color: white;
+                font-size: 17px;
+                border: 1px solid grey;
+                border-left: none; /* Prevent double borders */
+                cursor: pointer;
+              }
+              
+              form.example button:hover {
+                background-color: #000;
+                color: #ffffff;
+                transition: 0.3s ease;
+              }
+
+              .h1tag{
+                  font-size:34px;
+              }
+              @media screen and (max-width: 960px) {
+                form.example button {
+                  width: 20%;
+                }
+              }
+              
+              @media screen and (max-width: 959px) {
+                form.example input[type="text"] {
+                  width: 65%;
+                  margin-left: 8%;
+                }
+              }
+
+              @media screen and (max-width: 559px){
+                  .h1tag{
+                      font-size: 24px;
+                  }
+              }
+        </style>
+        
+    </section>
+    {% endblock %}

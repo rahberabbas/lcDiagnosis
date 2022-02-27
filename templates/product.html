@@ -15,7 +15,11 @@
 
     <section class="lab-search-box">
         <div class="lab-search-box-container">
-            <input id="search-box-lab" type="text" placeholder="Type some text">
+            <form class="example" method="GET" action="{% url 'search' %}">
+                <!-- {% csrf_token %} -->
+                <input type="text" placeholder="Search Test here..." aria-describedby="url" name="q">
+                <button type="submit">Search</button>
+             </form>
         </div>
         <!-- -------------------- -->
         <div class="product-list-box">
@@ -92,7 +96,45 @@
                 background-color: rgb(0,97,185);
                 color: white;
             }
+                form.example input[type="text"] {
+                    padding: 10px;
+                    font-size: 17px;
+                    border: 1px solid grey;
+                    width: 40%;
+                    margin-left: 27%;
+                    background: #f1f1f1;
+                  }
                   
+                  /* Style the submit button */
+                  form.example button {
+                    width: 10%;
+                    padding: 10px;
+                    background-color: red;
+                    color: white;
+                    font-size: 17px;
+                    border: 1px solid grey;
+                    border-left: none; /* Prevent double borders */
+                    cursor: pointer;
+                  }
+                  
+                  form.example button:hover {
+                    background-color: #000;
+                    color: #ffffff;
+                    transition: 0.3s ease;
+                  }
+                  @media screen and (max-width: 960px) {
+                    form.example button {
+                      width: 20%;
+                    }
+                  }
+                  
+                  @media screen and (max-width: 959px) {
+                    form.example input[type="text"] {
+                      width: 65%;
+                      margin-left: 8%;
+                    }
+                  }
+            
         </style>
 
         

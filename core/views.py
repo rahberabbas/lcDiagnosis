@@ -56,6 +56,7 @@ def Import_csv(request):
     return render(request, 'importexcel.html',{})
 
 def products(request):
+   
     items = Item.objects.all()
     paginator = Paginator(items, 100)
     page_number = request.GET.get('page')
@@ -189,3 +190,9 @@ def service(request):
 
 def covid(request):
     return render(request, 'core/covid.html')
+
+def search(request):
+    q = request.GET['q']
+    items = Item.objects.filter(testname__icontains=q)
+    return render(request, 'core/search.html',{
+        'items': items, 'q':q})
