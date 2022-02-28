@@ -58,7 +58,7 @@ def Import_csv(request):
 def products(request):
    
     items = Item.objects.all()
-    paginator = Paginator(items, 100)
+    paginator = Paginator(items, 250)
     page_number = request.GET.get('page')
     page_obj = paginator.get_page(page_number)
     return render(request, 'product.html', {
