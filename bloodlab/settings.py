@@ -25,7 +25,7 @@ TESTING = len(sys.argv) > 1 and sys.argv[1] == 'test'
 SECRET_KEY = 'django-insecure-lwihu*&i%^f(on-4(t5%-e6+*u3t(78j#su6vtgo2qnh2o9^c4'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # ALLOWED_HOSTS = ['157.245.100.92', 'lcdiagnosis.in', 'www.lcdiagnosis.in', '*']
 ALLOWED_HOSTS = []
