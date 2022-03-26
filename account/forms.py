@@ -66,7 +66,7 @@ class UdateUserForm(forms.ModelForm):
 class UpdateProfileForm(forms.ModelForm):
     class Meta:
         model = Profile
-        fields = ('first_name', 'last_name', 'phone_no', 'address', 'age', 'gender', 'blood_group', 'physically_disabled')
+        fields = ('first_name', 'last_name', 'phone_no', 'address', 'age', 'gender', 'physically_disabled')
 
 class LoginForm(forms.Form):
     email = forms.EmailField(max_length=256)

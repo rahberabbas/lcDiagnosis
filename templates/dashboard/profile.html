@@ -13,21 +13,13 @@
                 </div>
                 <hr>
                 {% for po in profile %}
-                {% comment %} <h3>Name: <span>{{po.first_name}} {{po.last_name}}</span></h3>
-                <h3>Phone Number: <span>{{po.phone_no}}</span></h3>
-                <h3>Address: <span>{{po.address}}</span></h3>
-                <h3>Age: <span>{{po.age}}</span></h3>
-                <h3>Physically Disabled: <span>{{po.physically_disabled}}</span></h3>
-                <h3>Gender: <span>{{po.gender}}</span></h3>
-                <h3>Blood Group: <span>{{po.blood_group}}</span></h3> {% endcomment %}
+              
 
                 <div class="white_card_body">
                     <div class="table-responsive">
                         <table class="table">
                             <thead>
-                                {% comment %} <tr>
-                                    <th scope="col" class="text-center"> <h1> Profile Details </h1></th>
-                                </tr> {% endcomment %}
+                               
                             </thead>
                             <tbody>
                                 <tr>
@@ -54,10 +46,7 @@
                                     <td><h3>Gender:</h3></td>
                                     <td><h3>{{po.gender}}</h3></td>
                                 </tr>
-                                <tr>
-                                    <td><h3>Blood Group:</h3></td>
-                                    <td><h3>{{po.blood_group}}</h3></td>
-                                </tr>
+                                
                                 
                             </tbody>
                         </table>

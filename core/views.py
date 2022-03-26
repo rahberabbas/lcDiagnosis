@@ -84,9 +84,10 @@ def add_to_cart(request):
 def show_cart(request):
     if request.user.is_authenticated:
         user = request.user
+        profile = Profile.objects.filter(user=user)
         cart = Cart.objects.filter(user=user)
         amount = 0.0
-        discount_amount = 0.0
+        discount_amount = 0
         total_amount = 0.0
         cart_product = [p for p in Cart.objects.all() if p.user == user]
         # print(cart_product)
@@ -94,7 +95,13 @@ def show_cart(request):
             for p in cart_product:
                 tempamt = int((p.product.price))
                 amount += tempamt
+                if (int(request.user.profile.age) >= int(60)):
+                    discount_amount = (20*amount) / 100
+                else:
+                    discount_amount = 0
                 total_amount = amount - discount_amount
+                
+
             return render(request, 'core/order_summary.html', {'cart': cart, 'total': total_amount, 'disc': discount_amount, 'amount': amount})
         else:
             return render(request, 'core/emptycart.html')
@@ -133,6 +140,10 @@ def checkout(request):
         for p in cart_product:
             tempamt = int((p.product.price))
             amount += tempamt
+            if (int(request.user.profile.age) >= int(60)):
+                discount_amount = (20*amount) / 100
+            else:
+                discount_amount = 0
         total_amount = amount - discount_amount
         print(total_amount)
         razorpay_amount = total_amount * 100

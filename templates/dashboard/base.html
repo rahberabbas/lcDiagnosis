@@ -99,7 +99,11 @@
                         </div>
                         <div class="serach_field-area d-flex align-items-center">
                                 <div class="search_inner">
+                                    {% if request.user.profile.first_name %}
                                     <h3>Hello {{request.user.profile.first_name}} {{request.user.profile.last_name}}</h3>
+                                    {% else %}
+                                    <h3>Hello User</h3>
+                                    {% endif %}
                                 </div>
                             </div>
                         <div class="header_right d-flex justify-content-between align-items-center">

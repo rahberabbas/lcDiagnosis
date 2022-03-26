@@ -24,6 +24,10 @@ html{
     scroll-behavior: smooth;
 }
 
+.sherred{
+    padding: 0rem 15rem;
+}
+
 section{
     padding: 2rem 0;
 }
@@ -32,6 +36,7 @@ section{
 
 .lab-search-box{
     padding: 3rem 0;
+    background-color: #fff;
 }
 
 .lab-search-box-container{
@@ -156,11 +161,12 @@ section{
 }
 
 header{
+    margin: 0 15rem;
     position: fixed;
     top: 0; left: 0; right: 0;
     z-index: 1000;
     background: #fff;
-    padding: 2rem 6%;
+    padding: 2rem 3%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -176,6 +182,10 @@ header .navbar a{
     font-size: 1.7rem;
     color: var(--black);
     margin: 0 1rem;
+}
+
+header .logo img{
+    height: 60px;
 }
 
 header .navbar a:hover{
@@ -352,8 +362,13 @@ header .icons a:hover{
     justify-content: space-between;
 }
 
+.home-about-section{
+    background-color: #fff;
+}
+
 .home-about-section .home-about-container{
     padding: 0rem 4rem;
+   
 }
 
 .home-about-section .home-about-container h1{
@@ -374,6 +389,7 @@ header .icons a:hover{
 
 .about-banner{
     padding-top: 10rem;
+    background-color: #eee;
 }
 
 .about-banner .about-banner-container{
@@ -422,6 +438,7 @@ header .icons a:hover{
 
 .service-banner-1{
     padding-top: 10rem;
+    background-color: #fff;
 }
 
 .service-banner{
@@ -449,6 +466,12 @@ header .icons a:hover{
 
 .service-right-section{
     padding: 4rem 0;
+    background-color: #fff;
+}
+
+.service-right-section-1{
+    padding: 4rem 0;
+    background-color: #eee;
 }
 
 .service-left-section{
@@ -519,11 +542,114 @@ header .icons a:hover{
     align-items: center;
 }
 
+/* APPOINTMENT */
+
+.contact-2{
+    padding-top: 12rem;
+    background-color: #eee;
+}
+
+
+.contactUs-2 .contact-title{
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    font-weight: bolder;
+    color: var(--black);
+}
+
+.contact-box .form{
+    grid-area: form;
+}
+
+
+
+.contact-box-inside{
+    padding: 40px;
+    background: #ffffff;
+    box-shadow: 0 5px 35px rgba(0, 0, 0, 0.15);
+}
+
+.contact-box-inside h3{
+    color: var(--black);
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.formBox{
+    position: relative;
+    width: 100%;
+
+}
+
+.formBox .row50{
+    display: flex;
+    gap: 20px;
+}
+
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 50%;
+}
+
+.formBox .row100 .inputbox{
+    width: 100%;
+}
+
+.inputBox span{
+    color: var(--orange);
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.inputBox input{
+    padding: 10px;
+    font-size: 1.1em;
+    text-transform: none;
+    border: 1px solid var(--black);
+    outline: none;
+}
+
+.inputBox textarea{
+    padding: 10px;
+    font-size: 1.1em;
+    text-transform: none;
+    border: 1px solid var(--black);
+    outline: none;
+    resize: none;
+    min-height: 180px;
+    margin-bottom: 10px;
+}
+
+.inputBox input[type="submit"]{
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: .5rem;
+    border: .2rem solid var(--black);
+    font-weight: bolder;
+    font-size: 1.7rem;
+    color: var(--black);
+    cursor: pointer;
+    background: #fff;
+    padding: .8rem 3rem;
+}
+
+.inputBox input[type="submit"]:hover{
+    background: var(--orange);
+    color: #fff;
+}
+
 
 /* Contact */
 
 .contact{
-    padding: 8rem 0;
+    padding: 0;
 }
 
 .contactUs{
@@ -533,6 +659,7 @@ header .icons a:hover{
 }
 
 .contactUs .contact-title{
+    margin-bottom: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -765,6 +892,7 @@ header .icons a:hover{
 
   .member-section{
       padding: 2rem 5rem;
+      background-color: #fff;
   }
 
   .member-section .member-container h1{
@@ -869,6 +997,12 @@ header .icons a:hover{
 }
 
 @media (max-width:768px){
+    .sherred{
+        padding: 0;
+    }
+    header{
+        margin: 0;
+    }
     .service-banner .service-banner-container{
         padding: 0 4rem;
     }

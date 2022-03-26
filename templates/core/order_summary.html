@@ -31,7 +31,7 @@
                         </div>
                     </td>
                     <td>{{i.product.testcode}}</td>
-                    <td>${{ i.product.price }}</td>
+                    <td>Rs. {{ i.product.price }}</td>
                 </tr>
                 {% endfor %}
                 
@@ -40,15 +40,15 @@
                 <table>
                     <tr>
                         <td>subtotal</td>
-                        <td>$<span id="amount">{{amount}}</span></td>
+                        <td>Rs.<span id="amount">{{amount}}</span></td>
                     </tr>
                     <tr>
                         <td>Discount</td>
-                        <td>${{disc}}</td>
+                        <td>Rs. {{disc}}</td>
                     </tr>
                     <tr>
                         <td>total</td>
-                        <td>$<span id="total">{{total}}</span></td>
+                        <td>Rs. <span id="total">{{total}}</span></td>
                     </tr>
                     <tr>
                         <td><a href="{% url 'checkout' %}" class="btn">Proceed to Checkout</a></td>
