@@ -97,6 +97,8 @@ def show_cart(request):
                 amount += tempamt
                 if (int(request.user.profile.age) >= int(60)):
                     discount_amount = (20*amount) / 100
+                elif (request.user.profile.physically_disabled) == True:
+                    discount_amount = (10*amount) / 100
                 else:
                     discount_amount = 0
                 total_amount = amount - discount_amount
@@ -142,6 +144,8 @@ def checkout(request):
             amount += tempamt
             if (int(request.user.profile.age) >= int(60)):
                 discount_amount = (20*amount) / 100
+            elif (request.user.profile.physically_disabled) == True:
+                discount_amount = (10*amount) / 100
             else:
                 discount_amount = 0
         total_amount = amount - discount_amount
